@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "La Loca",
+        "municipio": "Cerro",
+        "ubicacion":{
+            "lat": 23.07540405820975,
+            "long":-82.35821067834236
+        },
+        "horario": "",
+        "productos":[
+            {
+                "tipo": "granos",
+                "nombre": "frijol negro",
+                "marca": "suchel",
+                "presentacion": "libras",
+                "nacional": true,
+                "precio_cup": 450
+            },
+            {
+                "tipo": "aceites",
+                "nombre": "girasol",
+                "marca":"Diana",
+                "presentacion":"litros",
+                "nacional": true,
+                "precio_cup":950
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": null,
+                "presentacion":"libras",
+                "precio_cup": 500,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "nombre":"habana club",
+                "marca":"Ron Havana Club",
+                "alcoholica": true,
+                "presentacion":"litros",
+                "nacional":true
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false
+
+    },
+    "tasa_cambio":{
+        "USD":450,
+        "MLC":200,
+        "EUR":480
+    },
+    "redes_sociales": ""
+    }
+]
