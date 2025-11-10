@@ -17,6 +17,22 @@
                 "precio_cup": 450
             },
             {
+                "tipo": "granos",
+                "nombre": "frijol negro",
+                "marca": "suchel",
+                "presentacion": "libras",
+                "nacional": true,
+                "precio_cup": 450
+            },
+            {
+                "tipo": "granos",
+                "nombre": "arroz",
+                "marca": "Gallo",
+                "presentacion":"libras",
+                "nacional": false,
+                "precio_cup": 600
+            },
+            {
                 "tipo": "aceites",
                 "nombre": "girasol",
                 "marca":"Diana",
@@ -39,6 +55,14 @@
                 "alcoholica": true,
                 "presentacion":"litros",
                 "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "nombre":"blue label",
+                "marca":"johnny walker",
+                "alcoholica": true,
+                "presentacion":"litros",
+                "nacional":false
             }
         ],
     "metodo_pago": {
