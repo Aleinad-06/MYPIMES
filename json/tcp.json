@@ -1,10 +1,10 @@
 [
     {
-        "nombre": "La Loca",
-        "municipio": "Cerro",
+        "nombre": "eclipce",
+        "municipio": "vedado",
         "ubicacion":{
-            "lat": 23.07540405820975,
-            "long":-82.35821067834236
+            "lat": 23.1197909,
+            "long":-82.4506103
         },
         "horario": "",
         "productos":[
@@ -19,7 +19,7 @@
             {
                 "tipo": "granos",
                 "nombre": "frijol negro",
-                "marca": "suchel",
+                "marca": "mariano",
                 "presentacion": "libras",
                 "nacional": true,
                 "precio_cup": 450
@@ -69,7 +69,7 @@
 
         "USD": true,
         "CUP": true,
-        "MLC": false
+        "MLC": true
 
     },
     "tasa_cambio":{
@@ -77,6 +77,6 @@
         "MLC":200,
         "EUR":480
     },
-    "redes_sociales": false
+    "redes_sociales": true
     }
 ]

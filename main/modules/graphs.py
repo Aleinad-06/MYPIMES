@@ -13,3 +13,4 @@ def porciento(parte, total):
 #         if marcas[marc] == "":
         
 
+

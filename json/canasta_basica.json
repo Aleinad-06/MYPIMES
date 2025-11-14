@@ -1,0 +1,30 @@
+{
+    "canasta_basica": {
+        "alimentos": {
+            "arroz_nacional": 2.5,
+            "arroz_importado(15%particulas)": 3.0,
+            "arroz_importado(4%particulas)": 3.2,
+            "frijoles_negros_nacionales": 1.8,
+            "frijol_imoportado": 1.4,
+            "frijoles_colorados_nacionales": 5.2,
+            "aceite_vegetal": 1.8,
+            "aceite_vegetal_soya": 2.3,
+            "azucar_refino": 5.8,
+            "azucar_crudo": 2.3,
+            "cafe_mezclado": 4.1,
+            "sal_comun": 1.2,
+            "fideos": 7.8,
+            "leche": 0.25,
+            "leche_polvo": 2.5,
+            "pan": 1.2,
+            "keroseno": 2.0,
+            "alcohol":5.2
+        },
+        "productos_de_limpieza": {
+            "jabón": 0.5,
+            "jabón_de_baño":2.7,
+            "detergente": 1.0,
+            "pasta_de_dientes": 1.2
+        }
+    }
+}
