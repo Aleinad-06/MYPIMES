@@ -19,7 +19,7 @@
             {
                 "tipo": "granos",
                 "nombre": "frijol negro",
-                "marca": "suchel",
+                "marca": "arre",
                 "presentacion": "libras",
                 "nacional": true,
                 "precio_cup": 450
@@ -50,18 +50,32 @@
             },
             {
                 "tipo": "bebida",
+                "categoria": "ron",
                 "nombre":"habana club",
                 "marca":"Ron Havana Club",
                 "alcoholica": true,
                 "presentacion":"litros",
+                "precio_cup": 2500,
                 "nacional":true
             },
             {
                 "tipo": "bebida",
+                "categoria": "wisky",
                 "nombre":"blue label",
                 "marca":"johnny walker",
                 "alcoholica": true,
                 "presentacion":"litros",
+                "precio_cup": 200,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"cristal",
+                "marca":"cristal",
+                "alcoholica": true,
+                "presentacion":"litros",
+                "precio_cup": 500,
                 "nacional":false
             }
         ],
@@ -73,9 +87,9 @@
 
     },
     "tasa_cambio":{
-        "USD":450,
-        "MLC":200,
-        "EUR":480
+        "USD":465,
+        "MLC":210,
+        "EUR":500
     },
     "redes_sociales": false
     }
