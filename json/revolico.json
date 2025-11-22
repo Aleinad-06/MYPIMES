@@ -1,10 +1,10 @@
 [
     {
-        "nombre": "eclipce",
-        "municipio": "vedado",
+        "nombre": "Mercadito Dijital",
+        "municipio": "Arroyo Naranjo",
         "ubicacion":{
-            "lat": 23.1197909,
-            "long":-82.4506103
+            "lat": 0,
+            "long":-0
         },
         "horario": "",
         "productos":[

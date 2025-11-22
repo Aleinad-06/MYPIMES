@@ -1,0 +1,402 @@
+[
+    {
+        "nombre": "Pasta de Tomate Vima 400g mer#digital",
+        "precio": 670
+    },
+    {
+        "nombre": "Pasta de Tomate Castellum 340g mer#digital",
+        "precio": 500
+    },
+    {
+        "nombre": "Pasta cik 25g mer#digital",
+        "precio": 100
+    },
+    {
+        "nombre": "Pasta Bocadito Aldaketa 465ml mer#digital",
+        "precio": 1950
+    },
+    {
+        "nombre": "Paquete surtido de caramelos ALGODAO (105u) mer#digital",
+        "precio": 980
+    },
+    {
+        "nombre": "Paquete de Papel Sanitario Acacia (12 rollos) mer#digital",
+        "precio": 1560
+    },
+    {
+        "nombre": "Papitas Ruffles 28.3g mer#digital",
+        "precio": 300
+    },
+    {
+        "nombre": "Papel Sanitario Acacia (1rollo) mer#digital",
+        "precio": 130
+    },
+    {
+        "nombre": "Papas Cebolla 28g mer#digital",
+        "precio": 300
+    },
+    {
+        "nombre": "Panque Schoco Cake con Chocolate mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Panque Osito de Vainilla Relleno Chocolate mer#digital",
+        "precio": 160
+    },
+    {
+        "nombre": "Panque Osito Cake 40g mer#digital",
+        "precio": 160
+    },
+    {
+        "nombre": "Panque Chocolate Miele Relleno Frutos secos mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Panque Chocolate Miele relleno Fresa mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Panque Chocolate Miele relleno caramelo mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Pan Rallado Onena 250g mer#digital",
+        "precio": 600
+    },
+    {
+        "nombre": "Pan Rallado 500gr mer#digital",
+        "precio": 730
+    },
+    {
+        "nombre": "Paleta Pirulitos ALGODAO 10g (1 unidad del paquete) mer#digital",
+        "precio": 30
+    },
+    {
+        "nombre": "Nutella Bifarella 300g mer#digital",
+        "precio": 900
+    },
+    {
+        "nombre": "Máquina de Afeitar 5u Mujer mer#digital",
+        "precio": 780
+    },
+    {
+        "nombre": "Máquina de Afeitar 5u Hombre mer#digital",
+        "precio": 780
+    },
+    {
+        "nombre": "Mostaza Aldaketa (300 g / 10.58 oz) mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Mortadella Seara 500g mer#digital",
+        "precio": 580
+    },
+    {
+        "nombre": "Mojo Criollo. mer#digital",
+        "precio": 330
+    },
+    {
+        "nombre": "Miel 500g mer#digital",
+        "precio": 680
+    },
+    {
+        "nombre": "Mayonesa Mulata Bonita 250ml mer#digital",
+        "precio": 600
+    },
+    {
+        "nombre": "Mantequilla POMPA 200g mer#digital",
+        "precio": 400
+    },
+    {
+        "nombre": "Malta Guajira 330ml mer#digital",
+        "precio": 270
+    },
+    {
+        "nombre": "Loción Corporal de Coco 300ml mer#digital",
+        "precio": 1200
+    },
+    {
+        "nombre": "Lenteja De Campo 1lb mer#digital",
+        "precio": 680
+    },
+    {
+        "nombre": "Leche Entera Asturiana 1L mer#digital",
+        "precio": 1100
+    },
+    {
+        "nombre": "Leche Condensada La Granjera 390g mer#digital",
+        "precio": 570
+    },
+    {
+        "nombre": "Jugo D'Cancio Naranja 1L mer#digital",
+        "precio": 700
+    },
+    {
+        "nombre": "Jugo D'Cancio Mango 1L mer#digital",
+        "precio": 700
+    },
+    {
+        "nombre": "Jabón de Multiusos Jumbo 170g mer#digital",
+        "precio": 250
+    },
+    {
+        "nombre": "Jabón de Lavar 410g mer#digital",
+        "precio": 500
+    },
+    {
+        "nombre": "Hígado de pollo Lar 1kg mer#digital",
+        "precio": 900
+    },
+    {
+        "nombre": "Helado Xtasis Tropical con Agrego 500ml mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Helado Xtasis Tropical 1lt con Agrego mer#digital",
+        "precio": 1100
+    },
+    {
+        "nombre": "Harina Moara de Familie 1kg mer#digital",
+        "precio": 600
+    },
+    {
+        "nombre": "Hamburguesa Mulata Bonita 500g mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Gomitas Plátano 20g mer#digital",
+        "precio": 120
+    },
+    {
+        "nombre": "Gomitas de Ositos 20g mer#digital",
+        "precio": 120
+    },
+    {
+        "nombre": "Gomitas Culebritas 20g mer#digital",
+        "precio": 120
+    },
+    {
+        "nombre": "Gomitas Corazones 20g mer#digital",
+        "precio": 120
+    },
+    {
+        "nombre": "Gelatina Nutrimeals Sabor Piña 120g mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Gelatina Nutrimeals Sabor Naranja 120g mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Gelatina Nutrimeals Sabor Fresa 120g mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Gelatina Nutrimeals Sabor Durazno 120g mer#digital",
+        "precio": 650
+    },
+    {
+        "nombre": "Gel de Baño Confortime 400ml mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Galletas Samyeli 190g mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Galletas L'Amore Fresa mer#digital",
+        "precio": 370
+    },
+    {
+        "nombre": "Friegasuelos 1L Caro y Cami mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Freegells Menta mer#digital",
+        "precio": 90
+    },
+    {
+        "nombre": "Freegells Eucalipto mer#digital",
+        "precio": 90
+    },
+    {
+        "nombre": "Frazada de Piso mer#digital",
+        "precio": 250
+    },
+    {
+        "nombre": "Esponja de Fregar mer#digital",
+        "precio": 120
+    },
+    {
+        "nombre": "Energizante Twist 250ml mer#digital",
+        "precio": 230
+    },
+    {
+        "nombre": "Donut Cereza Brawo 40g mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Donut Cacao Brawo 40g mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Detergente de Lavar 1L Caro y Cami mer#digital",
+        "precio": 360
+    },
+    {
+        "nombre": "Detergente de Fregar 1L Caro y Cami mer#digital",
+        "precio": 360
+    },
+    {
+        "nombre": "Desodorante Speed Stick Regular 51g mer#digital",
+        "precio": 1300
+    },
+    {
+        "nombre": "Desodorante Speed Stick Power of Nature 51g mer#digital",
+        "precio": 1300
+    },
+    {
+        "nombre": "Desodorante Speed Stick Fresh 51g mer#digital",
+        "precio": 1300
+    },
+    {
+        "nombre": "Desincrustante 1L Caro y Cami mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Cóctel de Frutas en Almíbar Vima 425g mer#digital",
+        "precio": 750
+    },
+    {
+        "nombre": "Croquetas de queso mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Chicharo verde Penelas 500g mer#digital",
+        "precio": 1000
+    },
+    {
+        "nombre": "Champú Confortime 400ml mer#digital",
+        "precio": 900
+    },
+    {
+        "nombre": "Champú Confortime 1000ml mer#digital",
+        "precio": 1600
+    },
+    {
+        "nombre": "Cepillo de Dientes Medio Royal Fresh mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Cepillo de Dientes Duro Macizo Royal Fresh mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Caja Jugo Badelli 200ml Piña mer#digital",
+        "precio": 170
+    },
+    {
+        "nombre": "Caja de Preservativos (3u) mer#digital",
+        "precio": 100
+    },
+    {
+        "nombre": "Blíster Cerveza Parranda 500ml (6 unidades) mer#digital",
+        "precio": 1500
+    },
+    {
+        "nombre": "Blanqueador Blanco Sol 1L Caro y Cami mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Ambientador Friega Suelos Mata Bicho 1L Caro y Cami mer#digital",
+        "precio": 350
+    },
+    {
+        "nombre": "Ambientador 1L Pino Caro y Cami mer#digital",
+        "precio": 340
+    },
+    {
+        "nombre": "Ambientador 1L Manzana Caro y Cami mer#digital",
+        "precio": 340
+    },
+    {
+        "nombre": "Ambientador 1L Lavanda Caro y Cami mer#digital",
+        "precio": 340
+    },
+    {
+        "nombre": "Ambientador 1L Floral Caro y Cami mer#digital",
+        "precio": 340
+    },
+    {
+        "nombre": "Acondicionador Hydra Sensation for color Treated Hair 355ml (rosado) mer#digital",
+        "precio": 1050
+    },
+    {
+        "nombre": "Acondicionador Hydra Sensación Nourishing & Fortifying 355ml (verde) mer#digital",
+        "precio": 1050
+    },
+    {
+        "nombre": "Acondicionador Argenta Áloe 400ml mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Acondicionador Argenta Miel 400ml mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Acondicionador Argenta Coco 400ml mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Melocotón en Almíbar Vima 425g mer#digital",
+        "precio": 750
+    },
+    {
+        "nombre": "Ketchup Aldaketa 300g mer#digital",
+        "precio": 800
+    },
+    {
+        "nombre": "Galletas Kremali de Vainilla Relleno Vainilla mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Galletas Kremali de Chocolate relleno vainilla mer#digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Acondicionador Sin Sal de Aceite Argán 500ml mer#digital",
+        "precio": 1150
+    },
+    {
+        "nombre": "Acondicionador Hydra Sensation for Dry Hair 355ml (azul) mer#digital",
+        "precio": 1050
+    },
+    {
+        "nombre": "Aceite de Cocina Ada 1L WEB mer#digital",
+        "precio": 1200
+    },
+    {
+        "nombre": "Harina Moara de Familie 1kg Mercadito - Digital",
+        "precio": 600
+    },
+    {
+        "nombre": "Garbanzo Don José 500g Mercadito - Digital",
+        "precio": 560
+    },
+    {
+        "nombre": "Galletas Saltibicks 7 tacos (1u de las 7 qué trae) Mercadito - Digital",
+        "precio": 150
+    },
+    {
+        "nombre": "Galletas L'amore Vainilla Mercadito - Digital",
+        "precio": 370
+    },
+    {
+        "nombre": "Galletas L'Amore Fresa Mercadito - Digital",
+        "precio": 370
+    },
+    {
+        "nombre": "Galleta María (1paquetico x200g) Mercadito - Digital",
+        "precio": 450
+    }
+]
