@@ -12,7 +12,7 @@
                 "tipo": "granos",
                 "nombre": "frijol negro",
                 "marca": "suchel",
-                "presentacion": "libras",
+                "presentacion": "lb",
                 "nacional": true,
                 "precio_cup": 450
             },
@@ -20,15 +20,15 @@
                 "tipo": "granos",
                 "nombre": "frijol negro",
                 "marca": "arre",
-                "presentacion": "libras",
+                "presentacion": "kg",
                 "nacional": true,
-                "precio_cup": 450
+                "precio_cup": 900
             },
             {
                 "tipo": "granos",
                 "nombre": "arroz",
                 "marca": "Gallo",
-                "presentacion":"libras",
+                "presentacion":"lb",
                 "nacional": false,
                 "precio_cup": 600
             },
@@ -44,7 +44,7 @@
                 "tipo": "carnes",
                 "nombre": "pollo",
                 "marca": null,
-                "presentacion":"libras",
+                "presentacion":"lb",
                 "precio_cup": 500,
                 "nacional":true
             },

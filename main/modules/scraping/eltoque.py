@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def main():
+def eltoque_scraper():
     url = "https://eltoque.com"
     
     sesion = requests.Session()
@@ -25,10 +25,11 @@ def main():
             converted_price_usd = float(price_usd.text.split(" ")[0])  
             converted_price_mlc = float(price_mlc.text.split(" ")[0])       
             
-            print(f"EUR: {converted_price_eur}, USD: {converted_price_usd}, MLC: {converted_price_mlc}")
-    
+            
+        return print(f"EUR: {converted_price_eur}, USD: {converted_price_usd}, MLC: {converted_price_mlc}")
+            
     except Exception as e:
         print(e)
 
 if __name__ == "__main__":
-    main()
+    eltoque_scraper()
