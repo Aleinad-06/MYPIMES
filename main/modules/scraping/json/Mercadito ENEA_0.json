@@ -1,0 +1,194 @@
+[
+    {
+        "nombre": "Mercadito ENEA",
+        "municipio": "Arroyo Naranjo",
+        "ubicacion":{
+            "lat": 23.0664711,
+            "long":-82.3782511
+        },
+        "horario": "8:30 AM / 9:30 PM",
+        "productos":[
+            {
+        "nombre": "Higado de pollo 1 kg",
+        "presentacion": "Paquetes 1 kg",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Picadillo de pollo (americano)",
+        "presentacion": "Venta por libra. Picadillo americano (rojo)",
+        "precio": 320.0
+    },
+    {
+        "nombre": "Pechuga de pollo 2 kg",
+        "presentacion": "Paquetes de 2 kg ",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Lomo natural deshuesado ",
+        "presentacion": "Venta por piezas, la libra a 1100$. Oscilan entre 7 a 12 lbs. Siempre pregunte.",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Mortadella 1 kg (brasileña) de pollo",
+        "presentacion": "...",
+        "precio": 1150.0
+    },
+    {
+        "nombre": "Salchichas de pollo 340g",
+        "presentacion": "10 unidades",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Leche condensada",
+        "presentacion": "Abre fácil ",
+        "precio": 530.0
+    },
+    {
+        "nombre": "Leche entera a granel 1 kg",
+        "presentacion": "No es mezcla, no es azucarada. Origen nueva zelanda",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Maiz dulce 8 oz",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Coditos 500g",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Arroz san diego 1 kg",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Aceite de girasol 1 lt",
+        "presentacion": "...",
+        "precio": 990.0
+    },
+    {
+        "nombre": "Vinagre de vino blanco 1 litro",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Vinagre de vino tinto 1 litro",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Espaguetis 500 g",
+        "presentacion": "...",
+        "precio": 320.0
+    },
+    {
+        "nombre": "Azúcar cristal blanca 1 kg",
+        "presentacion": "...",
+        "precio": 680.0
+    },
+    {
+        "nombre": "Frijol negro 1 kg",
+        "presentacion": "...",
+        "precio": 950.0
+    },
+    {
+        "nombre": "Arroz 1 kg brasileño ",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Pasta de tomate Zer 400 g",
+        "presentacion": "...",
+        "precio": 530.0
+    },
+    {
+        "nombre": "Jabón de baño violeta",
+        "presentacion": "Peso 100 g",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Jabón de baño rosas",
+        "presentacion": "100 g",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Jabón de leche y miel",
+        "presentacion": "100 g",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Jabón de limón ",
+        "presentacion": "100 g",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Friegasuelo 1 litro",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Detergente Friegasuelos: Producto usado para la limpieza de superficies, aportando brillo al piso, eliminando cualquier suciedad y dejando una agradable fragancia en el ambiente.",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Desincrustante para baños 1 litro",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Desincrustante Para Baños: Excelente para la limpieza del baño y azulejos, elimina con facilidad la suciedad acumulada, y el sarro de complejidad media. Ideal para dejar tu baño reluciente. Usar guantes y nasobuco. No mezclar con ningún otro producto químico.",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Lejía de cloro 1 litro",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Lejía de Cloro Extra Fuerte: Un producto ideal para limpiezas profundas, contiene en su formulación un cloro potenciado que hará de su uso una verdadera experiencia de limpieza. Se recomienda usar guantes y nasobuco. No mezclar con ningún otro producto químico.",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Detergente de fregar 1 litro ",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Detergente de Fregar: Ideal para el fregado de las vajillas, con con un gran porcentaje de Tensioactivos que permiten que tus vajillas queden limpias, relucientes y sin grasas.",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Detergente de lavar 1 litro ",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Descubre la excelencia de la limpieza con nuestro Detergente de Lavar: Limpia profundamente los tejidos, se disolve con facilidad, cuida y reaviva los colores, posee facilidad de enjuague",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Detergente blanqueador de ropa 1 litro ",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: Detergente Blanqueador: Un detergente diseñado para blanquear tus prendas y hacer que recuperen su blancor y resplandor original. Puede ser usado en el lavado de prendas de color, no contiene cloro; en prendas de color revive los colores. Además puede usarse en la limpieza de superficies, por su poder desinfectante y Blanqueador. Es capaz de remover pequeñas manchas según su naturaleza",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Detergente desinfectante Pinoaroma",
+        "presentacion": "1 litro\nDetergente Pinaroma: Es un Detergente que gracias a sus componentes de Tensioactivos y el aceite de Pino lo convierte en un Desinfectante y limpiador por excelencia.",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Suavizante de telas (selva verde) 1 litro",
+        "presentacion": "Selva verde. ",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Mascarilla capilar coco",
+        "presentacion": "Peso neto: 950g / 35.5 OZ\nPaís fabricante: Panamá\n\nPropiedades del Producto:\n•  Es una mascarilla capilar.\n•  Nutre profundamente el cabello.\n\n Uso:\n•  Diseñada para nutrir, reparar y mejorar la apariencia y salud del cabello.\n•  Beneficiosa para mantener las hebras tratadas por más tiempo, lo que sugiere que puede ser útil después de procesos químicos o térmicos en el cabello.\n•  Su fórmula con aceite de coco promueve la nutrición, soltura, emoliencia y suavidad del cabello.\n\nModo de Empleo:\n• Aplicar sobre el cabello limpio y ligeramente húmedo.\n• Aplicar uniformemente una cantidad suficiente a lo largo de todo el cabello, mechón por mechón.\n• Dar masaje de raíz a puntas.\n• Dejar actuar durante 20 minutos.\n• Enjuagar eliminando el exceso de producto.\n• Realizar un pre-cepillado, plancha y terminar como se desee.\n\nBeneficios adicionales:\n•  Aporta emoliencia.\n•  Aporta soltura.\n•  Aporta suavidad.\n•  Repara y nutre las hebras mediante la asociación de Aceite de Coco.\n•  Mantiene las hebras tratadas por más tiempo.\n\nPrecauciones:\n•  Solo para uso externo.\n•  Mantener fuera del alcance de los niños.\n•  En caso de contacto con los ojos, enjuagar abundantemente con agua.\n•  Si hay irritación, suspender su uso y buscar atención médica.\n•  No ingerir.\n•  Evitar la exposición del producto a la luz y al calor intenso. ",
+        "precio": 2600.0
+    },
+    {
+        "nombre": "Esponjas de fregar",
+        "presentacion": "Con fibra verde",
+        "precio": 80.0
+    },
+    {
+        "nombre": "Ambientador de uva",
+        "presentacion": "🧴DESCRIPCION DEL PRODUCTO: El Ambientador uva Mister Damian, es una fragancia dulce, cítrica y tropical de las mas gustadas por nuestros clientes",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Gel de baño  Eternity (250 ml)",
+        "presentacion": "Edición limitada para día del maestro",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Colonia de violetas (250 ml)",
+        "presentacion": "Edición limitada para dia del maestro",
+        "precio": 850.0
+    }
+        ]
+    }
+    
+]

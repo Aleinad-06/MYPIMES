@@ -83,10 +83,10 @@ def calcular_inflacion_real(productos_mypimes, productos_canasta):
     
     for mypimes in productos_mypimes:
         
-        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "frijol negro" and mypimes["presentacion"] == "lb":
+        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "frijol negro" and mypimes["presentacion"] == "kg":
             precio_frijol_mypimes = mypimes["precio_cup"]
             
-        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "arroz" and mypimes["presentacion"] == "lb":
+        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "arroz" and mypimes["presentacion"] == "kg":
             precio_arroz_mypimes = mypimes["precio_cup"]
             
         if mypimes["tipo"] == "aceites":

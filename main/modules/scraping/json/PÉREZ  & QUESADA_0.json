@@ -1,0 +1,244 @@
+[
+    {
+        "nombre": "Perez & Quesada",
+        "municipio": "Habana del Este",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+                
+    {
+        "nombre": "Crema para Café",
+        "presentacion": "$ 700 / unidad 200g\n$ 28.000 / paca 40 unidades",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Chocolate",
+        "presentacion": "$ 700 / unidad 200g\n$ 28.000 / paca 40 unidades",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Leche en Polvo La Lela",
+        "presentacion": "$ 1.800 / unidad 1Kg\n$ 18.000 / paca 10 unidades",
+        "precio": 18000.0
+    },
+    {
+        "nombre": "Leche Evaporada",
+        "presentacion": "$ 520 / unidad 12 oz\n$ 12.480 / caja 24 unidades",
+        "precio": 520.0
+    },
+    {
+        "nombre": "Leche condensada Nezka",
+        "presentacion": "$ 420 / unidad 380g\n$ 10.080 / caja \nCaja = 24 unidades",
+        "precio": 420.0
+    },
+    {
+        "nombre": "Spagettis",
+        "presentacion": "$ 240 / unidad 500g $ 4.800 / caja 20 unidades",
+        "precio": 240.0
+    },
+    {
+        "nombre": "JUGO WELL",
+        "presentacion": "SABORES: Piña, NARANJA\n$ 160 / unidad 200 ml\n$ 4.320 / caja 27 unidades\nCaja = 27 unidades",
+        "precio": 160.0
+    },
+    {
+        "nombre": "Jugo Well Manzana",
+        "presentacion": "$ 160 / unidad 200 ml\n$ 4.320 / caja\nCaja = 27 unidades\nSabores: Manzana",
+        "precio": 160.0
+    },
+    {
+        "nombre": "Whisky Black Spirit ",
+        "presentacion": "$ 1.200 / unidad 1L\n$ 7.200 / caja 6 unidades",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Johnnie Walker Red",
+        "presentacion": "$ 6.000 / unidad\n$ 72.000 / caja 12 unidades",
+        "precio": 6000.0
+    },
+    {
+        "nombre": "Milner Chic",
+        "presentacion": "$ 550 / unidad 270 mL\n$ 13.200 / caja 24 unidades\nSabores: Screwdriver, Piña Colada, Negroni y Whisky Cola",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Petacas Ron Gran Caribe ",
+        "presentacion": "$ 290 / unidad 375mL \n$ 6.960 / caja 24 unidades ",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Ron Avila",
+        "presentacion": "$ 450 / unidad 700ml\n$ 5.400 / blister 12 unidades ",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Whisky Blue Spirit",
+        "presentacion": "$ 1.250 / unidad 1L\n$ 7.500 / caja 6 unidades",
+        "precio": 1250.0
+    },
+    {
+        "nombre": "MILNER BOTELLA",
+        "presentacion": "$ 1.550 / botella 750mL\n$18.600 / caja 12 unidades\nVodka - Whisky ",
+        "precio": 1550.0
+    },
+    {
+        "nombre": "PETACA TEQUILILLA CAZAFIESTAS",
+        "presentacion": "$ 600 / UNIDAD 375mL\n$ 14.400 / CAJA 24 U",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Petaca Whisky Milner",
+        "presentacion": "$ 620 / unidad 375 ml\n$ 14.880 / caja\nCaja = 24 unidades\n40% Alcohol ",
+        "precio": 620.0
+    },
+    {
+        "nombre": "Petaca Vodka Milner",
+        "presentacion": "$ 620 / unidad 375 ml\n$ 14.880 / caja\nCaja = 24 unidades",
+        "precio": 620.0
+    },
+    {
+        "nombre": "Lavaplatos Peros ",
+        "presentacion": "$ 700 / unidad 500ml \n$ 16.800 / caja 24 unidades",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Suavizantes",
+        "presentacion": "$ 1.050 / unidad 1.5L\n$ 12.600 / caja 12 unidades",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Detergente Líquido ",
+        "presentacion": "$ 1.050 / unidad 1.5L\n$ 12.600 / caja 12 unidades",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Detergente Polvo SEF",
+        "presentacion": "$ 4.800 / unidad 9kg\n$ 9.600 / paca 2 unidades",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Detergente Polvo SEF ",
+        "presentacion": "$ 270 / unidad 450g\n$ 6.480 / paca 24 unidades",
+        "precio": 270.0
+    },
+    {
+        "nombre": "Detergente Polvo SEF ",
+        "presentacion": "$ 780 / unidad 1.5 Kg\n$ 7.800 / paca 10 unidades",
+        "precio": 780.0
+    },
+    {
+        "nombre": "Detergente Polvo SEF ",
+        "presentacion": "$ 2.500 / unidad 4.5kg\n$ 10.000 / paca 4 unidades",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Blanqueador Peros ",
+        "presentacion": "$ 800 / unidad 900ml\n$ 9.600 / caja 12 unidades ",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Blanqueador Peros ",
+        "presentacion": "$ 1.200 / unidad 2.5L\n$ 7.200 / caja 6 unidades ",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Suavizante Ropa Peros",
+        "presentacion": "$ 2.000 / unidad 3L\n$ 8.000 / caja 4 unidades",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Detergente en Pasta Dexter 235g",
+        "presentacion": "$ 500 / unidad 235g\n$ 18.000 / caja\nCaja = 36 unidades\nLimón y Rosa",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Refresco Pomo Mate",
+        "presentacion": "$ 580 / unidad 1.5L\n$ 3.480 / blister 6 unidades",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Refresco Pomo Limón",
+        "presentacion": "$ 580 / unidad 1.5l\n$ 3.480 / blister 6 unidades",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Refresco Pomo Naranja",
+        "presentacion": "$ 580 / unidad 1.5l\n$ 3.480 / blister 6 unidades",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Malta",
+        "presentacion": "$ 225 / unidad 330ml\n$ 5.400 / caja 24 unidades",
+        "precio": 225.0
+    },
+    {
+        "nombre": "Refresco DelSol",
+        "presentacion": "$190 / unidad 330ml \n$ 4.560 / caja 24 unidades",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Refresco DelSol",
+        "presentacion": "$200/ unidad 330ml \n$ 4.800 / caja 24 unidades",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Agua Mineral 500ml",
+        "presentacion": "$ 75 / unidad 500 ml\n$ 900 / blister 12 unidades",
+        "precio": 75.0
+    },
+    {
+        "nombre": "Refresco Brizo",
+        "presentacion": "Cola\n$190 / unidad \n$ 4.560 / caja 24 unidades ",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Refresco Luminy",
+        "presentacion": "$ 20 / Cola\n\n$ 25/ Naranja, Durazno, Manzana, Piña, Coctel, Coco.\n\n$ 25 / Cajas Mixtas [Naranja 10, Piña 3, Limón 1, Durazno 2, Coco 2, Coctel2, Manzana 2, Guayaba 1, Uva 1]\n$ 26 / pago en transferencia \n$ 22 / por mas de 200 cajas\nunidad rinde 1.5L\nCaja = 24 paquetes \nPaquete = 24 unidades\nCaja = 576 unidades ",
+        "precio": 25.0
+    },
+    {
+        "nombre": "Aceite Hysa",
+        "presentacion": "$ 1000 / unidad 1L $ 12.000 / caja Caja = 12 unidades",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Mantequilla",
+        "presentacion": "$ 290 / unidad\n$ 6.960 / caja 24 unidades",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Frijoles Negros",
+        "presentacion": "$ 730 / unidad 1Kg\n$ 7.300 / caja 10 unidades",
+        "precio": 730.0
+    },
+    {
+        "nombre": "Azúcar Energy",
+        "presentacion": "$575 / unidad 1Kg\n$ 5.750 / paca 10 unidades",
+        "precio": 575.0
+    },
+    {
+        "nombre": "Frijoles Negros",
+        "presentacion": "$ 36.000 / saco 50kg\n$ 720 / kg",
+        "precio": 36000.0
+    },
+    {
+        "nombre": "Picadillo Pollo MDM",
+        "presentacion": "$ 280/ Libra\n$ 13.580/ caja 22kg",
+        "precio": 13580.0
+    },
+    {
+        "nombre": "Azúcar Energy 50kg",
+        "presentacion": "Saco = 50 Kg\n$ 27.000 / saco",
+        "precio": 27000.0
+    },
+    {
+        "nombre": "Nutela",
+        "presentacion": "$ 640 / pomo 350g\n$ 7.680 / caja\nCaja = 12 pomos\n",
+        "precio": 640.0
+    }
+        ]
+    }
+]

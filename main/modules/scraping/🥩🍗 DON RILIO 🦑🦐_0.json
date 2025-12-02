@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Higado de pollo",
+        "presentacion": "Higado de pollo Seara 1kg",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Perrito 340g",
+        "presentacion": "Perrito Seara 340g",
+        "precio": 470.0
+    },
+    {
+        "nombre": "Perrito 340g",
+        "presentacion": "Perrito Oderich 340g",
+        "precio": 470.0
+    },
+    {
+        "nombre": "Mortadela ( jamonada)",
+        "presentacion": "Mortadela seara 500g",
+        "precio": 620.0
+    },
+    {
+        "nombre": "Perrito 3kg",
+        "presentacion": "Perrito GuiBon 3kg, dd 57 a 60 unidades ",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Pechuga de pollo con hueso 40 lb",
+        "presentacion": "Cajs de Pechuga con hueso 40 lb",
+        "precio": 20000.0
+    },
+    {
+        "nombre": "Pechuga de pollo 2kg",
+        "presentacion": "Paquete de Pechuga de pollo Seara limpia 2kg ",
+        "precio": 5000.0
+    },
+    {
+        "nombre": "Chorizo 500g",
+        "presentacion": "Chorizo de pollo 500g",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Jamón de Pechuga de pollo ",
+        "presentacion": "Jamon de pechuaga de pollo 500g ",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Jamón de Pechuga de Pollo y aceituna",
+        "presentacion": "Jamon de pechuga y aceituna 500g",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Lomo ahumado",
+        "presentacion": "Lomo ahumado x lb, empaquetado de 1kg aproximadamente ",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Bistec de cerdo 2lb",
+        "presentacion": "Bistec de cerdo en bandeja ",
+        "precio": 3100.0
+    },
+    {
+        "nombre": "Carnero troceado 2lb",
+        "presentacion": "Carnero troceado con hueso 2lb",
+        "precio": 2600.0
+    },
+    {
+        "nombre": "✅️ Pollo 40lb muslo: 16000 cup",
+        "presentacion": "...",
+        "precio": 16000.0
+    },
+    {
+        "nombre": "✅️Hígado de pollo 1kg: 850 cup",
+        "presentacion": "...",
+        "precio": 850.0
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "nombre": "La Nave Mercado",
+        "municipio": "Habana del Este",
+        "ubicacion":{
+            "lat": 23.154121,
+            "long":-82.331866
+        },
+        "horario": "Lunes a sábado 9:00 am -8:00 pm / Domingo 9:00am - 7:00pm",
+        "productos":[
+            {
+        "nombre": "Hamburguesas Romero Rey (5u)",
+        "presentacion": "Deliciosas Hamburguesas listas para frier y degustar (5 u)",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Pargo por libras",
+        "presentacion": "Pargo diferentes tamaños por peso 600 cup x libra",
+        "precio": 670.0
+    },
+    {
+        "nombre": "Pechuga de pollo Levo 2Kg",
+        "presentacion": "Pechuga de pollo Levo 2Kg",
+        "precio": 5600.0
+    },
+    {
+        "nombre": "Pez Perro Lb ",
+        "presentacion": "Pez Perro por Libras ",
+        "precio": 670.0
+    },
+    {
+        "nombre": "Huevos criollos importado (30 u)",
+        "presentacion": "Huevos criollos importado (30 u)",
+        "precio": 3300.0
+    },
+    {
+        "nombre": "Papas Prefritas 1kg",
+        "presentacion": "Papas Prefritas 1kg",
+        "precio": 1750.0
+    },
+    {
+        "nombre": "Lomo de cerdo deshuesado x lb",
+        "presentacion": "Ingredientes: carne de cerdo deshuesada.Sin ingredientes artificiales, mínimamente procesado, mantener refrigerado.\nPaís de origen: Estados Unidos",
+        "precio": 1250.0
+    },
+    {
+        "nombre": "Hígado de pollo  Sadia (1 kg / 2.20 lb)",
+        "presentacion": "Ingredientes: Hígado de pollo desmenuzado.\nConsumir preferiblemente antes de 365 días. \nPaís de origen: Brasil.",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Bolsa de harina agranel (1kg)",
+        "presentacion": "Harina agranel.",
+        "precio": 480.0
+    },
+    {
+        "nombre": "Levadura seca Instantánea Angel (500 g/ 1.10 lb)",
+        "presentacion": "Ingredientes: Levadura(Saccharomyces cerevisiae), emulsionante: monoestearato de sorbitán (E491), antioxidante, ácido ascórbico (E300)´. Origen: China",
+        "precio": 1950.0
+    },
+    {
+        "nombre": "Espaguetis Fortificados Zonia 500 g",
+        "presentacion": "Contenido: Pasta de alta calidad, enriquecida con vitaminas B1, B2, B3, Hierro y Ácido fólico.",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Garbanzos Del Campo (454 g / 1 lb)",
+        "presentacion": "Ingredientes: Garbanzos\nPaís de origen: Estados Unidos",
+        "precio": 720.0
+    },
+    {
+        "nombre": "Frijoles negros Del Campo (454 g / 1 lb)",
+        "presentacion": "Descripción:\nIngredientes: Frijoles negros",
+        "precio": 730.0
+    },
+    {
+        "nombre": "Lentejas Del Campo (454 g / 1 lb)",
+        "presentacion": "Ingredientes: Lentejas\nPaís de origen: Estados Unidos",
+        "precio": 720.0
+    },
+    {
+        "nombre": "Lasaña italiana Mantia´s (454 g / 1 lb)",
+        "presentacion": "Lasaña italiana Mantia´s (454 g / 1 lb)",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Espaguetis Pasta Premium DOÑA NORA (500 g) ",
+        "presentacion": "Elaborados con sémola de trigo duro de alta calidad, siguiendo un proceso artesanal que garantiza una textura firme y un sabor auténtico.",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Coditos Berrak (500 g)",
+        "presentacion": "Coditos Berrak (500 g)",
+        "precio": 335.0
+    },
+    {
+        "nombre": "Copos de Avena 400g",
+        "presentacion": "Copos de Avena 400g",
+        "precio": 560.0
+    },
+    {
+        "nombre": "Spaghetti Porto Bello 500 g ",
+        "presentacion": "Spaghetti Porto Bello 500 g ",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Frijoles colorados Del Campo 1 LB ",
+        "presentacion": "Frijoles colorados Del Campo 1 LB ",
+        "precio": 780.0
+    },
+    {
+        "nombre": "Frijoles BLANCOS Del Campo 1 Lb",
+        "presentacion": "Frijoles BLANCOS Del Campo 1 Lb",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Fideos instantáneos Sabor Pollo",
+        "presentacion": "Fideos instantáneos Sabor Pollo",
+        "precio": 230.0
+    },
+    {
+        "nombre": "Fideos instantáneos Sabor Carne",
+        "presentacion": "Fideos instantáneos Sabor Carne",
+        "precio": 230.0
+    },
+    {
+        "nombre": "Fideos instantáneos Sabor Pollo y Camarón ",
+        "presentacion": "Fideos instantáneos Sabor Pollo y Camarón ",
+        "precio": 230.0
+    },
+    {
+        "nombre": "Fideos instantáneos Sabor Cerdo ",
+        "presentacion": "Fideos instantáneos Sabor Cerdo ",
+        "precio": 230.0
+    },
+    {
+        "nombre": "Arroz de grano largo brasileño Tulipán (1 kg / 2.2 lb)",
+        "presentacion": "Grano de clase larga y fina. Grupo beneficiado.",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Leche en polvo en Bolsas agranel (1kg)",
+        "presentacion": "Leche en polvo marca Ridel 28 % de materia grasa.",
+        "precio": 1675.0
+    },
+    {
+        "nombre": "Yogurt Probiótico Natural Gustó Premium (4 L)",
+        "presentacion": "Yogurt Probiótico marca Gustó Premium que garantiza altos estándares de calidad y estabilidad naturales. ",
+        "precio": 5850.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor fresa  (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor naranja piña (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor Coco (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1120.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor chocolate  (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor mantecado (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Pote de Helado Gustó sabor vainilla  (1L)",
+        "presentacion": "Ingredientes: Leche y crema de leche azucares y aceites esenciales, estabilizadores, emulsificadores, saborizantes y colorantes autorizados.",
+        "precio": 1120.0
+    },
+    {
+        "nombre": "Mantequilla La Fontana de Nelson 400 g",
+        "presentacion": "Manteca vegetal refinada, leche pasteurizada, agua, sal, emulsionantes de acidos grasos, conservantes (ácidos cítricos y sorbato de potasio, benzoato)",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Queso crema Prairie Farms (226 g / 8 oz)",
+        "presentacion": "Ingredientes: leche y crema pasteurizadas, sal, fermentos de queso, estabilizadores (goma de algarroba, goma xantana, goma guar), contiene: leche\nPais de origen: Estados Unidos.",
+        "precio": 1330.0
+    },
+    {
+        "nombre": "Queso Gouda Prairie Farms (3 kg / 6.6 lb) ",
+        "presentacion": "Queso Gouda Prairie Farms ",
+        "precio": 12800.0
+    },
+    {
+        "nombre": "Queso Gouda Prairie Farms (1 kg) ",
+        "presentacion": "Queso Gouda Prairie Farms ",
+        "precio": 4650.0
+    },
+    {
+        "nombre": "Yogurt pasteurizado natural azucarado Vima Foods (100 g / 3.52 oz)",
+        "presentacion": "Yogurt pasteurizado natural azucarado Vima Foods (100 g / 3.52 oz)",
+        "precio": 250.0
+    },
+    {
+        "nombre": "Queso Rayado para Pizza Lafuente 1.5 Kg",
+        "presentacion": "Queso Rayado para Pizza Lafuente 1.5 Kg",
+        "precio": 3700.0
+    },
+    {
+        "nombre": "Avena con Leche 1 kg",
+        "presentacion": "Avena con Leche 1 kg",
+        "precio": 2600.0
+    },
+    {
+        "nombre": "Helado Gustó sabor chocolate 2 litros ",
+        "presentacion": "Helado Gustó sabor chocolate 2 litros ",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Jamón Rápido Bravo Porción de 1 Kg (No Lasqueado)",
+        "presentacion": "El jamón rápido Bravo posee un exquisito sabor y aroma a jamón natural. Es ideal para preparar sándwiches, bocaditos, meriendas y picaderas. Ingredientes: Carne de cerdo, agua, almidón, sal, proteína vegetal, dextrosa, estabilizantes (E-451 y E-407), potenciador del sabor (E-621), aromas, antioxidante (E-316), conservante (E-250) y colorante (E-120). Conservar entre 0°C y 5°C.",
+        "precio": 3950.0
+    },
+    {
+        "nombre": "Mortadella Seara 500 g",
+        "presentacion": "Mortadella Seara 500 g",
+        "precio": 630.0
+    },
+    {
+        "nombre": "Jamón Barra Bravo 2 kg",
+        "presentacion": "Jamón Barra Bravo 2 kg",
+        "precio": 7800.0
+    },
+    {
+        "nombre": "Salchichón con pimienta (lonjas finas)",
+        "presentacion": "Salchichón con pimienta (lonjas finas)",
+        "precio": 1620.0
+    },
+    {
+        "nombre": "Salami con pimienta (lonjas finas)",
+        "presentacion": "Salami con pimienta (lonjas finas)",
+        "precio": 1550.0
+    },
+    {
+        "nombre": "Mortadela con aceitunas 250 g",
+        "presentacion": "Mortadela con aceitunas 250 g",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Bacon Ahumado con Madera de Haya ",
+        "presentacion": "Bacon Ahumado con Madera de Haya ",
+        "precio": 2350.0
+    },
+    {
+        "nombre": "Chorizo con pimienta ( lonjas finas)",
+        "presentacion": "Chorizo con pimienta ( lonjas finas)",
+        "precio": 1630.0
+    },
+    {
+        "nombre": "Paleta Curada Lonjas ",
+        "presentacion": "Paleta Curada Lonjas ",
+        "precio": 1850.0
+    },
+    {
+        "nombre": "Cerveza Peña tipo Pilsener (330 ml x 24 u )",
+        "presentacion": "Ingredientes: agua, malta de cebada, maíz, cebada, lúpulo. 45% de vol. 330 ml \nOrigen : España ",
+        "precio": 220.0
+    },
+    {
+        "nombre": "Cerveza Unlaguer (330 ml)",
+        "presentacion": "Ingredientes: Agua, malta de cebada, cereales y lúpulo. Grado de alcohol: 5%. Consumir preferentemete antes de 365 días. País de origen: España.",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Vodka triple destilado Bleinkoff  (1 L)",
+        "presentacion": "Ingredientes: Agua y alcohol de cereales. Alc. 37.5º vol País de origen: España",
+        "precio": 1680.0
+    },
+    {
+        "nombre": "Néctar de manzana La Estancia (200 ml)",
+        "presentacion": "Ingredientes: Agua, jugo concentrado de manzana, azúcar, ácido cítrico, ácido ascórbico, aroma, pectina.\nPaís de origen: Cuba",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Néctar de Pera La Estancia (200 ml)",
+        "presentacion": "Ingredientes: Agua, jugo concentrado de pera, azúcar, ácido cítrico, ácido ascórbico, aroma, pectina.\nPaís de origen: Cuba",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Refresco Ciego Montero de Naranja 1.5 L",
+        "presentacion": "El refresco Ciego Montero de 1.5 litros es una bebida gaseada cubana, reconocida por su sabor refrescante",
+        "precio": 790.0
+    },
+    {
+        "nombre": "Botella de Agua Ciego Montero (1500 ml)",
+        "presentacion": "Botella de Agua Ciego Montero (1500 ml)",
+        "precio": 310.0
+    },
+    {
+        "nombre": "Baileys Original Crema Irlandesa Licor 750 ml",
+        "presentacion": "Baileys Original Crema Irlandesa Licor 750 ml",
+        "precio": 9000.0
+    },
+    {
+        "nombre": "Crema Ruavieja tradicional ",
+        "presentacion": "Crema Ruavieja tradicional ",
+        "precio": 5200.0
+    },
+    {
+        "nombre": " Whisky Ballentines ",
+        "presentacion": " Whisky Ballentines ",
+        "precio": 7200.0
+    },
+    {
+        "nombre": "Refresco SANTA lima limón 330ml",
+        "presentacion": "Refresco SANTA lima limón 330ml",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Bebida energética de día go +",
+        "presentacion": "Bebida energética de día go +",
+        "precio": 280.0
+    },
+    {
+        "nombre": "Bebida energética de noche go +",
+        "presentacion": "Bebida energética de noche go +",
+        "precio": 280.0
+    },
+    {
+        "nombre": "Cerveza La Fría ",
+        "presentacion": "Cerveza La Fría ",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Agua Natural Aquelle 500 ml",
+        "presentacion": "Agua Natural Aquelle 500 ml",
+        "precio": 160.0
+    },
+    {
+        "nombre": "Refresco Gaseado de Cola Santa 330 ml",
+        "presentacion": "Refresco Gaseado de Cola Santa 330 ml",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Refresco Gaseado de Naranja 330 ml",
+        "presentacion": "Refresco Gaseado de Naranja 330 ml",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba, Extra Añejo 12 años 700ml",
+        "presentacion": "Ron Santiago de Cuba Extra Añejo 12 años 700ml",
+        "precio": 12000.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Extra Añejo 11años  700ml",
+        "presentacion": "Ron Santiago de Cuba Extra Añejo 11años 700ml",
+        "precio": 10500.0
+    },
+    {
+        "nombre": "Bebida energética + Vodka Shaka",
+        "presentacion": "Bebida energética + Vodka Shaka",
+        "precio": 390.0
+    },
+    {
+        "nombre": "Malta Ligre  330 ml",
+        "presentacion": "Malta Ligre 330 ml ",
+        "precio": 270.0
+    },
+    {
+        "nombre": "Sidra de manzana ",
+        "presentacion": "Sidra de manzana ",
+        "precio": 1620.0
+    },
+    {
+        "nombre": "Cerveza Cabeza de Lobo",
+        "presentacion": "Cerveza Cabeza de Lobo",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Cerveza Eichbaum ",
+        "presentacion": "Cerveza Eichbaum ",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Caja de Cerveza Peña tipo Pilsener (330 ml x 24 u )",
+        "presentacion": "Ingredientes: agua, malta de cebada, maíz, cebada, lúpulo. 45% de vol. 330 ml \n\nOrigen : España ",
+        "precio": 5040.0
+    }
+        ]
+    }
+    
+]

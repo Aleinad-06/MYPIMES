@@ -1,0 +1,170 @@
+[
+    {
+        "nombre": "El Balle",
+        "municipio": "La Lisa",
+        "ubicacion":{
+            "lat": 23.0488291,
+            "long":-82.4648997
+        },
+        "horario": "Domingo 8:00 AM - 5:00 PM  Lunes a Sábado  7:00 AM - 7:00 PM",
+        "productos":[
+            
+    {
+        "nombre": "Leche condensada ",
+        "presentacion": "...",
+        "precio": 460.0
+    },
+    {
+        "nombre": "Azúcar blanca 1kg",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Pomo de aceite 1L",
+        "presentacion": "...",
+        "precio": 1010.0
+    },
+    {
+        "nombre": "Pasta de tomate 400 g",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Coditos 500g",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Arroz  (Brazil) 1 kg",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Espaguetis 500g",
+        "presentacion": "...",
+        "precio": 280.0
+    },
+    {
+        "nombre": "Sal fina 1 kg",
+        "presentacion": "...",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Harina de trigo 1kg",
+        "presentacion": "...",
+        "precio": 560.0
+    },
+    {
+        "nombre": "Frijoles 1 kg ",
+        "presentacion": "...",
+        "precio": 840.0
+    },
+    {
+        "nombre": "Leche en polvo 1 kg",
+        "presentacion": "...",
+        "precio": 2150.0
+    },
+    {
+        "nombre": "Pomo de Aceite 900 ml",
+        "presentacion": "...",
+        "precio": 950.0
+    },
+    {
+        "nombre": "Vodka skarloff 965 ml",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Nectar de manzana 🍎 1L",
+        "presentacion": "...",
+        "precio": 630.0
+    },
+    {
+        "nombre": "Jugo de cóctel badelli 200 ml",
+        "presentacion": "...",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Jugo de mango🥭200 ml badelli",
+        "presentacion": "...",
+        "precio": 180.0
+    },
+    {
+        "nombre": "Jabón de baño 🧼60 g limón 🍋",
+        "presentacion": "...",
+        "precio": 120.0
+    },
+    {
+        "nombre": "Toallitas húmedas 80 u",
+        "presentacion": "...",
+        "precio": 520.0
+    },
+    {
+        "nombre": "Pasta dental Aura 100g",
+        "presentacion": "...",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Detergente líquido  1L",
+        "presentacion": "...",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Jabón de baño 🧼 60 g manzana 🍎",
+        "presentacion": "...",
+        "precio": 120.0
+    },
+    {
+        "nombre": "Detergente en polvo 500g bibo",
+        "presentacion": "...",
+        "precio": 330.0
+    },
+    {
+        "nombre": "Toallitas sanitarias (íntimas) 10 u",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Paquete de perritos 10 u",
+        "presentacion": "...",
+        "precio": 370.0
+    },
+    {
+        "nombre": "Picadillo de pollo 🐔 400g",
+        "presentacion": "...",
+        "precio": 410.0
+    },
+    {
+        "nombre": "Paquete de 10 lb de pollo muslos ",
+        "presentacion": "Muslos",
+        "precio": 3900.0
+    },
+    {
+        "nombre": "Mortadela de pollo 500g",
+        "presentacion": "...",
+        "precio": 560.0
+    },
+    {
+        "nombre": "Pechuga de pollo 2kg",
+        "presentacion": "...",
+        "precio": 4200.0
+    },
+    {
+        "nombre": "Hígado de pollo 1 kg",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Molleja 1 kg",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Picadillo Especial 800 g La Favorita ",
+        "presentacion": "...",
+        "precio": 700.0
+    }
+        ]
+    }
+    
+]

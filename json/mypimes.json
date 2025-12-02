@@ -34,9 +34,8 @@
             },
             {
                 "tipo": "aceites",
-                "nombre": "girasol",
                 "marca":"Diana",
-                "presentacion":"litros",
+                "presentacion":"litro",
                 "nacional": true,
                 "precio_cup":950
             },
@@ -54,7 +53,7 @@
                 "nombre":"habana club",
                 "marca":"Ron Havana Club",
                 "alcoholica": true,
-                "presentacion":"litros",
+                "presentacion":"litro",
                 "precio_cup": 2500,
                 "nacional":true
             },
@@ -64,7 +63,7 @@
                 "nombre":"blue label",
                 "marca":"johnny walker",
                 "alcoholica": true,
-                "presentacion":"litros",
+                "presentacion":"litro",
                 "precio_cup": 200,
                 "nacional":false
             },
@@ -74,7 +73,7 @@
                 "nombre":"cristal",
                 "marca":"cristal",
                 "alcoholica": true,
-                "presentacion":"litros",
+                "presentacion":"litro",
                 "precio_cup": 500,
                 "nacional":false
             }
@@ -83,7 +82,1429 @@
 
         "USD": true,
         "CUP": true,
-        "MLC": false
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Angle Express",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+            {
+                "tipo": "granos",
+                "nombre": "azucar",
+                "marca": "Caravelas",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 530
+            },
+            {
+                "tipo": "granos",
+                "nombre": "frijol",
+                "marca": "Mau",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 750
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Luci",
+                "presentacion":"",
+                "nacional": false,
+                "precio_cup": 210
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "cerdo",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": 932,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": null,
+                "precio_usd": 0.74,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Tuna Chunk",
+                "presentacion":"g",
+                "precio_cup": 500,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Tuna Chunk",
+                "presentacion":"g",
+                "precio_cup": 520,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Canned Star",
+                "presentacion":"g",
+                "precio_cup": 380,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "queso",
+                "nombre":"gouda",
+                "marca":"Vima",
+                "presentacion":null,
+                "precio_cup": 11600,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"Noble Vox",
+                "marca":"Noble Vox",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 420,
+                "nacional":false
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Ventas al por mayor (MAILEN)",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Afra",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 235
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Besler",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 225
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Rosso",
+                "presentacion":"g",   
+                "nacional": false,
+                "precio_cup": 220 
+            },
+            {
+                "tipo": "aceites",
+                "marca":"Siol",
+                "presentacion":"ml",
+                "nacional": false,
+                "precio_cup":850
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "cerdo",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": 932,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "res",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": 800,
+                "nacional":true
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "res",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": 1200,
+                "nacional":true
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": null,
+                "presentacion":"lb",
+                "precio_cup": null,
+                "precio_uds": 0.74,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Tuna Chunk",
+                "presentacion":"g",
+                "precio_cup": 500,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Tuna Chunk",
+                "presentacion":"g",
+                "precio_cup": 520,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Doncanned Star",
+                "presentacion":"g",
+                "precio_cup": 380,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche en polvo",
+                "marca":"Porto Bello",
+                "presentacion":"G",
+                "precio_cup": 750,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "queso",
+                "nombre":"gouda",
+                "marca":"Vima",
+                "presentacion":null,
+                "precio_cup": 11600,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"Noble Vox",
+                "marca":"Noble Vox",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 420,
+                "nacional":false
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Lescaaille",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+            {
+                "tipo": "granos",
+                "nombre": "frijol negro",
+                "marca": "Extremo Sabor",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 750
+            },
+            {
+                "tipo": "granos",
+                "nombre": "frijol negro",
+                "marca": "Okey",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 720
+            },
+            {
+                "tipo": "granos",
+                "nombre": "azucar",
+                "marca": "Mirante",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 535
+            },
+            {
+                "tipo": "granos",
+                "nombre": "cafe",
+                "marca": "Cafe Parana",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 1200
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Sea Sum",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 230
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Marwa",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 290
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Canned Star",
+                "presentacion":"g",
+                "precio_cup": 370,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "higado de pollo",
+                "marca": "Sandia",
+                "presentacion":"kg",
+                "precio_cup": 670,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": "All natural 10lb",
+                "presentacion":"lb",
+                "precio_cup": 3600,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"chamceler",
+                "marca":"Golden Label",
+                "alcoholica": true,
+                "presentacion":"litro",
+                "precio_cup": 1180,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"sin albin",
+                "marca":"Sin Albin",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 480,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"presidente",
+                "marca":"Presidente",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 1180,
+                "nacional":195
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Marwa",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 105
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "Raidel",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 320
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "V & E",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 465
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"papel higienico",
+                "marca": "Tiss",
+                "presentacion": null,
+                "nacional": false,
+                "precio_cup": 75
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Melissa",
+        "municipio": "Arroyo Naranjo",
+        "ubicacion":{
+            "lat": 0,
+            "long":"Calle 2da, entre calzada de managua y calle A #3 arroyo naranjo mantilla"
+        },
+        "horario": "Lunes a Sabado 9:30 am, 5:00 pm",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Ridel",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "",
+                "nombre": "huevos",
+                "marca": null,
+                "presentacion": null,
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 6.20
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"coprove",
+                "marca":"Coprove",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 190,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"unlager",
+                "marca":"Unlager",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 195,
+                "nacional":false
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "La Casa Amarilla",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Ridel",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 260
+            },
+            {
+                "tipo": "pasta",
+                "nombre": "macarrones",
+                "marca": "Assaada",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 260
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": true
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Karly",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Ridel",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Pasta Rosso",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Gonca",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "macarrones",
+                "marca": "Bodell",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 230
+            },
+            {
+                "tipo": "aceites",
+                "marca": "Semilla",
+                "presentacion": "ml",
+                "nacional": false,
+                "precio_cup": 890
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Val",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 280
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Castellum",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 350
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Mansana Roja",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 610
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Mansana Roja",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 310
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Bibo",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 310
+            },
+            {
+                "tipo": "embutido",
+                "nombre": "salchicha",
+                "marca": "Franks",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 420
+            },
+            {
+                "tipo": "embutido",
+                "nombre": "salchicha",
+                "marca": "Sublime",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 350
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "regresco",
+                "nombre":"ciego montero",
+                "marca":"Ciego Montero",
+                "alcoholica": false,
+                "presentacion":"litro",
+                "precio_cup": 500,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"unlager",
+                "marca":"Unlager",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 195,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"coprove",
+                "marca":"Coprove",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": null,
+                "precio_usd": 0.44,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"pilsener eichbaum",
+                "marca":"Pilsener Eichbaum",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 177,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"ridel",
+                "marca":"Raidel",
+                "alcoholica": true,
+                "presentacion":"litro",
+                "precio_cup": 1250,
+                "nacional":false
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "V & E",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 470
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Bix",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 160
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"la granjera",
+                "presentacion": "g",
+                "precio_cup": 435,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"Bibo",
+                "presentacion": "g",
+                "precio_cup": 420,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"delicias de gaby",
+                "presentacion": "g",
+                "precio_cup": 400,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche en polvo",
+                "marca":null,
+                "presentacion": "kg",
+                "precio_cup": 1500,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche en polvo",
+                "marca":"San Diego",
+                "presentacion": "kg",
+                "precio_cup": 1800,
+                "nacional":false
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Cliss",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 86
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": null,
+                "presentacion": "lb",
+                "nacional": false,
+                "precio_cup": 320
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": null,
+                "presentacion": "lb",
+                "nacional": false,
+                "precio_cup": 410
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Bravo",
+        "municipio": "10 de Octubre",
+        "ubicacion":{
+            "lat": 0,
+            "long":""
+        },
+        "horario": "",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Makarna",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "granos",
+                "nombre": "azucar",
+                "marca": "Energy",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 560,
+                "precio_usd": 1.20
+            },
+            {
+                "tipo": "granos",
+                "nombre": "arroz",
+                "marca": "Emocoes",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 570,
+                "precio_usd": 1.25
+            },
+            {
+                "tipo": "granos",
+                "nombre": "arroz",
+                "marca": "Vivarroz",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 550,
+                "precio_usd": 1.20
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pechuga de pollo",
+                "marca": "Frango Bello",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 4750,
+                "precio_usd": 10.33
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pechuga de pollo",
+                "marca": "Levo",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 4035,
+                "precio_usd": 8.59
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "queso",
+                "nombre":"queso gouda",
+                "marca":"Lowicz",
+                "presentacion": "kg",
+                "precio_cup": 9610,
+                "precio_usd": 20.43,
+                "nacional":false
+            },           
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"Zivel",
+                "presentacion": "g",
+                "precio_cup": 440,
+                "precio_usd": 0.93,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "yogurt",
+                "nombre":"yogurt",
+                "marca":"Yokey",
+                "presentacion": "litro",
+                "precio_cup": 2200,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "presidente",
+                "nombre":"presidente",
+                "marca":"Presidente",
+                "alcoholic a": true,
+                "presentacion":"ml",
+                "precio_cup": 210,
+                "precio_usd": 0.44,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "energirante",
+                "nombre":"red bull",
+                "marca":"Red Bull",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_cup": 470,
+                "precio_usd": 1.00,
+                "nacional":false
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": null
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Ventas al por mayor",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Sea Sum",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 230
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Amber",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 225
+            },
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Mum",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.54
+            },
+            {
+                "tipo": "granos",
+                "nombre": "frijol negro",
+                "marca": "Okey",
+                "presentacion": "kg",
+                "nacional": false,
+                "precio_cup": 720
+            },
+            {
+                "tipo": "",
+                "nombre": "huevos",
+                "marca": "Perla",
+                "presentacion": null,
+                "nacional": false,
+                "precio_cup": 2850
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "atun",
+                "marca": "Canned Star",
+                "presentacion":"g",
+                "precio_cup": 370,
+                "nacional":false
+            },
+            {
+                "tipo": "embutido",
+                "nombre": "salchicha",
+                "marca": "Frangosul",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 340
+            },
+            {
+                "tipo": "pasta",
+                "nombre": "spagheti",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 240
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Marwa",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 295
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"papel higienico",
+                "marca": "Tiss",
+                "presentacion": null,
+                "nacional": false,
+                "precio_cup": 85
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"parranda",
+                "marca":"Parranda",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_cup": 173,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"pilsener eichbaum",
+                "marca":"Pilsener Eichbaum",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 185,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "pollo",
+                "marca": "All natural 10lb",
+                "presentacion":"lb",
+                "precio_cup": 3600,
+                "nacional":false
+            },
+            {
+                "tipo": "carnes",
+                "nombre": "higado de pollo",
+                "marca": "Sandia",
+                "presentacion":"kg",
+                "precio_cup": 670,
+                "nacional":false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "malta",
+                "nombre":"guajira",
+                "marca":"Guajira",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_cup": 245,
+                "nacional":true
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"brava",
+                "marca":"Brava",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 178,
+                "precio_usd": 0.40,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"breda",
+                "marca":"Breda",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 175,
+                "precio_usd": 0.40,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "cerveza",
+                "nombre":"k-ribeña",
+                "marca":"K-Ribeña",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 178,
+                "precio_usd": 0.40,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "ron",
+                "nombre":"vodka",
+                "marca":"Armagedon",
+                "alcoholica": true,
+                "presentacion":"ml",
+                "precio_cup": 1000,
+                "precio_usd": 2.30,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "jugo",
+                "nombre":"badelli",
+                "marca":"Badelli",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_usd": 0.26,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "energirante",
+                "nombre":"atlas",
+                "marca":"Atlas",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_cup":178,
+                "precio_usd": 0.40,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"old star",
+                "marca":"Old Star",
+                "alcoholica": true,
+                "presentacion":"litro",
+                "precio_cup":990,
+                "precio_usd": 2.28,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "wisky",
+                "nombre":"black marcaw",
+                "marca":"Black Marcaw",
+                "alcoholica": true,
+                "presentacion":"litro",
+                "precio_cup":990,
+                "precio_usd": 2.28,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "energirante",
+                "nombre":"tequila",
+                "marca":"Tequila",
+                "alcoholica": false,
+                "presentacion":"litro",
+                "precio_cup":1100,
+                "precio_usd": 2.50,
+                "nacional" :false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "yogurt",
+                "nombre":"yogurt",
+                "marca":"Pmi",
+                "presentacion": "g",
+                "precio_cup": 200,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "yogurt",
+                "nombre":"yogurt",
+                "marca":"Vima",
+                "presentacion": "g",
+                "precio_cup": 180,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"la granjera",
+                "presentacion": "g",
+                "precio_cup": null,
+                "precio_usd": 0.88,
+                "nacional":false
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Nova",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.46
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"pasta dental",
+                "marca": "Royalfresh",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 380
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"papel higienico",
+                "marca": "Tiss",
+                "presentacion": null,
+                "nacional": false,
+                "precio_cup": 85
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Marwa",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 105
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": true
+
+    },
+    "tasa_cambio":{
+        "USD":465,
+        "MLC":210,
+        "EUR":500
+    },
+    "redes_sociales": false
+    },
+    {
+        "nombre": "Mypime primera mano",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "",
+        "productos":[
+        
+            {
+                "tipo": "pastas",
+                "nombre": "spagheti",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": 260
+            },
+            {
+                "tipo": "pasta",
+                "nombre": "macarrones",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.40
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Nova",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.46
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"la granjera",
+                "presentacion": "g",
+                "precio_cup": 435,
+                "nacional":false
+            },
+            {
+                "tipo": "aceites",
+                "marca":"Badelli",
+                "presentacion":"litro",
+                "nacional": true,
+                "precio_cup":null,
+                "precio_usd": 2.00
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "jugo",
+                "nombre":"badelli",
+                "marca":"Badelli",
+                "alcoholica": false,
+                "presentacion":"ml",
+                "precio_usd": 0.26,
+                "nacional" :false
+            },
+            {
+                "tipo": "bebida",
+                "categoria": "jugo",
+                "nombre":"badelli",
+                "marca":"Badelli",
+                "alcoholica": false,
+                "presentacion":"litro",
+                "precio_usd": 1.1,
+                "nacional" :false
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.16
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.69
+            },
+            {
+                "tipo": "enlatados",
+                "nombre": "pasta de tomate",
+                "marca": "Badelli",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 3.90
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"la granjera",
+                "presentacion": "g",
+                "precio_cup": null,
+                "precio_usd": 1.02,
+                "nacional":false
+            },
+            {
+                "tipo": "lacteos",
+                "categoria": "leche",
+                "nombre":"leche condensada",
+                "marca":"la granjera",
+                "presentacion": "g",
+                "precio_cup": null,
+                "precio_usd": 1.02,
+                "nacional":false
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Dovi",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.34
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Safecare",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup":90
+
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Spring Fresh",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.37
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Safecare",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.67
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"jabon",
+                "marca": "Cleamax",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.67
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "Cleamax",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.46
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "Cleamax",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 0.65
+            },
+            {
+                "tipo": "aseo",
+                "nombre":"detergente",
+                "marca": "Cleamax",
+                "presentacion": "g",
+                "nacional": false,
+                "precio_cup": null,
+                "precio_usd": 1.35
+            }
+        ],
+    "metodo_pago": {
+
+        "USD": true,
+        "CUP": true,
+        "MLC": false,
+        "Transaferencia": true
 
     },
     "tasa_cambio":{

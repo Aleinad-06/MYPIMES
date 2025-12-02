@@ -1,0 +1,1319 @@
+[
+    {
+        "nombre": "Bodegón Oasis",
+        "municipio": "Plaza",
+        "ubicacion":{
+            "lat": 23.1389366,
+            "long":-82.3850155
+        },
+        "horario": "8:30 AM / 9:30 PM",
+        "productos":[
+            {
+            "nombre": "Bistec de pierna de cerdo ",
+            "presentacion": "500g ",
+            "precio": 2125.0
+        },
+        {
+            "nombre": "Masas de cerdo ",
+            "presentacion": "500g ",
+            "precio": 2110.0
+        },
+        {
+            "nombre": "Bola de Res ",
+            "presentacion": "1kg ",
+            "precio": 7680.0
+        },
+        {
+            "nombre": "Boliche de Res ",
+            "presentacion": "1kg ",
+            "precio": 7680.0
+        },
+        {
+            "nombre": "Papas Prefritas ",
+            "presentacion": "1kg ",
+            "precio": 2100.0
+        },
+        {
+            "nombre": "Pechuga de Pollo Friato",
+            "presentacion": "2kg",
+            "precio": 5300.0
+        },
+        {
+            "nombre": "Helado BimBom Coco ",
+            "presentacion": "200ml ",
+            "precio": 300.0
+        },
+        {
+            "nombre": "Bistec de lomo ",
+            "presentacion": "500g ",
+            "precio": 2900.0
+        },
+        {
+            "nombre": "Pollo Entero Sin Menudos Congelado",
+            "presentacion": "1.5kg ",
+            "precio": 3500.0
+        },
+        {
+            "nombre": "Naranjas",
+            "presentacion": "Chilenas \nCalibre 72",
+            "precio": 440.0
+        },
+        {
+            "nombre": "Chuleta Vetada de Cerdo Karmac ",
+            "presentacion": "900g ",
+            "precio": 3500.0
+        },
+        {
+            "nombre": "Chuleta de Centro de Cerdo Karmac ",
+            "presentacion": "900g ",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Cañada de Res ",
+            "presentacion": "1kg ",
+            "precio": 7680.0
+        },
+        {
+            "nombre": "Ajo importado ",
+            "presentacion": "X unid ",
+            "precio": 130.0
+        },
+        {
+            "nombre": "Asado Molido de Bovino Karmac ",
+            "presentacion": "450g ",
+            "precio": 1680.0
+        },
+        {
+            "nombre": "Bistec de Vacuno Karmac ",
+            "presentacion": "800g ",
+            "precio": 3850.0
+        },
+        {
+            "nombre": "Burguer Mixta Pollo/Cerdo Eurofrits ",
+            "presentacion": "340g ",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Burger Mixta Vacuna/Cerdo Eurofrit ",
+            "presentacion": "340g ",
+            "precio": 2805.0
+        },
+        {
+            "nombre": "Pierna de Cerdo deshuesada ",
+            "presentacion": "2kg ",
+            "precio": 8600.0
+        },
+        {
+            "nombre": "Helado Gustatini Fresa ",
+            "presentacion": "1Lt ",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Helado Gustatini Vainilla ",
+            "presentacion": "1Lt ",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Helado Gustatini Mantecado ",
+            "presentacion": "1Lt ",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Helado Gustatini Dulce de Leche  ",
+            "presentacion": "1Lt ",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Lasaña Tradicional De Carne ",
+            "presentacion": "670g ",
+            "precio": 2080.0
+        },
+        {
+            "nombre": "Lasaña Tradicional Hawaiana ",
+            "presentacion": "670g ",
+            "precio": 1960.0
+        },
+        {
+            "nombre": "Lasaña Tradicional de jamón  ",
+            "presentacion": "670g ",
+            "precio": 1710.0
+        },
+        {
+            "nombre": "Mandarina ",
+            "presentacion": "...",
+            "precio": 235.0
+        },
+        {
+            "nombre": "Tortillas de Harina El Mana ",
+            "presentacion": "12unid 20cm \nTacos, Quesadillas y Burritos ",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Tortillas de Harina El Mana ",
+            "presentacion": "18unid 10cm \nTacos ",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Varitas de merluza empanadas Caterfrits",
+            "presentacion": "1kg ",
+            "precio": 4100.0
+        },
+        {
+            "nombre": "Filete de Bacalao ",
+            "presentacion": "500g ",
+            "precio": 3400.0
+        },
+        {
+            "nombre": "Mixto de Mariscos ",
+            "presentacion": "500g ",
+            "precio": 3490.0
+        },
+        {
+            "nombre": "Filete  Mahi Mahi ",
+            "presentacion": "500g ",
+            "precio": 3100.0
+        },
+        {
+            "nombre": "Calamar ",
+            "presentacion": "500g ",
+            "precio": 3050.0
+        },
+        {
+            "nombre": "Pulpo limpio ",
+            "presentacion": "1lb ",
+            "precio": 2950.0
+        },
+        {
+            "nombre": "Filete de Aguja ",
+            "presentacion": "1lb ",
+            "precio": 2700.0
+        },
+        {
+            "nombre": "Filete Emperador ",
+            "presentacion": "1lb ",
+            "precio": 3285.0
+        },
+        {
+            "nombre": "Crema de Cafe de Avellana Mc’Daniels ",
+            "presentacion": "435g",
+            "precio": 2175.0
+        },
+        {
+            "nombre": "Crema para el Cafe Original Mc.Daniel’s ",
+            "presentacion": "454g ",
+            "precio": 2550.0
+        },
+        {
+            "nombre": "Natilla de Chocolate Sunny’s ",
+            "presentacion": "1unid ",
+            "precio": 270.0
+        },
+        {
+            "nombre": "Yogurt Entero Probiotico Fresa",
+            "presentacion": "125g ",
+            "precio": 230.0
+        },
+        {
+            "nombre": "Yogurt Entero Probiotico Natural ",
+            "presentacion": "125g",
+            "precio": 230.0
+        },
+        {
+            "nombre": "Yogurt Entero Probiotico Plátano ",
+            "presentacion": "125g ",
+            "precio": 230.0
+        },
+        {
+            "nombre": "Leche evaporada Rica ",
+            "presentacion": "350g ",
+            "precio": 695.0
+        },
+        {
+            "nombre": "Nesquik Nestle Fresa ",
+            "presentacion": "357g ",
+            "precio": 3400.0
+        },
+        {
+            "nombre": "Crema de Leche Rica ",
+            "presentacion": "330ml ",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Natural Gustatini ",
+            "presentacion": "1Lt \nCon azúcar ",
+            "precio": 1540.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Naranja Piña Gustatini",
+            "presentacion": "1Lt ",
+            "precio": 1540.0
+        },
+        {
+            "nombre": "Leche sabor a Frutilla macro food ",
+            "presentacion": "1kg ",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Bebida de Almendra Vilay ",
+            "presentacion": "1Lt \nSin gluten \nSin lactosa ",
+            "precio": 1650.0
+        },
+        {
+            "nombre": "Bebida de Almendra Sin Azúcar Vilay ",
+            "presentacion": "1Lt \nSin gluten \nSin lactosa ",
+            "precio": 1570.0
+        },
+        {
+            "nombre": "Bebida de Coco  Vilay ",
+            "presentacion": "1Lt \nSin gluten \nSin lactosa ",
+            "precio": 1570.0
+        },
+        {
+            "nombre": "Crema de Coco Vilay ",
+            "presentacion": "330g \nSin gluten \nSin lactosa ",
+            "precio": 960.0
+        },
+        {
+            "nombre": "Nata para cocinar Arla ",
+            "presentacion": "1Lt \n30%",
+            "precio": 3160.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Gustatini Maracuyá ",
+            "presentacion": "1Lt ",
+            "precio": 1540.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Platano Gustatini ",
+            "presentacion": "1Lt ",
+            "precio": 1540.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Guanábana Gustatini ",
+            "presentacion": "1Lt ",
+            "precio": 1540.0
+        },
+        {
+            "nombre": "Ensure Original Nutrition Shake Milk Chocolate",
+            "presentacion": "237ml ",
+            "precio": 1410.0
+        },
+        {
+            "nombre": "Ensure Original Nutrition Shake Strawberry ",
+            "presentacion": "237ml ",
+            "precio": 1410.0
+        },
+        {
+            "nombre": "Ensure Original Nutrition Shake Vainilla ",
+            "presentacion": "237ml ",
+            "precio": 1410.0
+        },
+        {
+            "nombre": "Nestle Nesquik Strawberry ",
+            "presentacion": "1.19kg ",
+            "precio": 9950.0
+        },
+        {
+            "nombre": "Premier Protein Banana & Cream ",
+            "presentacion": "325ml \n30g Protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Cake Batter Deligth",
+            "presentacion": "326ml \n30g de proteina ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Caramel ",
+            "presentacion": "326ml \n30g de proteins ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Cinnamon Roll ",
+            "presentacion": "326ml \n30 g Protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Chocolate Peanut Butter ",
+            "presentacion": "326ml \n30g Protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Cookie Dough ",
+            "presentacion": "326ml \n30g de protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Cookies & Crem ",
+            "presentacion": "326ml \n30g de protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Premier Protein Strawberry & Cream ",
+            "presentacion": "326ml\n30g de Protein ",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Coffe Mate Original ",
+            "presentacion": "80g ",
+            "precio": 1125.0
+        },
+        {
+            "nombre": "Café Soluble Clásico ",
+            "presentacion": "200g ",
+            "precio": 4585.0
+        },
+        {
+            "nombre": "Café Soluble Descafeinado ",
+            "presentacion": "200g ",
+            "precio": 4800.0
+        },
+        {
+            "nombre": "Yogurt Probiotico Santa Ana ",
+            "presentacion": "1Lt Natural ",
+            "precio": 1490.0
+        },
+        {
+            "nombre": "Coffee mate Vainilla ",
+            "presentacion": "400g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffee Mate  Chocolate ",
+            "presentacion": "400g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffee mate Avellana",
+            "presentacion": "400g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffe mate Extracremoso",
+            "presentacion": "365g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Nesquik Nestlé Chocolate ",
+            "presentacion": "200g ",
+            "precio": 2100.0
+        },
+        {
+            "nombre": "Mole Verde la Costeña ",
+            "presentacion": "225g ",
+            "precio": 1900.0
+        },
+        {
+            "nombre": "Salsa Dip Mild La Costeña ",
+            "presentacion": "453g ",
+            "precio": 1640.0
+        },
+        {
+            "nombre": "Salsa Dip Medium La Costeña ",
+            "presentacion": "453g ",
+            "precio": 1860.0
+        },
+        {
+            "nombre": "Ketchup Kurtz ",
+            "presentacion": "680g ",
+            "precio": 1275.0
+        },
+        {
+            "nombre": "Aderezo Italiano Kurtz ",
+            "presentacion": "476ml",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Aderezo Estilo Frances ",
+            "presentacion": "Sweet & Tangy \n473ml ",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Salsa Picante Piri Piri Amanhecer ",
+            "presentacion": "192ml ",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Salsa Inglesa Worcestershire Lea & Perrins ",
+            "presentacion": "20onz ",
+            "precio": 6075.0
+        },
+        {
+            "nombre": "Salsa Ranchera La Costeña ",
+            "presentacion": "250g ",
+            "precio": 1640.0
+        },
+        {
+            "nombre": "Salsa Negra La Costeña ",
+            "presentacion": "360ml ",
+            "precio": 1190.0
+        },
+        {
+            "nombre": "Extracto de Vainilla ",
+            "presentacion": "480ml ",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Extracto de Vainilla ",
+            "presentacion": "960ml ",
+            "precio": 1390.0
+        },
+        {
+            "nombre": "Tabasco pepper sauce ",
+            "presentacion": "59ml ",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Vino Blanco de Cocina Iberia ",
+            "presentacion": "750ml ",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Salsa De Guacamole La costeña ",
+            "presentacion": "250g ",
+            "precio": 1425.0
+        },
+        {
+            "nombre": "Salsa Taquera La Costeña ",
+            "presentacion": "250g ",
+            "precio": 1640.0
+        },
+        {
+            "nombre": "Vinagre Balsámico Darro ",
+            "presentacion": "500ml ",
+            "precio": 1720.0
+        },
+        {
+            "nombre": "Salsa Arriera La Costeña ",
+            "presentacion": "...",
+            "precio": 1640.0
+        },
+        {
+            "nombre": "Salsa Italiana Kenko ",
+            "presentacion": "230ml",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Salsa Tonkatsu Sakura ",
+            "presentacion": "180ml ",
+            "precio": 870.0
+        },
+        {
+            "nombre": "Salsa de pimienta Sriracha Bravo ",
+            "presentacion": "210ml ",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Salsa Tare Sakura ",
+            "presentacion": "180ml ",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Salsa Teriyaki Sakura ",
+            "presentacion": "180ml ",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Salsa Barbacoa Picante Kenko ",
+            "presentacion": "370g ",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Salsa Barbacoa con Miel Kenko ",
+            "presentacion": "370g ",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Aderezo Balsámico Castelo ",
+            "presentacion": "236ml ",
+            "precio": 945.0
+        },
+        {
+            "nombre": "Aderezo Rosa Castelo ",
+            "presentacion": "A base de tomate, mostaza y especies \n236ml ",
+            "precio": 915.0
+        },
+        {
+            "nombre": "Aderezo Mostaza y Miel Castelo ",
+            "presentacion": "236ml ",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Aderezo César Castelo ",
+            "presentacion": "236ml ",
+            "precio": 1010.0
+        },
+        {
+            "nombre": "Salsa de Queso Ayala ",
+            "presentacion": "300g ",
+            "precio": 1610.0
+        },
+        {
+            "nombre": "Salsa Mexicana Ayala ",
+            "presentacion": "300g ",
+            "precio": 1440.0
+        },
+        {
+            "nombre": "Salsa de Guacamole Ayala ",
+            "presentacion": "300g ",
+            "precio": 1950.0
+        },
+        {
+            "nombre": "Salsa Alioli Ayala ",
+            "presentacion": "300g ",
+            "precio": 1425.0
+        },
+        {
+            "nombre": "Salsa César Ayala ",
+            "presentacion": "300ml ",
+            "precio": 1310.0
+        },
+        {
+            "nombre": "Mutti Tomate y Verduras a la Parrilla Salsa para Pasta ",
+            "presentacion": "280g \nIngredientes: pulpa de tomate 69%, concentrado de tomate triple 8%, calabacín a la parrilla 6%, pimientos amarillos a la parrilla 4%, berenjenas a la parrilla 4%, aceite de oliva, azúcar, sal, sabores naturales, orégano, ajo, pimienta",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Ketchup Val Tradicional ",
+            "presentacion": "400g ",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Mayonesa Val",
+            "presentacion": "370g ",
+            "precio": 1250.0
+        },
+        {
+            "nombre": "Mutti Pesto Giollo De Pomodoro ",
+            "presentacion": "180g \n\nOliva Leccino, Queso Ricotta Stagionata y Anacardos",
+            "precio": 2160.0
+        },
+        {
+            "nombre": "Mutti Tomate con Chili Salsa para pasta ",
+            "presentacion": "400g ",
+            "precio": 2640.0
+        },
+        {
+            "nombre": "Mutti Tomate Cherry con Aceituna Leccino ",
+            "presentacion": "Salsa para pasta \n400g ",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Naranja Agria Badia ",
+            "presentacion": "10onz ",
+            "precio": 1030.0
+        },
+        {
+            "nombre": "Mojo criollo Badia ",
+            "presentacion": "10onz ",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Salsa Chile Picante Badia ",
+            "presentacion": "155ml ",
+            "precio": 1020.0
+        },
+        {
+            "nombre": "Salsa Picante Habanero Badia",
+            "presentacion": "155ml ",
+            "precio": 1120.0
+        },
+        {
+            "nombre": "Salsa Soja Vima",
+            "presentacion": " 150mL",
+            "precio": 630.0
+        },
+        {
+            "nombre": "Jugo de limón",
+            "presentacion": "295.74ml",
+            "precio": 830.0
+        },
+        {
+            "nombre": "Vinagre de Vino blanco ",
+            "presentacion": "1Lt ",
+            "precio": 840.0
+        },
+        {
+            "nombre": "Agrio de Limon Darro ",
+            "presentacion": "500ml ",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Miche mix clásica ",
+            "presentacion": "Con jugo de limón 240ml ",
+            "precio": 2000.0
+        },
+        {
+            "nombre": "Salsa Picante Carribean de chile habanero ",
+            "presentacion": "120ml ",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Salsa Extra Picante Yucateco ",
+            "presentacion": "120ml ",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Salsa Picante de Chile Habanero ",
+            "presentacion": "120ml ",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Guanciale con Pepe ",
+            "presentacion": "80g  \n\nEl «guanciale al pepe»es un embutido  elaborado con la carrillera del cerdo, un corte de carne que tiene una buena grasa envolvente y delicada , atravesada por venas magras. Un embutido que por consistencia y sabor se sitúa a medio camino entre  la panceta y el tocino, pero con un sello gustativo característico y particular. Un producto que mantiene su fragancia y suavidad .",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Mortadella ",
+            "presentacion": "1.10lb ",
+            "precio": 1510.0
+        },
+        {
+            "nombre": "Mortadella con Aceituna ",
+            "presentacion": "1.10lb ",
+            "precio": 1785.0
+        },
+        {
+            "nombre": "Recorteria embutido de Cerdo ",
+            "presentacion": "1lb ",
+            "precio": 2100.0
+        },
+        {
+            "nombre": "Jamón Sant Dalmai Artesano (cocido) ",
+            "presentacion": "100g ",
+            "precio": 860.0
+        },
+        {
+            "nombre": "Chorizo Cular Blanco Extra ",
+            "presentacion": "85g ",
+            "precio": 1040.0
+        },
+        {
+            "nombre": "Bacon Bocatel San Dalmai ",
+            "presentacion": "100g ",
+            "precio": 915.0
+        },
+        {
+            "nombre": "Garbanzo con Panceta y Chorizo deCancio ",
+            "presentacion": "420g ",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Fabada Asturiana deCancio ",
+            "presentacion": "420g ",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Alubias Blancas deCancio ",
+            "presentacion": "...",
+            "precio": 1190.0
+        },
+        {
+            "nombre": "Lentejas con Panceta y Chorizo deCancio ",
+            "presentacion": "420g ",
+            "precio": 1070.0
+        },
+        {
+            "nombre": "Alubias con Panceta y Chorizo deCancio ",
+            "presentacion": "420g ",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Arroz Super Extra KDM ",
+            "presentacion": "900g ",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Mascarilla para cabellos teñidos con extracto de granada Aroma Natural",
+            "presentacion": "450ml",
+            "precio": 2050.0
+        },
+        {
+            "nombre": "Acondicionador de Calendula Aroma Natural ",
+            "presentacion": "Para cabellos secos \n400ml ",
+            "precio": 1560.0
+        },
+        {
+            "nombre": "Acondicionador de manzanilla Natural Aroma ",
+            "presentacion": "Para todo tipo de cabellos \n400ml",
+            "precio": 1560.0
+        },
+        {
+            "nombre": "Champu de Calendula Aroma Natural ",
+            "presentacion": "Para cabellos secos \n400ml",
+            "precio": 1380.0
+        },
+        {
+            "nombre": "Champu de Manzanilla Aroma Natural ",
+            "presentacion": "Para todo tipos de cabellos \n400ml",
+            "precio": 1380.0
+        },
+        {
+            "nombre": "Champu de Aguacate Leche De Coco Aroma Natural ",
+            "presentacion": "Para cabello Delgado \n400ml",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Champu de Granada  Aroma Natural",
+            "presentacion": "400ml ",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Acondicionador de  Aguacate y Leche de Coco Aroma Natural ",
+            "presentacion": "Para cabellos Delgados \n400ml ",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Acondicionador de Granada Aroma Natural ",
+            "presentacion": "Para cabellos teñidos \n400ml ",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Pasta Dental Triple Accion ",
+            "presentacion": "170g ",
+            "precio": 1700.0
+        },
+        {
+            "nombre": "Pasta Dental Colgate Baking Soda & Peroxide ",
+            "presentacion": "170g ",
+            "precio": 1700.0
+        },
+        {
+            "nombre": "Body Wash Ocean Fresh Simply ",
+            "presentacion": "355ml ",
+            "precio": 945.0
+        },
+        {
+            "nombre": "Body Wash Peach Blossom & Silk Simply ",
+            "presentacion": "355ml ",
+            "precio": 945.0
+        },
+        {
+            "nombre": "Body Wash Spring Fresh Simply ",
+            "presentacion": "355ml",
+            "precio": 945.0
+        },
+        {
+            "nombre": "Body Wash Sweet Pea Orchid Simply ",
+            "presentacion": "355ml ",
+            "precio": 945.0
+        },
+        {
+            "nombre": "Desengrasante Arrixaca Pulverizador ",
+            "presentacion": "750ml",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Gel Intimo Nuky",
+            "presentacion": "500ml",
+            "precio": 1380.0
+        },
+        {
+            "nombre": "Gel de baño Aceite de Argan Nuky ",
+            "presentacion": "750ml",
+            "precio": 1380.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Aroma Vainilla ",
+            "presentacion": "Bálsamo Labial \nLas vaselina perfumada Vainilla de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Aroma Manzana ",
+            "presentacion": "Bálsamo Labial \nLa vaselina perfumada Manzana de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas.",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Melocotón ",
+            "presentacion": "Bálsamo de Labios \nLa vaselina perfumada Melocotón de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas.",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Aroma Neutro",
+            "presentacion": "Bálsamo Labial \nLa vaselina Neutra de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas.",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Aroma Coco ",
+            "presentacion": "Bálsamo Labial \nLa vaselina perfumada Coco de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas.",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Vaselina Labios Aroma Fresa ",
+            "presentacion": "Bálsamo Labial \nLa vaselina perfumada Fresa de S’Nonas ayuda a mantener en todo momento la hidratación labial adecuada. Humecta, alivia y protege la piel y las mucosas.",
+            "precio": 570.0
+        },
+        {
+            "nombre": "S’Nomas Espuma de Afeitar para hombre ",
+            "presentacion": "200ml \n\nLa Espuma de Afeitar es una emulsión-saponificación de ácidos y alcoholes grasos, además de componentes naturales afines a la piel que confieren al afeitado suavidad, retardando la salida del vello.\nEstá enriquecida con lanolina y glicerina que hidratan, tersan y reparan la piel agredida por el afeitado diario",
+            "precio": 1470.0
+        },
+        {
+            "nombre": "Fregasuelo de Flor de Cerezo  ArriXaca ",
+            "presentacion": "1.5t ",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Cítrico ArriXaca ",
+            "presentacion": "1.5lt ",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Marino ArriXaca ",
+            "presentacion": "1.5lt ",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Floral ArriXaca ",
+            "presentacion": "1.5lt ",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Limpia Todo ArriXaca ",
+            "presentacion": "1Lt \nLimpiador Amoniacal ",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Ambientador  Arrixaca D.K",
+            "presentacion": "400ml \nEl Ambientador DK proporciona un perfume natural en la casa, coche o cualquier espacio.\nAdemás, contiene neutralizantes de malos olores.\nPuede tener una duración de hasta 18 horas.",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "Ambientador Pacífico ArriXaca ",
+            "presentacion": "400ml \nAmbientador especialmente formulado para perfumar la casa, el coche y cualquier espacio, con un perfume tropical que proporciona un olor fresco en toda la estancia.\nContiene neutralizantes de malos olores; de acción persistente.\nDuración hasta de 18 horas.",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "Ambientador Frescor ArriXaca ",
+            "presentacion": "400ml \n\nEl Ambientador Marino está especialmente formulado para perfumar la casa, el coche y cualquier espacio, con un perfume natural que proporciona un olor fresco marino por toda la estancia.\nContiene neutralizantes de malos olores, de acción persistente.\nPuede tener una duración de hasta 18 horas.\n",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "Ambientador Bosque ArriXaca ",
+            "presentacion": "400ml \n\nEl Ambientador Bosque contiene neutralizantes de malos olores, de acción persistente.\nEstá especialmente formulado para perfumar la casa, el coche y cualquier espacio, con un natural perfume que proporciona un agradable olor a pino en toda la estancia.",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "Ambientador Lavanda ArriXaca ",
+            "presentacion": "400ml \n\nEl Ambientador Lavanda contiene neutralizantes de malos olores, de acción persistente. Formulado especialmente para perfumar la casa, el coche y cualquier espacio, con un perfume natural que proporciona un agradable aroma a lavanda en todo el hogar. Puede tener una duración de hasta 18 horas.",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "AMBIENTADOR CON OLOR A ROPA LIMPIA ARRIXACA ",
+            "presentacion": "400ml ",
+            "precio": 1845.0
+        },
+        {
+            "nombre": "Servilleta Titiz ",
+            "presentacion": "100unid \n25x25",
+            "precio": 520.0
+        },
+        {
+            "nombre": "Servilletas Wym ",
+            "presentacion": "100unid ",
+            "precio": 480.0
+        },
+        {
+            "nombre": "Frazada de piso ",
+            "presentacion": "...",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Champú y Acondicionador de Proteína de Trigo Aroma ",
+            "presentacion": "2 en 1 \n400ml ",
+            "precio": 1560.0
+        },
+        {
+            "nombre": "Suavizante Talco Ayala ",
+            "presentacion": "2lt ",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Suavizante Frescor Azul  Ayala ",
+            "presentacion": "2lt ",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Enjuague Bucal Ayala ",
+            "presentacion": "Menta Freca ",
+            "precio": 1405.0
+        },
+        {
+            "nombre": "WC baño con lejía Kiriko ",
+            "presentacion": "750ml ",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Limpiador para baño WC 3 en 1 Kiriko ",
+            "presentacion": "750ml ",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Pasta Dental Colgate triple acción ",
+            "presentacion": "Extra blancura 160ml ",
+            "precio": 1750.0
+        },
+        {
+            "nombre": "Jabón de tocador Tropical Blossom Kare ",
+            "presentacion": "75g ",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Nylon Retráctil Amanhecer ",
+            "presentacion": "60mt ",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Jabón de tocador Aloe Vera Kare ",
+            "presentacion": "75g ",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Kleenex ",
+            "presentacion": "12unid",
+            "precio": 1380.0
+        },
+        {
+            "nombre": "Jabón de tocador Classic Creamy Kare",
+            "presentacion": "75g ",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Jabón de tocador collogne Azul Kare ",
+            "presentacion": "75g ",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Vino tinto clásico D.O.Ca Rioja Marques de Griñon ",
+            "presentacion": "750ml ",
+            "precio": 4200.0
+        },
+        {
+            "nombre": "Ginger Ale ",
+            "presentacion": "300ml ",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Licor Aperol ",
+            "presentacion": "700ml ",
+            "precio": 8200.0
+        },
+        {
+            "nombre": "Vino Fino Palomino D.O Jerez Tío Pepe ",
+            "presentacion": "375ml ",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Vino Tinto Casillero del Diablo Cabernet Sauvignon ",
+            "presentacion": "750ml ",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "Vino Tinto Finca Resalso Emilio Moro ",
+            "presentacion": "750ml",
+            "precio": 6100.0
+        },
+        {
+            "nombre": "Agua San Joaquín ",
+            "presentacion": "1.5lt ",
+            "precio": 445.0
+        },
+        {
+            "nombre": "Jugo Piña Dimes ",
+            "presentacion": "200ml",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Jugo Melocotón Dimes ",
+            "presentacion": "200ml ",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Jugo Albaricoque Dimes ",
+            "presentacion": "200ml ",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Ron Santiago de Cuba 11 años ",
+            "presentacion": "40% Vol. 0,7l",
+            "precio": 7900.0
+        },
+        {
+            "nombre": "Ron Santiago de Cuba 8 años ",
+            "presentacion": "40% Vol. 0,7l",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "Ron Santiago de Cuba 12 años ",
+            "presentacion": "700ml",
+            "precio": 9300.0
+        },
+        {
+            "nombre": "Ron Santiago de Cuba Carta Blanca ",
+            "presentacion": " 38% Vol. 0,7l",
+            "precio": 2800.0
+        },
+        {
+            "nombre": "Ron Santiago de Cuba Tradición ",
+            "presentacion": "700ml",
+            "precio": 3600.0
+        },
+        {
+            "nombre": "Jugo Dimes Premium Tetra Manzana ",
+            "presentacion": "200ml ",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Néctar Dimes Clasicc Multifrutas ",
+            "presentacion": "200ml\n",
+            "precio": 200.0
+        },
+        {
+            "nombre": "VB Casillero Del Diablo Chardonnay ",
+            "presentacion": "750ml ",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "VB Casillero del Diablo Sauvignon Blanc",
+            "presentacion": "750ml ",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "Néctar de Mango Nezka ",
+            "presentacion": "250ml ",
+            "precio": 420.0
+        },
+        {
+            "nombre": "Vino Tinto Pinot Noir (Valle Casablanca) VERAMONTE Reserva",
+            "presentacion": "750ml ",
+            "precio": 4750.0
+        },
+        {
+            "nombre": "Cava Vilarnau Ice Sec ",
+            "presentacion": "750ml ",
+            "precio": 5300.0
+        },
+        {
+            "nombre": "Compota de Durazno Fresko ",
+            "presentacion": "4 onz",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Compota de Pera Fresko ",
+            "presentacion": "4onz ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Compota de Banana Fresko ",
+            "presentacion": "4onz ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Compota de Frutas Mixtas Fresko ",
+            "presentacion": "4onz ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Compota Mango Fresko ",
+            "presentacion": "4onz ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Vino Blanco Frontera Chardonnay ",
+            "presentacion": "750ml ",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Fever Tree Agua Tónica Premium Indian",
+            "presentacion": "150cc",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Vino Tinto Chateau Domecq Valle de Guadalupe ",
+            "presentacion": "2021",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "VB JP Chenet Vin De France Colombard Chardonnay",
+            "presentacion": "250ml ",
+            "precio": 1670.0
+        },
+        {
+            "nombre": "Néctar de Pera deCancio ",
+            "presentacion": "Botella \n200ml ",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Néctar de Pera ",
+            "presentacion": "200ml ",
+            "precio": 190.0
+        },
+        {
+            "nombre": "Néctar de Mango deCancio ",
+            "presentacion": "Botella \n200ml ",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Néctar de Manzana deCancio ",
+            "presentacion": "Botella \n200ml ",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Néctar de Multifrutas deCancio ",
+            "presentacion": "Botella \n200ml ",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Néctar de Melocotón deCancio",
+            "presentacion": "200ml ",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Cerveza Super Bock Abadia",
+            "presentacion": "...",
+            "precio": 465.0
+        },
+        {
+            "nombre": "Cerveza Super Bock Stout ",
+            "presentacion": "...",
+            "precio": 440.0
+        },
+        {
+            "nombre": "Cerveza Daura Damm ",
+            "presentacion": "330ml \nSin gluten ",
+            "precio": 675.0
+        },
+        {
+            "nombre": "Soda Evervess ",
+            "presentacion": "300ml",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Cerveza Super Bock sin Alcohol ",
+            "presentacion": "330ml \n0.0%Alc. ",
+            "precio": 485.0
+        },
+        {
+            "nombre": "Bebida Energizante Peach Vibe Celsius ",
+            "presentacion": "355ml ",
+            "precio": 1150.0
+        },
+        {
+            "nombre": "Bebida Energizante Tropical Vibe Celsius ",
+            "presentacion": "355ml ",
+            "precio": 1150.0
+        },
+        {
+            "nombre": "Néctar Guava Nezka ",
+            "presentacion": "250ml ",
+            "precio": 495.0
+        },
+        {
+            "nombre": "Bebida Alcoholica Roskoff Ice Rtd Limón ",
+            "presentacion": "275ml ",
+            "precio": 580.0
+        },
+        {
+            "nombre": "Vino Tinto Casillero del Diablo Merlot ",
+            "presentacion": "...",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "Vino Tinto Casillero del Diablo Carmenere ",
+            "presentacion": "...",
+            "precio": 4600.0
+        },
+        {
+            "nombre": "Cerveza Estrella Damm ",
+            "presentacion": "6x 330ml ",
+            "precio": 2820.0
+        },
+        {
+            "nombre": "Cerveza Estrella Damm ",
+            "presentacion": "330ml ",
+            "precio": 470.0
+        },
+        {
+            "nombre": "Perrier Agua Mineral con Gas ",
+            "presentacion": "330ml ",
+            "precio": 770.0
+        },
+        {
+            "nombre": "Coca Cola ",
+            "presentacion": "330ml ",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Vino Tinto Frontera Merlot ",
+            "presentacion": "750ml ",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Vino Tinto Frontera Carmene ",
+            "presentacion": "750ml",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Vino Blanco Frontera Sauvignon Blanc ",
+            "presentacion": "750ml ",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Cerveza Super Bock ",
+            "presentacion": "5.2% 33cl ",
+            "precio": 420.0
+        },
+        {
+            "nombre": "Redbull ",
+            "presentacion": "250ml ",
+            "precio": 570.0
+        },
+        {
+            "nombre": "Agua Natural ",
+            "presentacion": "500ml",
+            "precio": 195.0
+        },
+        {
+            "nombre": "Refresco piñata Melocotón ",
+            "presentacion": "12L ",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Sidra Cereser ",
+            "presentacion": "660ml ",
+            "precio": 1650.0
+        },
+        {
+            "nombre": "Levadura instantánea para Pan La Florida ",
+            "presentacion": "450g ",
+            "precio": 2250.0
+        },
+        {
+            "nombre": "Spaguetti Tu Pasta",
+            "presentacion": "500g ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Sopa sabor Ternera con Estrellitas ",
+            "presentacion": "Con aceite de oliva ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Sopa sabor Cocido ",
+            "presentacion": "Con aceite de oliva ",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Pan Rallado Onena",
+            "presentacion": "500g ",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Spaghetti Donatella ",
+            "presentacion": "500g",
+            "precio": 410.0
+        }
+            ]
+        }        
+    
+]

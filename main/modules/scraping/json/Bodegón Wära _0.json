@@ -1,0 +1,1158 @@
+[
+    {
+        "nombre": "Bodegón Wära",
+        "municipio": "Playa",
+        "ubicacion":{
+            "lat": 23.126681,
+            "long":-82.422173
+        },
+        "horario": "Lunes a Sábado 9:00 AM / 7:00 PM Domingos 9:00 AM / 5:00 PM",
+        "productos":[
+            {
+        "nombre": "Fajita de Res",
+        "presentacion": "2lb",
+        "precio": 3950.0
+    },
+    {
+        "nombre": "Bistec de Res",
+        "presentacion": "2lb",
+        "precio": 3950.0
+    },
+    {
+        "nombre": "Carne de Res Molida",
+        "presentacion": "2lb",
+        "precio": 3950.0
+    },
+    {
+        "nombre": "Carne de Res troceada 2lb",
+        "presentacion": "...",
+        "precio": 3900.0
+    },
+    {
+        "nombre": "Filetede Cerdo Condimentado",
+        "presentacion": "Precio x lb\nSabor: Ajo y Finas hiebas",
+        "precio": 1440.0
+    },
+    {
+        "nombre": "Filete de Cerdo Condimentado Roztizado Dorado",
+        "presentacion": "Precio x lb",
+        "precio": 1440.0
+    },
+    {
+        "nombre": "Filete de Cerdo Condimentado Teriyaki",
+        "presentacion": "Precio x lb",
+        "precio": 1440.0
+    },
+    {
+        "nombre": "Picadillo de Res",
+        "presentacion": "1lb",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Hamburguesa de Cerdo Saboré",
+        "presentacion": "6u",
+        "precio": 1680.0
+    },
+    {
+        "nombre": "Picadillo de Res GCM",
+        "presentacion": "1kg",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Croquetas Jamón Gava 12unidades",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Croquetas Jamón Gava 24u",
+        "presentacion": "...",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Croquetas de Pollo Gava 24u",
+        "presentacion": "...",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Croquetas Pollo Gava 12u",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Papas prefritas Uranus",
+        "presentacion": "2kg",
+        "precio": 3400.0
+    },
+    {
+        "nombre": "Tortillas para tacos 12u",
+        "presentacion": "10 cm / 12 unidades. \n",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Tortillas para tacos 18u",
+        "presentacion": "20cm\n18unidades",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Croquetas de Pollo ",
+        "presentacion": "Paquete de 10 unidades",
+        "precio": 240.0
+    },
+    {
+        "nombre": "Croquetas de Jamón",
+        "presentacion": "Paquetes de 10 unidades",
+        "precio": 240.0
+    },
+    {
+        "nombre": "Pechuga de Pollo ",
+        "presentacion": "1lb",
+        "precio": 1890.0
+    },
+    {
+        "nombre": "Hamburguesa Burgy",
+        "presentacion": "3u. 150g",
+        "precio": 490.0
+    },
+    {
+        "nombre": "Bistec de Cerdo",
+        "presentacion": "1lb",
+        "precio": 1850.0
+    },
+    {
+        "nombre": "Lomo de cerdo deshuesdo",
+        "presentacion": "Precio por lb\nPiezas selladas al vacío de 7lb aproximadamente ",
+        "precio": 1380.0
+    },
+    {
+        "nombre": "Lomo de Cerdo",
+        "presentacion": "1lb",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Solomillo de Cerdo",
+        "presentacion": "Peso por lb\nPreguntar disponibilidad de peso",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Jamón York (tabernita)",
+        "presentacion": "0.47lb",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Lomo ahumado (tabernita)",
+        "presentacion": "0.46lb",
+        "precio": 2300.0
+    },
+    {
+        "nombre": "Chorizo herradura Cular Extra Blanco",
+        "presentacion": "100g",
+        "precio": 1400.0
+    },
+    {
+        "nombre": "Chorizo Ibérico de Bellota Fisan",
+        "presentacion": "80g",
+        "precio": 2040.0
+    },
+    {
+        "nombre": "Jamón Sant Dalmai Artesano",
+        "presentacion": "100g",
+        "precio": 1180.0
+    },
+    {
+        "nombre": "Jamon Barra York",
+        "presentacion": "100g",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Bacon Bocatel Sant Dalmai",
+        "presentacion": "100g empaquetado al vacío ",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Chorizo Cular Blanco Extra Lasqueado",
+        "presentacion": "80g",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Centro de Jamón Serrano",
+        "presentacion": "100g empaquetado al vacío ",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Mantequilla El sabino",
+        "presentacion": "90g",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Leche entera Rica ",
+        "presentacion": "1L",
+        "precio": 1530.0
+    },
+    {
+        "nombre": "Leche Evaporada Rica",
+        "presentacion": "345g",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Queso de Oveja con Romero",
+        "presentacion": "150g",
+        "precio": 2850.0
+    },
+    {
+        "nombre": "Queso de Oveja con miel y Jengibre",
+        "presentacion": "150g",
+        "precio": 2850.0
+    },
+    {
+        "nombre": "Queso de Oveja con Fresas",
+        "presentacion": "150g",
+        "precio": 2800.0
+    },
+    {
+        "nombre": "Leche Semidescremada",
+        "presentacion": "1L",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "Crema de Leche",
+        "presentacion": "250ml.   256g",
+        "precio": 1150.0
+    },
+    {
+        "nombre": "Yogurt MeMilk Natural",
+        "presentacion": "100g\n1 vasito",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Yogurt MeMilk multifrutas",
+        "presentacion": "100g\n1 vasito",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Helado Cid Rizado de fresa 4L",
+        "presentacion": "...",
+        "precio": 4600.0
+    },
+    {
+        "nombre": "Helado Cid 4L Frutos del Bosque",
+        "presentacion": "4L",
+        "precio": 4600.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Probiótico Fresa",
+        "presentacion": "1L",
+        "precio": 1530.0
+    },
+    {
+        "nombre": "Yogurt Probiótico Gustatini Natural",
+        "presentacion": "1L",
+        "precio": 1530.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Naranja Piña 500ml",
+        "presentacion": "🍊🍍",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Fresa 500ml",
+        "presentacion": "500ml",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Yogur Gustatini Natural 500ml",
+        "presentacion": "...",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Guanabana 500ml",
+        "presentacion": "500ml",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Maracuyá 500ml",
+        "presentacion": "...",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Platanito 1L",
+        "presentacion": "...",
+        "precio": 1530.0
+    },
+    {
+        "nombre": "Yogurt Gustatini Naranja Piña 1L",
+        "presentacion": "🍊🍍",
+        "precio": 1530.0
+    },
+    {
+        "nombre": "Queso Parmesano Mantias",
+        "presentacion": "227g",
+        "precio": 2600.0
+    },
+    {
+        "nombre": "Queso Crema Santa Ana ",
+        "presentacion": "225g",
+        "precio": 1350.0
+    },
+    {
+        "nombre": "Queso Crema Español",
+        "presentacion": "600 gr",
+        "precio": 4420.0
+    },
+    {
+        "nombre": "Queso Provolone Ahumado lasquedo",
+        "presentacion": "100g",
+        "precio": 1120.0
+    },
+    {
+        "nombre": "Cheese Cake",
+        "presentacion": "400g\nForma fácil de preparar su Cheese cake en casa",
+        "precio": 2150.0
+    },
+    {
+        "nombre": "Cacciota con Peperoncino",
+        "presentacion": "...",
+        "precio": 2980.0
+    },
+    {
+        "nombre": "Cacciota con Trufa",
+        "presentacion": "...",
+        "precio": 3380.0
+    },
+    {
+        "nombre": "Queso Curado",
+        "presentacion": "150g",
+        "precio": 2250.0
+    },
+    {
+        "nombre": "Queso Gouda Bloque",
+        "presentacion": "~6.7lb",
+        "precio": 13000.0
+    },
+    {
+        "nombre": "Queso Grana Padano",
+        "presentacion": "200g",
+        "precio": 4020.0
+    },
+    {
+        "nombre": "Queso Curado con Trufa",
+        "presentacion": "150g\nQueso de mezcla de leche de vaca, cabra y oveja pausterizado curado con trufas\n",
+        "precio": 2420.0
+    },
+    {
+        "nombre": "Margarina Naturlin con sabor a Mantequilla",
+        "presentacion": "1kg",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Queso Semicurado",
+        "presentacion": "150g",
+        "precio": 2150.0
+    },
+    {
+        "nombre": "Queso Gouda por Lb",
+        "presentacion": "\nPreguntar disponibilidad y peso (precio por lb)",
+        "precio": 2100.0
+    },
+    {
+        "nombre": "Queso Crema Praire Farms",
+        "presentacion": "226g",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Leche Condensada Azucarada La Granjera",
+        "presentacion": "390g",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Helado Cid Chocolate 🍫  4L",
+        "presentacion": "4L\nPreguntar disponibilidad",
+        "precio": 4600.0
+    },
+    {
+        "nombre": "Yogurt Probiótico Natural Santa Ana",
+        "presentacion": "1L",
+        "precio": 1420.0
+    },
+    {
+        "nombre": "Helado Cid Chocolate 1L",
+        "presentacion": "🍫",
+        "precio": 1285.0
+    },
+    {
+        "nombre": "Helado Cid Fresa 1L",
+        "presentacion": "🍓",
+        "precio": 1285.0
+    },
+    {
+        "nombre": "Helado Cid Almendra 1L",
+        "presentacion": "🌰",
+        "precio": 1285.0
+    },
+    {
+        "nombre": "Crema para cafe de Avellana MacDaniels",
+        "presentacion": "425g",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Café Molido Isla Grande",
+        "presentacion": "250g\nCafé cubano",
+        "precio": 1750.0
+    },
+    {
+        "nombre": "Café Cubano",
+        "presentacion": "125g",
+        "precio": 960.0
+    },
+    {
+        "nombre": "Chocolate en Polvo Apti",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Te Verde Ship",
+        "presentacion": "25 bolsitas",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Té Tila Ship",
+        "presentacion": "25 bolsitas ",
+        "precio": 740.0
+    },
+    {
+        "nombre": "Coffe Creamer Natural Mcdaniels",
+        "presentacion": "1lb",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Café La llave ",
+        "presentacion": "10 oz. 284g",
+        "precio": 3300.0
+    },
+    {
+        "nombre": "Coffemate Natural 140g",
+        "presentacion": "...",
+        "precio": 2160.0
+    },
+    {
+        "nombre": "Coffemate Avellana ",
+        "presentacion": "400g",
+        "precio": 3900.0
+    },
+    {
+        "nombre": "Coffe mate Vainilla ",
+        "presentacion": "400g",
+        "precio": 3900.0
+    },
+    {
+        "nombre": "Coffemate Extra Cremoso ",
+        "presentacion": "400g",
+        "precio": 3960.0
+    },
+    {
+        "nombre": "Coffe mate Chocolate ",
+        "presentacion": "400g",
+        "precio": 3900.0
+    },
+    {
+        "nombre": "Café Soluble Aurera 50g",
+        "presentacion": "Mezclado con azúcar caramelizada \n50g",
+        "precio": 2300.0
+    },
+    {
+        "nombre": "Sirope Hersheys Simply 5",
+        "presentacion": "3lb.  1.36kg",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Nutella ",
+        "presentacion": "400g",
+        "precio": 3700.0
+    },
+    {
+        "nombre": "Lentejas Rojas Iberia",
+        "presentacion": "340g",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Frijoles Rosados Iberia",
+        "presentacion": "340g",
+        "precio": 840.0
+    },
+    {
+        "nombre": "Arroz 5lb",
+        "presentacion": "...",
+        "precio": 2390.0
+    },
+    {
+        "nombre": "Garbanzos Del Campo",
+        "presentacion": "1lb",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Frijoles Blancos del Campo",
+        "presentacion": "1lb",
+        "precio": 860.0
+    },
+    {
+        "nombre": "Frijoles Colorados del Campo",
+        "presentacion": "...",
+        "precio": 920.0
+    },
+    {
+        "nombre": "Arroz Mirhogar Grano Largo",
+        "presentacion": "1kg",
+        "precio": 780.0
+    },
+    {
+        "nombre": "Chicharos Verdea Partidos Penelas",
+        "presentacion": "500g",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Frijoles Negros Del Campo",
+        "presentacion": "1lb",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Pan masa Blanca rebanado Bauducco",
+        "presentacion": "390g",
+        "precio": 830.0
+    },
+    {
+        "nombre": "Spaguetis Monca",
+        "presentacion": "500g",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Pan Rallado Badia",
+        "presentacion": "Pan rallado con sazón completo 425g",
+        "precio": 1990.0
+    },
+    {
+        "nombre": "Harina de trigo Moara de familie",
+        "presentacion": "1kg",
+        "precio": 480.0
+    },
+    {
+        "nombre": "Fusilli Assaada",
+        "presentacion": "500g",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Fideos Badelli",
+        "presentacion": "350g",
+        "precio": 335.0
+    },
+    {
+        "nombre": "Pan Perro",
+        "presentacion": "4u",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Pan Bon",
+        "presentacion": "Bolsa con 6 panes Bon\nPreguntar disponibilidad",
+        "precio": 250.0
+    },
+    {
+        "nombre": "Pan de Molde",
+        "presentacion": "Preguntar disponibilidad",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Pan rallado Onen",
+        "presentacion": "250g",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Pan Rallado Onena",
+        "presentacion": "Pan rallado con Ajo y Perrjil\n250g",
+        "precio": 660.0
+    },
+    {
+        "nombre": "Coditos Besler",
+        "presentacion": "500g",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Penne Banetti",
+        "presentacion": "500g",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Maicena Apti",
+        "presentacion": "200g",
+        "precio": 720.0
+    },
+    {
+        "nombre": "Bicarbonato de Sodio",
+        "presentacion": "100g",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Galletas Palmeritas Iberia",
+        "presentacion": "195g",
+        "precio": 620.0
+    },
+    {
+        "nombre": "Galletas Crakeñas Doraditas",
+        "presentacion": "...",
+        "precio": 1430.0
+    },
+    {
+        "nombre": "Galletas Luanesco Chocolate rellenas con Vainilla",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Galletas Luanitos relleno limón",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Galletas Rellenitas Chocolate Menta",
+        "presentacion": "6 unidades",
+        "precio": 140.0
+    },
+    {
+        "nombre": "Galletas Rellenitas Chocolate",
+        "presentacion": "6 unidades",
+        "precio": 140.0
+    },
+    {
+        "nombre": "Galletas Marias Mini",
+        "presentacion": "...",
+        "precio": 250.0
+    },
+    {
+        "nombre": "Galletas Maxim",
+        "presentacion": "...",
+        "precio": 430.0
+    },
+    {
+        "nombre": "Galletas Saltine",
+        "presentacion": "...",
+        "precio": 870.0
+    },
+    {
+        "nombre": "Galletas Pit Stop Queso",
+        "presentacion": "4u",
+        "precio": 100.0
+    },
+    {
+        "nombre": "Galletas Doble Deleite Fresa",
+        "presentacion": "42g",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Galletas Marias",
+        "presentacion": "170g",
+        "precio": 440.0
+    },
+    {
+        "nombre": "Galletas Maria Goya",
+        "presentacion": "7oz",
+        "precio": 610.0
+    },
+    {
+        "nombre": "Galletas Palmeras Goya",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Galletas Maria Bauducco",
+        "presentacion": "...",
+        "precio": 520.0
+    },
+    {
+        "nombre": "Galletas Oreo Golden",
+        "presentacion": "523g",
+        "precio": 2120.0
+    },
+    {
+        "nombre": "Galletas Blackout",
+        "presentacion": "6u",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Galletas Saladitas San Jorge",
+        "presentacion": "45g",
+        "precio": 180.0
+    },
+    {
+        "nombre": "Sorbeto Bauducco Fresa ",
+        "presentacion": "(5.0oz-142g)",
+        "precio": 540.0
+    },
+    {
+        "nombre": "Sorbeto Bauducco Chocolate",
+        "presentacion": "142g",
+        "precio": 540.0
+    },
+    {
+        "nombre": "Sorbeto Bauducco Coco",
+        "presentacion": "142g",
+        "precio": 540.0
+    },
+    {
+        "nombre": "Galletas Saltitacos 7",
+        "presentacion": "7 tacos de 15 galletas aproximadamente",
+        "precio": 1250.0
+    },
+    {
+        "nombre": "Pasas Sultanas Sagacor",
+        "presentacion": "120g",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Frutos Secos Extras Sagacor",
+        "presentacion": "Sin Gluten",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Cereal Kiggins Captain Choco 11.5",
+        "presentacion": "326g\nCereal de maíz con sabor a chocolate endulzado Kiggins Captain Choco 11.5 onzas",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "HOJUELAS DE AVENA QUAKER OLD FASHIONED REGULAR",
+        "presentacion": "18oz.  510.29g\nLa avena Quaker Old Fashioned Oats es avena entera que se enrolla para aplanarla. Es buena fuente de carbohidratos, vitaminas, minerales y fibra.",
+        "precio": 1720.0
+    },
+    {
+        "nombre": "HOJUELAS DE AVENA QUAKER QUICK REGULAR",
+        "presentacion": "18oz\nLa avena Quick Quaker se corta en trozos ligeramente más pequeños para que se cocine más rápido.",
+        "precio": 1720.0
+    },
+    {
+        "nombre": "HOJUELAS DE AVENA QUAKER QUICK  42oz",
+        "presentacion": "...",
+        "precio": 3240.0
+    },
+    {
+        "nombre": "Berry & Chocolate Trail Mix",
+        "presentacion": "Mix624g",
+        "precio": 4900.0
+    },
+    {
+        "nombre": "Mantequilla de Maní con Miel",
+        "presentacion": "284g",
+        "precio": 1670.0
+    },
+    {
+        "nombre": "Cereal Kiggins Croco Berry Crunch ",
+        "presentacion": "...",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Pasas Sultanas",
+        "presentacion": "150g Sin Gluten",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Mantequilla de Maní Artesanal Tita 130g",
+        "presentacion": "Producto 100% natural, libre de azúcar ",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Trozos de Frutabomba en Almibar",
+        "presentacion": "450g",
+        "precio": 680.0
+    },
+    {
+        "nombre": "Aceitunas Manzanilla con Pimiento Kurts",
+        "presentacion": "163g",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Aceitunas Manzanillas en rodajas con Pimiento",
+        "presentacion": "163g",
+        "precio": 1450.0
+    },
+    {
+        "nombre": "Compota de Manzana Fairhill",
+        "presentacion": "6 cups\nUnidad. $290",
+        "precio": 1740.0
+    },
+    {
+        "nombre": "Melocotón en Mitades Volá",
+        "presentacion": "...",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Trozo de Fruta Bomba en Almibar",
+        "presentacion": "450g",
+        "precio": 680.0
+    },
+    {
+        "nombre": "Aceitunas verdes sin hueso Fragata",
+        "presentacion": "160g",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Puré de Papas Clásico Kent",
+        "presentacion": "125g",
+        "precio": 730.0
+    },
+    {
+        "nombre": "Lomo de Atún en Aceite Lucy",
+        "presentacion": "185g",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Miel Apisun",
+        "presentacion": "1300g",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Mantequilla de Maní Nut some",
+        "presentacion": "1lb. 454g",
+        "precio": 2180.0
+    },
+    {
+        "nombre": "Melocotón en Almíbar Vima",
+        "presentacion": "425g",
+        "precio": 880.0
+    },
+    {
+        "nombre": "Maiz Dulce en grano",
+        "presentacion": "425g",
+        "precio": 8000.0
+    },
+    {
+        "nombre": "Mermelada de Cereza Tamek",
+        "presentacion": "380g",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Vino Tinto Castañeda",
+        "presentacion": "...",
+        "precio": 1560.0
+    },
+    {
+        "nombre": "Kermato 1L",
+        "presentacion": "...",
+        "precio": 1930.0
+    },
+    {
+        "nombre": "Vino Tinto Viña Mercedes",
+        "presentacion": "750ml",
+        "precio": 1400.0
+    },
+    {
+        "nombre": "Chemato 1L",
+        "presentacion": "Salsa de tomate con sabor Almejas",
+        "precio": 1360.0
+    },
+    {
+        "nombre": "Ron Santiago 8 años",
+        "presentacion": "...",
+        "precio": 6100.0
+    },
+    {
+        "nombre": "Vino Tinto Viña Mercedes",
+        "presentacion": "750ml",
+        "precio": 1660.0
+    },
+    {
+        "nombre": "Refresco Cola Revoltosa",
+        "presentacion": "2L",
+        "precio": 890.0
+    },
+    {
+        "nombre": "Agua Lunares 330ml",
+        "presentacion": "...",
+        "precio": 210.0
+    },
+    {
+        "nombre": "Crema de whisky Scoth Lands",
+        "presentacion": "70cl\n15% vol",
+        "precio": 5000.0
+    },
+    {
+        "nombre": "Jugo Goliath Guayaba",
+        "presentacion": "946ml",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Refresco Naranja Fresh Mix",
+        "presentacion": "250ml",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Refresco Limón Fresh Mix",
+        "presentacion": "250ml",
+        "precio": 190.0
+    },
+    {
+        "nombre": "Jugo Tuana Cereza",
+        "presentacion": "200ml",
+        "precio": 130.0
+    },
+    {
+        "nombre": "Jugo Tuana Melocotón",
+        "presentacion": "200ml",
+        "precio": 130.0
+    },
+    {
+        "nombre": "Jugo Tuana",
+        "presentacion": "200ml",
+        "precio": 130.0
+    },
+    {
+        "nombre": "Bebida Alcohólica Roskoff Ice Sandía-Limón",
+        "presentacion": "275ml",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Bebida Alcohólica Mista Roskoff Ice Limón",
+        "presentacion": "275ml 🍋‍🟩\n",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Bebida Alcohólica Mista Roskoff Ice Tropical",
+        "presentacion": "275ml ",
+        "precio": 580.0
+    },
+    {
+        "nombre": "Jugo Manzana Yes!",
+        "presentacion": "1L",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Malta Mega",
+        "presentacion": "...",
+        "precio": 320.0
+    },
+    {
+        "nombre": "Vino Rosado Gato Negro",
+        "presentacion": "...",
+        "precio": 1630.0
+    },
+    {
+        "nombre": "Canada Dry GinGer Ale",
+        "presentacion": "355ml",
+        "precio": 410.0
+    },
+    {
+        "nombre": "Canada Dry Agua Tonica",
+        "presentacion": "...",
+        "precio": 410.0
+    },
+    {
+        "nombre": "Vino Tinto Tempra/Maz/Garnacha D.O.Rioja LAN Crianza 6/Caja",
+        "presentacion": "Crianza 2020",
+        "precio": 6240.0
+    },
+    {
+        "nombre": "Ron Santiago Extra añejo 11 años",
+        "presentacion": "Ron Santiago de Cuba Extra Añejo 11 años una mágica de la dulzura de las melazas de caña de azúcar y el delicado toque de los Maestros del Ron Cubano. ",
+        "precio": 11320.0
+    },
+    {
+        "nombre": "Ron Santiago Extra Añejo 12 años",
+        "presentacion": "...",
+        "precio": 12990.0
+    },
+    {
+        "nombre": "Jugo Goliath Piña",
+        "presentacion": "1L",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Ron Añejo Santiago Tradición",
+        "presentacion": "...",
+        "precio": 5400.0
+    },
+    {
+        "nombre": "Vino Tinto Cabernet Sauvignon Gato Negro",
+        "presentacion": "750ml",
+        "precio": 2110.0
+    },
+    {
+        "nombre": "Vino Tinto Cabernet Merlot Gato Negro",
+        "presentacion": "750ml",
+        "precio": 2110.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Carta Blanca",
+        "presentacion": "...",
+        "precio": 3480.0
+    },
+    {
+        "nombre": "Vino Tinto Carmenere Gato Negro",
+        "presentacion": "750ml",
+        "precio": 2110.0
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "340ml",
+        "precio": 590.0
+    },
+    {
+        "nombre": "Jugo Badelli Manzana ",
+        "presentacion": "200ml",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Redbull 250ml",
+        "presentacion": "Bebida energética",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Gala Brut Nature Reserva - Vallformosa",
+        "presentacion": "12% vol\n750ml",
+        "precio": 3500.0
+    },
+    {
+        "nombre": "Vino blanco Viña Esmeralda ",
+        "presentacion": "750ml",
+        "precio": 2800.0
+    },
+    {
+        "nombre": "Vino blanco Sangre de Toro Clásico ",
+        "presentacion": "750ml\n12 % vol.",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Vallformosa Cava brut vallformosa classic rose",
+        "presentacion": "750ml",
+        "precio": 2150.0
+    },
+    {
+        "nombre": "Vino Espumoso Viña Esmeralda, ",
+        "presentacion": "11.5%vol.\n750ml",
+        "precio": 3200.0
+    },
+    {
+        "nombre": "Agua Tónica Fever Tree",
+        "presentacion": "150ml",
+        "precio": 640.0
+    },
+    {
+        "nombre": "Refresco Piñata Piña Colada 🍍🥥",
+        "presentacion": "Rinde 12L",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Jugo Fruta y Leche Caribe ",
+        "presentacion": "200 ml\nVitamina A+C+E\n(No sabe a leche)\n",
+        "precio": 210.0
+    },
+    {
+        "nombre": "Jugo Goliath Tropical",
+        "presentacion": "1L",
+        "precio": 980.0
+    },
+    {
+        "nombre": "Jugo Goliath Mango",
+        "presentacion": "946ml",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Cerveza Súper Bock Botella",
+        "presentacion": "330ml. 5.2% acl",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Jugo Goliath Pera",
+        "presentacion": "946ml",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Cerveza Súper Bock lata",
+        "presentacion": "330ml.    5.2 %Alc",
+        "precio": 290.0
+    },
+    {
+        "nombre": "Jugo Goliath Manzana",
+        "presentacion": "1L",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Jugo Goliath Melocotón ",
+        "presentacion": "1L",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Jugo Goliath Naranja",
+        "presentacion": "1L",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Coca Cola",
+        "presentacion": "355ml",
+        "precio": 460.0
+    },
+    {
+        "nombre": "Agua San Joaquín 1.5L",
+        "presentacion": "...",
+        "precio": 460.0
+    },
+    {
+        "nombre": "Refresco 7 up ",
+        "presentacion": "355ml",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Ron Havana Club  Especial",
+        "presentacion": "750ml",
+        "precio": 2200.0
+    },
+    {
+        "nombre": "Ron Havana Club Reserva 700ml",
+        "presentacion": "700ml",
+        "precio": 2300.0
+    },
+    {
+        "nombre": "Cerveza Cristal",
+        "presentacion": "Botella 350ml, alc 4.9% vol.",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Refresco Pepsi Cola 355ml",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Féculas de Maiz (Maicena)",
+        "presentacion": "400g",
+        "precio": 1110.0
+    },
+    {
+        "nombre": "Tè de Manzanilla Badia",
+        "presentacion": "10 x 1g\nEn el Egipto antiguo, la flor de la manzanilla era una de las hierbas más apreciadas por sus efectos tranquilizantes. Ha tenido un uso tradicional para el tratamiento de síntomas de trastornos digestivos, así como en el tratamiento de inflamaciones e irritaciones de la piel.",
+        "precio": 720.0
+    },
+    {
+        "nombre": "Extracto Vainilla La Barca de Santa Marta",
+        "presentacion": "500ml",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Rositas de Maíz Granos",
+        "presentacion": "220g",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Servilletas ",
+        "presentacion": "100 hojas simples \n30 x 33cm",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Papel Sanitario La excelencia",
+        "presentacion": "4 rollos,  doble hojas",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Bolsa de Basura",
+        "presentacion": "Rollo de 25 bolsas de Nylon negro 115cm alto",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Papel sanitario Prosito",
+        "presentacion": "4 rollos hojas dobles",
+        "precio": 650.0
+    }
+        ]
+    }
+]

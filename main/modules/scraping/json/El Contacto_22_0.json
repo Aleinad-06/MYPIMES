@@ -1,0 +1,268 @@
+[
+    {
+        "nombre": "El Contacto_22",
+        "municipio": "Boyeros",
+        "ubicacion":{
+            "lat": 23.0387167,
+            "long":-82.3727586
+        },
+        "horario": "8:30 AM / 9:30 PM",
+        "productos":[
+            {
+        "nombre": "Pasta dental con cepillo",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Juego de champú ",
+        "presentacion": "...",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Juego de champú ",
+        "presentacion": "Variedad de juegos de champú y acondicionador para diferentes tipo de cabello .",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Juego de champú ",
+        "presentacion": "...",
+        "precio": 4000.0
+    },
+    {
+        "nombre": "Champú tinte negro",
+        "presentacion": "Champú tinte  para cabello negro ",
+        "precio": 2200.0
+    },
+    {
+        "nombre": "Pote de tratamiento ",
+        "presentacion": "Dos tipos de tratamiento para el cabello según sus necesidades.",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Aceite para el cabello ",
+        "presentacion": "Dos variedad de aceite protector para el cabello ",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Crema corporal ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Crema corporal ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Crema corporal ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Crema corporal ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Peroxido ",
+        "presentacion": "Peroxido de 30 Vol y 40 Vol",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Crema Corporal Natural",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Desodorante ",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Perfumes (Diferentes)",
+        "presentacion": "Contamos con diferentes tipos de perfumes importados ",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Íntimas ",
+        "presentacion": "...",
+        "precio": 385.0
+    },
+    {
+        "nombre": "Esponja de fregar ",
+        "presentacion": "...",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Toallitas Húmedas ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Pasta Colgate ",
+        "presentacion": "Pasta Colgate 80ml ",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Papel Sanitario ",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Cepillo dental ",
+        "presentacion": "...",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Pasta dental ",
+        "presentacion": "...",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Tinte Nevada",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Tinte Nevada ",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Tinte para el cabello ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Tinte para el cabello ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Jabón de baño ",
+        "presentacion": "...",
+        "precio": 150.0
+    },
+    {
+        "nombre": "Jabón de lavar ",
+        "presentacion": "...",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Detergente en polvo ",
+        "presentacion": "...",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Detergente en polvo",
+        "presentacion": "...",
+        "precio": 630.0
+    },
+    {
+        "nombre": "Colonia Bonabel ",
+        "presentacion": "...",
+        "precio": 1250.0
+    },
+    {
+        "nombre": "Aceite para el cabello Karsell ",
+        "presentacion": "...",
+        "precio": 5000.0
+    },
+    {
+        "nombre": "Desodorante en Spray ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Desodorante en spray ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Desodorante en spray ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Desodorante en spray ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Desodorante en spray ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Spagheti ",
+        "presentacion": "...",
+        "precio": 310.0
+    },
+    {
+        "nombre": "Macarones ",
+        "presentacion": "...",
+        "precio": 310.0
+    },
+    {
+        "nombre": "Leche condensada ",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Queso Gouda ",
+        "presentacion": "...",
+        "precio": 12000.0
+    },
+    {
+        "nombre": "Perritos 10 U",
+        "presentacion": "...",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Perritos 3.0 kg",
+        "presentacion": "...",
+        "precio": 2800.0
+    },
+    {
+        "nombre": "Picadillo de pollo ",
+        "presentacion": "...",
+        "precio": 500.0
+    },
+    {
+        "nombre": "pechuga de pollo ",
+        "presentacion": "...",
+        "precio": 4500.0
+    },
+    {
+        "nombre": "Higado de pollo ",
+        "presentacion": "...",
+        "precio": 900.0
+    }
+        ]
+        }
+]

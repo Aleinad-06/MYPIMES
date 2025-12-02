@@ -1,0 +1,824 @@
+[
+    {
+        "nombre": "Mercado Don Tito",
+        "municipio": "",
+        "ubicacion":{
+            "lat": 0,
+            "long":0
+        },
+        "horario": "8:30 AM / 9:30 PM",
+        "productos":[
+            {
+        "nombre": "Salchichas 3kg ",
+        "presentacion": "...",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Lomo de cerdo deshuesado lasqueado 1lb ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Lomo ahumado lasqueado 1lb ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Bistec de Res 1kg ",
+        "presentacion": "...",
+        "precio": 3650.0
+    },
+    {
+        "nombre": "Carne de Res molida 1kg ",
+        "presentacion": "...",
+        "precio": 3300.0
+    },
+    {
+        "nombre": "Jamón Ahumado 1.5lb ",
+        "presentacion": "...",
+        "precio": 1750.0
+    },
+    {
+        "nombre": "Chorizo vela 1.5lb ",
+        "presentacion": "...",
+        "precio": 1850.0
+    },
+    {
+        "nombre": "Carne de Res troceada 1kg",
+        "presentacion": "...",
+        "precio": 3400.0
+    },
+    {
+        "nombre": "Bistec de Cerdo 1kg ",
+        "presentacion": "...",
+        "precio": 3100.0
+    },
+    {
+        "nombre": "Lomo de Cerdo deshuesado entero ",
+        "presentacion": "3lb ",
+        "precio": 3600.0
+    },
+    {
+        "nombre": "Mortadella de pollo importada ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Salchicha de pollo 10/unidades ",
+        "presentacion": "...",
+        "precio": 420.0
+    },
+    {
+        "nombre": "Hígado de pollo ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Cartón de huevos ",
+        "presentacion": "...",
+        "precio": 3200.0
+    },
+    {
+        "nombre": "Papas prefritas ",
+        "presentacion": "1kg",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "Recortería de lomo ahumado ",
+        "presentacion": "Media libra ",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Croquetas de pollo",
+        "presentacion": "10 unidades ",
+        "precio": 300.0
+    },
+    {
+        "nombre": "Mini jamón vicky  500g ",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Boliche de res 5lb ",
+        "presentacion": "...",
+        "precio": 7000.0
+    },
+    {
+        "nombre": "Potajín ",
+        "presentacion": "...",
+        "precio": 1550.0
+    },
+    {
+        "nombre": "Pechuga de pollo con hueso 2lb",
+        "presentacion": "2lb ",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Merluza empanada 1kg",
+        "presentacion": "...",
+        "precio": 3400.0
+    },
+    {
+        "nombre": "Caja de pollo 33lb ",
+        "presentacion": "...",
+        "precio": 16000.0
+    },
+    {
+        "nombre": "Paquete de pollo 10lb ",
+        "presentacion": "...",
+        "precio": 4100.0
+    },
+    {
+        "nombre": "Medio jamón  Vicky 1.5lb ",
+        "presentacion": "...",
+        "precio": 1550.0
+    },
+    {
+        "nombre": "Pollo entero 1.3 kg ",
+        "presentacion": "...",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Chorizo criollo ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Empellas de cerdo 1lb ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Masas de cerdo 1kg",
+        "presentacion": "...",
+        "precio": 2900.0
+    },
+    {
+        "nombre": "Paleta de cerdo deshuesada 11-14 lb ",
+        "presentacion": "11-14 lb ",
+        "precio": 16800.0
+    },
+    {
+        "nombre": "Azúcar blanca 1kg",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Arroz ",
+        "presentacion": "1kg",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Avena en hojuelas ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Ajo picado ",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Naranja agria ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Mojo criollo",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Limón ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Espaguetis 500g",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Mayonesa celorrio ",
+        "presentacion": "...",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "Pasas Sagacor ",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Coffee creamer ",
+        "presentacion": "...",
+        "precio": 1850.0
+    },
+    {
+        "nombre": "Ketchup ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Pasta de tomate 500g",
+        "presentacion": "...",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Espam de cerdo",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Garbanzos ",
+        "presentacion": "1lb",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Frijoles negros ",
+        "presentacion": "1kg",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Leche amarilla en polvo ",
+        "presentacion": "1kg",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Pepinillos encurtidos ",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Aceitunas sin hueso ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Leche condensada ",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Frutos secos ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Coditos ",
+        "presentacion": "500g",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Café Aroma ",
+        "presentacion": "250g ",
+        "precio": 2300.0
+    },
+    {
+        "nombre": "Vinagre ",
+        "presentacion": "1lt ",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Vino seco ",
+        "presentacion": "1lt ",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Aceite de soja ",
+        "presentacion": "1lt ",
+        "precio": 1050.0
+    },
+    {
+        "nombre": "Laurel hojas ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Orégano ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Rositas de maíz extra mantequilla ",
+        "presentacion": "...",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Harina de trigo 1kg",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Galletas crokantinas ",
+        "presentacion": "7 tacos ",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Gelatinas mandarina",
+        "presentacion": "...",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Gelatina uva",
+        "presentacion": "...",
+        "precio": 400.0
+    },
+    {
+        "nombre": "Media crema ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Miel 500gramos ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Aceituna ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Pepinillos ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Frijoles negros 500g ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Lentejas 500g ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Frijoles pintos 500g ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Judías 500g ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Chícharos verdes ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Fideos sabor pollo ",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Albóndigas en salsa ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Melocotón en almíbar ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Salsa rosa ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Guisantes y maíz ",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Maíz ",
+        "presentacion": "...",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Salsa picante habanero ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Salsa inglesa ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Canela en ramas ",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Vainilla ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Pimienta negra ",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Tomillo",
+        "presentacion": "...",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Chimichurri ",
+        "presentacion": "...",
+        "precio": 750.0
+    },
+    {
+        "nombre": "Crema de pollo",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "salsa china ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Salsa agridulce ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Salsa picante ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Natilla de vainilla ",
+        "presentacion": "...",
+        "precio": 500.0
+    },
+    {
+        "nombre": "Sustituto de crema en polvo para café ",
+        "presentacion": "...",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Chocolate en polvo ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Café ranchero extra fuerte ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Sal fina 1kg ",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Mayonesa tradicional ",
+        "presentacion": "...",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Fresas en almíbar ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Cocktail en almíbar ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Melocotón en almíbar ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Pera en almíbar ",
+        "presentacion": "...",
+        "precio": 850.0
+    },
+    {
+        "nombre": "Tomate frito",
+        "presentacion": "...",
+        "precio": 700.0
+    },
+    {
+        "nombre": "Ketchup ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Mostaza ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Sazón Iberia 36/u",
+        "presentacion": "36/unidades ",
+        "precio": 2520.0
+    },
+    {
+        "nombre": "Frijoles colorados 500g",
+        "presentacion": "...",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Queso gouda lb ",
+        "presentacion": "...",
+        "precio": 1800.0
+    },
+    {
+        "nombre": "Queso crema ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Queso rayado ",
+        "presentacion": "...",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Natilla de chocolate ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Natilla de vainilla ",
+        "presentacion": "...",
+        "precio": 900.0
+    },
+    {
+        "nombre": "Refresco instantáneo 2lt",
+        "presentacion": "Piña ",
+        "precio": 50.0
+    },
+    {
+        "nombre": "Refresco instantáneo 2lt",
+        "presentacion": "Manzana",
+        "precio": 50.0
+    },
+    {
+        "nombre": "Refresco instantáneo 2lt ",
+        "presentacion": "Piña colada",
+        "precio": 50.0
+    },
+    {
+        "nombre": "Whisky Fire One 1lt ",
+        "presentacion": "...",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Caneca albin ",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Crema licor ",
+        "presentacion": "...",
+        "precio": 2600.0
+    },
+    {
+        "nombre": "Energizante ",
+        "presentacion": "...",
+        "precio": 230.0
+    },
+    {
+        "nombre": "Jugo de mango",
+        "presentacion": "200ml ",
+        "precio": 170.0
+    },
+    {
+        "nombre": "Jugo de piña 200ml",
+        "presentacion": "200ml ",
+        "precio": 170.0
+    },
+    {
+        "nombre": "Refresco cola ",
+        "presentacion": "...",
+        "precio": 220.0
+    },
+    {
+        "nombre": "Vodka ",
+        "presentacion": "1lt ",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Caja de cerveza ",
+        "presentacion": "...",
+        "precio": 6000.0
+    },
+    {
+        "nombre": "Blister de refresco naranja 1.5lt",
+        "presentacion": "6unidades ",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Blister de refresco 1.5 litros Limón ",
+        "presentacion": "6unidades ",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Crema de licor fruta de la pasión ",
+        "presentacion": "...",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Crema de licor yogurt ",
+        "presentacion": "...",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Crema licor sabor caramelo ",
+        "presentacion": "...",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Crema licor piña colada ",
+        "presentacion": "...",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Vino Adega do Conde ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Sidra ",
+        "presentacion": "...",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "Absolut vodka raspberri ",
+        "presentacion": "...",
+        "precio": 6500.0
+    },
+    {
+        "nombre": "Habana club especial ",
+        "presentacion": "...",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Ron Havana club 3 años ",
+        "presentacion": "...",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Chivas Regal 12 años ",
+        "presentacion": "...",
+        "precio": 10500.0
+    },
+    {
+        "nombre": "Pacto Navio ",
+        "presentacion": "...",
+        "precio": 11500.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 8años ",
+        "presentacion": "...",
+        "precio": 6000.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 11años ",
+        "presentacion": "...",
+        "precio": 10000.0
+    },
+    {
+        "nombre": "Blister refresco de mate 1.5lt",
+        "presentacion": "1.5lt",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Jabón de baño ",
+        "presentacion": "...",
+        "precio": 160.0
+    },
+    {
+        "nombre": "Toallitas húmedas ",
+        "presentacion": "120 pcs",
+        "precio": 800.0
+    },
+    {
+        "nombre": "Papel sanitario 🧻 ",
+        "presentacion": "Precio por rollo",
+        "precio": 600.0
+    },
+    {
+        "nombre": "Pasta dental Colgate ",
+        "presentacion": "...",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Gel WC Ocean ",
+        "presentacion": "Brillo y limpieza 1L ",
+        "precio": 1450.0
+    },
+    {
+        "nombre": "Gel WC Cerezo ",
+        "presentacion": "Brillo y limpieza 1L ",
+        "precio": 1450.0
+    },
+    {
+        "nombre": "Gel WC Lejía ",
+        "presentacion": "Brillo y limpieza 1L ",
+        "precio": 1450.0
+    },
+    {
+        "nombre": "Salfumán",
+        "presentacion": "...",
+        "precio": 1250.0
+    },
+    {
+        "nombre": "Quita grasas",
+        "presentacion": "...",
+        "precio": 2000.0
+    },
+    {
+        "nombre": "Limpia hogar ",
+        "presentacion": "Cocinas 1.5L",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "Renovador dé superficies ",
+        "presentacion": "...",
+        "precio": 2500.0
+    },
+    {
+        "nombre": "Limpia hogar ",
+        "presentacion": "Baño ",
+        "precio": 1350.0
+    },
+    {
+        "nombre": "Limpia hogar ",
+        "presentacion": "Madera",
+        "precio": 1450.0
+    },
+    {
+        "nombre": "Limpia hogar ",
+        "presentacion": "Mármol ",
+        "precio": 1600.0
+    },
+    {
+        "nombre": "Fregasuelos ",
+        "presentacion": "Talco",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Fregasuelos ",
+        "presentacion": "Ocean ",
+        "precio": 1000.0
+    },
+    {
+        "nombre": "Suavizante ",
+        "presentacion": "Ropa oscura ",
+        "precio": 2300.0
+    },
+    {
+        "nombre": "Detergente en polvo ",
+        "presentacion": "1kg ",
+        "precio": 650.0
+    },
+    {
+        "nombre": "Insecticida ",
+        "presentacion": "...",
+        "precio": 2700.0
+    },
+    {
+        "nombre": "Shampoo ",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "Escoba con su palo ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Esponja de fregar",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Estropajo fibra verde ",
+        "presentacion": "...",
+        "precio": 350.0
+    },
+    {
+        "nombre": "Shampoo doxa ",
+        "presentacion": "...",
+        "precio": 1200.0
+    },
+    {
+        "nombre": "Máquina de afeitar 🪒 ",
+        "presentacion": "10 repuestos ",
+        "precio": 2500.0
+    }
+        ]
+    }
+    
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Bodegón Oasis",
+        "municipio": "Boyeros",
+        "ubicacion":{
+            "lat": 23.063644,
+            "long":-82.39336
+        },
+        "horario": "",
+        "productos":[
+            {
+        "nombre": "PECHUGA DE POLLO 2KG",
+        "presentacion": "...",
+        "precio": 4700.0
+    },
+    {
+        "nombre": "Picadillo de pollo ",
+        "presentacion": "Picadillo de pollo MDM. Viene envasado en formato de 1 lib ",
+        "precio": 330.0
+    },
+    {
+        "nombre": "MUSLO DE POLLO ",
+        "presentacion": "...",
+        "precio": 3850.0
+    },
+    {
+        "nombre": "LOMO DE CERDO DESHUESADO IMPORTADO ",
+        "presentacion": "Venta por libras. ",
+        "precio": 1170.0
+    },
+    {
+        "nombre": "HÍGADO DE POLLO 1KG",
+        "presentacion": "...",
+        "precio": 830.0
+    },
+    {
+        "nombre": "MOLLEJA DE POLLO 1KG",
+        "presentacion": "...",
+        "precio": 1170.0
+    },
+    {
+        "nombre": "SALCHICHAS 3KG ",
+        "presentacion": "...",
+        "precio": 2850.0
+    },
+    {
+        "nombre": "Salchicha 10u ",
+        "presentacion": "Salchicha 10u ",
+        "precio": 370.0
+    },
+    {
+        "nombre": "Mortadella de pollo 1kg",
+        "presentacion": "...",
+        "precio": 1100.0
+    },
+    {
+        "nombre": "HAMBURGUESAS DE POLLO 5U",
+        "presentacion": "...",
+        "precio": 600.0
+    },
+    {
+        "nombre": "PECHUGA DE POLLO 1KG",
+        "presentacion": "...",
+        "precio": 2980.0
+    },
+    {
+        "nombre": "Croquetas de pollo 200g",
+        "presentacion": "...",
+        "precio": 330.0
+    }
+        ]
+    } 
+    
+]

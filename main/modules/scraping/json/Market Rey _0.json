@@ -1,0 +1,518 @@
+[
+    {
+        "nombre": "Marker Rey",
+        "municipio": "Habana del Este",
+        "ubicacion":{
+            "lat": 23.1539537,
+            "long":-82.3335421
+        },
+        "horario": "",
+        "productos":[
+            {
+        "nombre": "ESPAGUETIS 500G",
+        "presentacion": "...",
+        "precio_usd": 0.99
+    },
+    {
+        "nombre": "CAFÉ ESPRESSO PREMIUM (250g) ",
+        "presentacion": "...",
+        "precio_usd": 5.99
+    },
+    {
+        "nombre": "Vino seco 750ml",
+        "presentacion": "Botella de vino seco Viña del Rey de 750ml",
+        "precio_usd": 0.99
+    },
+    {
+        "nombre": "Vinagre 750ml",
+        "presentacion": "Botella de vinagre Viña del Rey de 750ml",
+        "precio_usd": 0.99
+    },
+    {
+        "nombre": "MAYONESA  483ml",
+        "presentacion": "Pomo de mayonesa de 500g\nMarca: saude",
+        "precio_usd": 3.99
+    },
+    {
+        "nombre": "PASTA DE TOMATE 400g",
+        "presentacion": "Pasta de tomate. Sabor original. \nMarca: Sabrosísimo.\nIngredientes: tomate seleccionado calidad AA, agua, cebolla, azúcar blanca, aceite vegetal, ajo, sal comestible, especias. \nProducto 100 % natural, ecológico. Aporta al organismo Vitaminas C, B1, B2, B5, Licopeno, Potasio y Magnesio.",
+        "precio_usd": 1.5
+    },
+    {
+        "nombre": "PASTA DE TOMATE DOBLE CONCENTRADO CONDIMENTADO 800g",
+        "presentacion": "Marca: Sabrosísimo. \nIngredientes: tomate seleccionado calidad AA, agua, cebolla, azúcar blanca, aceite vegetal, ajo, sal comestible, especias. \nProducto 100 % natural, ecológico. Aporta al organismo Vitaminas C, B1, B2, B5, Licopeno, Potasio y Magnesio",
+        "precio_usd": 2.99
+    },
+    {
+        "nombre": "CABALLA EN SALSA DE TOMATE 425g",
+        "presentacion": "La caballa en salsa de tomate combina el sabor del pescado con una salsa de tomate sabrosa y especiada. Es rica en ácidos grasos omega-3 y proteínas. \nMarca: Sabrosísimo.\nIngredientes: Caballa, Salsa de tomate, sal.",
+        "precio_usd": 2.95
+    },
+    {
+        "nombre": "Aceite 900ml",
+        "presentacion": "Aceite vegetal mezcla de soya y palma semilla.",
+        "precio_usd": 2.5
+    },
+    {
+        "nombre": "GALLETAS SALTITACOS (3 TACOS)",
+        "presentacion": "...",
+        "precio_usd": 1.7
+    },
+    {
+        "nombre": "Galleta mantequilla sabor fresa",
+        "presentacion": "Nuestras galletas de mantequilla con sabor a fresa son el equilibrio perfecto entre dulzura y textura crujiente. Ideales para acompañar café o como snack durante el día.\nPeso: 100g\nMarca: Sabrosísimo \nSabor: fresa",
+        "precio_usd": 2.5
+    },
+    {
+        "nombre": "Galleta mantequilla sabor naranja",
+        "presentacion": "Nuestras galletas de mantequilla con sabor a naranja son el equilibrio perfecto entre dulzura y textura crujiente. Ideales para acompañar café o como snack durante el día.\nPeso: 100g\nMarca: Sabrosísimo \nSabor: naranja",
+        "precio_usd": 2.5
+    },
+    {
+        "nombre": "Galletitas de mantequilla",
+        "presentacion": "Ingredientes: mantequilla, harina, aromas naturales.\nContenido: 72g \nMarca: Sabrosísimo.",
+        "precio_usd": 1.6
+    },
+    {
+        "nombre": "Crema de pollo  ",
+        "presentacion": "...",
+        "precio_usd": 0.6
+    },
+    {
+        "nombre": "crema de champiñones",
+        "presentacion": "...",
+        "precio_usd": 0.6
+    },
+    {
+        "nombre": "Verduras mixtas (estilo Macedonia) 400g",
+        "presentacion": "Formato: 425g\nIngredientes: judías verdes, zanahorias picadas, papas picadas, sal. \nMarca: Sabrosísimo.",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "Arroz 1kg ",
+        "presentacion": "Paquete de arroz de 1kg ",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "CHUPA CHUPA BIG BOM",
+        "presentacion": "...",
+        "precio_usd": 0.25
+    },
+    {
+        "nombre": "Café  Paraná 250g",
+        "presentacion": "Café extra fuerte...",
+        "precio_usd": 4.99
+    },
+    {
+        "nombre": "Galletas de chocolate 50g    ",
+        "presentacion": "Estas galletas de chocolate son un deleite irresistible que combina la tradición de las galletas sándwich con un toque moderno. \n\nCon su exterior crujiente y un relleno cremoso, estas galletas son perfectas para cualquier momento del día, ya sea como un capricho en la tarde o un acompañante para tu café.",
+        "precio_usd": 0.5
+    },
+    {
+        "nombre": "Salsa de soja clara 200ml",
+        "presentacion": "Sabor: Soja\nMarca: Sabrosísimo \nIngredientes: Agua, harina de soya sin OMG, trigo, sal comestible, azúcar blanco, alcohol comestible, extracto de levadura, aditivos alimentarios.\nProducto 100 % natural, ecológico.",
+        "precio_usd": 1.9
+    },
+    {
+        "nombre": "Sopa instantánea sabor a carne de Res ",
+        "presentacion": "paquete de sopa instantánea de fideos de  65g",
+        "precio_usd": 0.55
+    },
+    {
+        "nombre": "Sopa instantánea de Camarón y Pollo",
+        "presentacion": "Paquete de Sopa instantánea de fideos, sabor a camarón y pollo de 65g... ",
+        "precio_usd": 0.55
+    },
+    {
+        "nombre": "Hojas de albahaca (100g)",
+        "presentacion": "La albahaca es una hierba aromática con hojas verdes y un sabor dulce y picante. Ideal para condimentar carnes, verduras, salsas, sopas, entre otros. \n\nEspecia muy demandada en la gastronomía por el olor y sabor que le aporta a cada plato. \nSe combina con otros ingredientes o hierbas aromáticas para elaborar salsas o condimento, estofados, sopas o en pollos o carnes al horno. ",
+        "precio_usd": 3.2
+    },
+    {
+        "nombre": "Hojas de Romero100g (pomo) ",
+        "presentacion": "Las Hojas de Romero es el ingrediente perfecto para realzar carnes, pescados, verduras asadas y salsas. Este elegante dispensador no solo facilita el uso diario en cocinas profesionales, las hojas de romero es una adición indispensable a cualquier cocina.\n\nSabor Intenso y Aromático: Las hojas de romero aportan un sabor robusto que puede transformar platos ordinarios en experiencias culinarias memorables.\nPropiedades Antioxidantes: El romero es conocido por sus beneficios para la salud, incluyendo propiedades antioxidantes que ayudan a combatir el estrés oxidativo.\nFácil Dosificación: El diseño del pomo permite una dosificación precisa, facilitando su uso en recetas y asegurando que cada plato tenga la cantidad perfecta de sabor.",
+        "precio_usd": 3.2
+    },
+    {
+        "nombre": "PAN DE MOLDE REBANADO 800g",
+        "presentacion": "Pan de molde rebanado con ajonjolí ",
+        "precio_usd": 2.99
+    },
+    {
+        "nombre": "TARTA DE NATA BOMBÓN Y ALMENDRA ",
+        "presentacion": "Tarta de nata bombón y almendra.\nTamaño: 16cm",
+        "precio_usd": 14.99
+    },
+    {
+        "nombre": "PAN DE MOLDE 460g",
+        "presentacion": "...",
+        "precio_usd": 1.5
+    },
+    {
+        "nombre": "LATA DE LECHE CONDENSADA COCIDA (Fanguito)",
+        "presentacion": "...",
+        "precio_usd": 2.3
+    },
+    {
+        "nombre": "PAN DE AJO 200g",
+        "presentacion": "...",
+        "precio_usd": 1.15
+    },
+    {
+        "nombre": "MALTA BUCANERO 330ML",
+        "presentacion": "...",
+        "precio_usd": 0.99
+    },
+    {
+        "nombre": "CERVEZA Sahara Gold 500ml",
+        "presentacion": "...",
+        "precio_usd": 1.55
+    },
+    {
+        "nombre": "VINO MOSCATEL",
+        "presentacion": "BOTELLA DE 750ML. ",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "VINO TINTO ",
+        "presentacion": "VINO AÑEJO VIÑA DEL REY. BOTELLA 700ML",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "VINO ROSADO DE CEREZAS",
+        "presentacion": "BOTELLA DE 750 ML. ELABORADO CON MACERADO DE FRUTAS, DANDO UN SABOR SEMIDULCE CON AZUCAR REFINO.",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "CERVEZA CRISTAL  330ML ",
+        "presentacion": "...",
+        "precio_usd": 0.9
+    },
+    {
+        "nombre": "RON HAVANA CLUB AÑEJO ESPECIAL 1L",
+        "presentacion": "...",
+        "precio_usd": 12.9
+    },
+    {
+        "nombre": "CAJA DE CERVEZA CRISTAL ",
+        "presentacion": "...",
+        "precio_usd": 19.99
+    },
+    {
+        "nombre": "REFRESCO SANTA DE LATA  330ML",
+        "presentacion": "Refresco Santa de Limon, Cola y Naranja",
+        "precio_usd": 0.8
+    },
+    {
+        "nombre": "CERVEZA PARRANDA 1.5lt",
+        "presentacion": "...",
+        "precio_usd": 1.95
+    },
+    {
+        "nombre": "VINO DULCE DE PASAS ",
+        "presentacion": "Botella de 750 ml ",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "RON HAVANA CLUB AÑEJO 3 AÑOS 700ML",
+        "presentacion": "...",
+        "precio_usd": 8.99
+    },
+    {
+        "nombre": "Caja de cerveza Sahara Gold 5.2",
+        "presentacion": "...",
+        "precio_usd": 18.0
+    },
+    {
+        "nombre": "Malta Bucanero",
+        "presentacion": "Malta bucanero",
+        "precio_usd": 19.99
+    },
+    {
+        "nombre": "RON SANTIAGO DE CUBA AÑEJO TRADICIONAL",
+        "presentacion": "Ron Santiago de Cuba  añejo tradicional 700ml\n\nMezcla de la tradición y la modernidad, que da como resultado una exclusiva expresión de ron Cubano.\nSeco, elegante pero suave, con notas de chocolate negro y frutas secas.\nProducidos únicamente en la famosa Cuna del Ron Ligero.\n",
+        "precio_usd": 9.99
+    },
+    {
+        "nombre": "Vodka White Nights",
+        "presentacion": "Marca: White Nights\nGrado: 37.5 % alcohol. \nFormato: Botella 1L\nProveedores Exclusivos",
+        "precio_usd": 4.0
+    },
+    {
+        "nombre": "Whisky 1882",
+        "presentacion": "Grado: 40% alcohol. \nFormato: Botella 1L\n",
+        "precio_usd": 4.0
+    },
+    {
+        "nombre": "Malta Lito 330ml",
+        "presentacion": "Malta sin alcohol Lito Soft... 330ml",
+        "precio_usd": 0.85
+    },
+    {
+        "nombre": "ENERGIZANTE CON VODKA 250ml",
+        "presentacion": "Lata de energizante con vodka de 250m",
+        "precio_usd": 1.1
+    },
+    {
+        "nombre": "Esponja Recubierta Multifuncional ",
+        "presentacion": "Set de 4 unidades",
+        "precio_usd": 0.6
+    },
+    {
+        "nombre": "Loción corporal de Coco 300ml",
+        "presentacion": "Su textura ligera se absorbe rápidamente, proporcionando una hidratación duradera sin dejar residuos grasos, ideal para el uso diario. ",
+        "precio_usd": 3.0
+    },
+    {
+        "nombre": "Champú anticaspa 1000ml",
+        "presentacion": "Champú anticaspa.\nMarca: COMFORTIME",
+        "precio_usd": 3.75
+    },
+    {
+        "nombre": "Limpiador para cocina desengrasante (500 ml)",
+        "presentacion": "Ingrediente activo es de 4-5%. \nFragancia: Limón \nMarca: Total Care \nBeneficios:\nElimina grasa y residuos difíciles.\nSeguro para superficies de cocina.\nAyuda a mantener una cocina higiénica.",
+        "precio_usd": 2.55
+    },
+    {
+        "nombre": "Lavavajillas líquido limón (2000 ml)",
+        "presentacion": "El lavavajillas líquido Total Care está elaborado para proporcionar una mayor efectividad en la limpieza de los utensilios de la cocina, con un agradable y refrescante aroma a limón y con una fórmula mucho más rendidora.\nMarca: Total Care",
+        "precio_usd": 5.5
+    },
+    {
+        "nombre": "Esponja para cocina 2 piezas",
+        "presentacion": "Este pack de 2 piezas combina la suavidad de la espuma con la abrasividad controlada de la fibra verde, diseñada para eliminar la suciedad más resistente sin dañar tus utensilios.\n\nApta para cualquier tipo de superficie, estas esponjas son ideales para lavar platos, limpiar encimeras y mantener tu cocina impecable. ",
+        "precio_usd": 0.6
+    },
+    {
+        "nombre": "Detergente en Polvo Foam Plus (3 kg)",
+        "presentacion": "Ingredientes: carbonato de sodio, sulfato de sodio, lineal alquil benceno sulfato, A.O.S, enzimas, blanqueadores ópticos, zeolita, silicato de sodio, refuerzo de espuma, suavizante.\nFragancia: Limón o Rosas \nMarca: Foam Plus\n",
+        "precio_usd": 6.3
+    },
+    {
+        "nombre": "Detergente en Polvo Foam Plus (1kg)",
+        "presentacion": "Fragancia: Limón o Rosas \nMarca: Foam Plus\nIngredientes: carbonato de sodio, sulfato de sodio, lineal alquil benceno sulfato, A.O.S, enzimas, blanqueadores ópticos, zeolita, silicato de sodio, refuerzo de espuma, suavizante.\n",
+        "precio_usd": 2.75
+    },
+    {
+        "nombre": " Jabón de tocador miel y leche (75g)",
+        "presentacion": "Este jabón en barra de Total Care es ideal para la higiene personal. Perfecto para mantener la piel suave y saludable.\nBeneficios:\nReduce la aparición de manchas oscuras y unifica el tono de la piel.\nHumecta y protege, da firmeza y elasticidad a la piel.\nPropiedades antioxidante, antibacteriano, antiinflamatorio y cicatrizante. \nMarca: Total Care\nContenido de ácidos grasos e insaponificables: 53-58%.\nContenido de Humedad: 18-23",
+        "precio_usd": 0.55
+    },
+    {
+        "nombre": "Jabón de tocador rosas (75g)",
+        "presentacion": "Este jabón en barra de Total Care es ideal para la higiene personal. Perfecto para mantener la piel suave y saludable.\nBeneficios:\nReduce la aparición de manchas oscuras y unifica el tono de la piel.\nHumecta y protege, da firmeza y elasticidad a la piel.\nPropiedades antioxidante, antibacteriano, antiinflamatorio y cicatrizante. \nMarca: Total Care\nContenido de ácidos grasos e insaponificables: 53-58%.\nContenido de Humedad: 18-23%",
+        "precio_usd": 0.55
+    },
+    {
+        "nombre": "Jabón de tocador rosas (150g)",
+        "presentacion": "Este jabón en barra de Total Care es ideal para la higiene personal. Perfecto para mantener la piel suave y saludable.\nBeneficios:\nReduce la aparición de manchas oscuras y unifica el tono de la piel.\nHumecta y protege, da firmeza y elasticidad a la piel.\nPropiedades antioxidante, antibacteriano, antiinflamatorio y cicatrizante. \nMarca: Total Care\nContenido de ácidos grasos e insaponificables: 53-58%.\nContenido de Humedad: 18-23%",
+        "precio_usd": 0.8
+    },
+    {
+        "nombre": "Limpiasuelos (1000 ml)",
+        "presentacion": "...",
+        "precio_usd": 4.1
+    },
+    {
+        "nombre": "Pasta para lavavajillas (400g)",
+        "presentacion": "Ingrediente activo: 13%\nFragancia: Limón y Aloe Vera \nMarca: Total Care\nLa pasta de fregar Total Care es la solución perfecta para mantener tus utensilios y superficies impecables. Su fórmula avanzada combina eficacia y cuidado con un alto poder desengrasante además de ahorro.\n\nBeneficios:\nEfectivo para quitar grasa, desinfectar y evitar malos olores. \nNeutraliza los olores y deja un aroma fresco y agradable en los recipientes.\nEconomía y ahorro su alta concentración significa que necesitas menos cantidad para obtener resultados excelentes.",
+        "precio_usd": 1.85
+    },
+    {
+        "nombre": "Pasta dental S´Nonas",
+        "presentacion": "...",
+        "precio_usd": 3.15
+    },
+    {
+        "nombre": "DETERGENTE LÍQUIDO 4 en 1 (1000ml)",
+        "presentacion": "...",
+        "precio_usd": 4.25
+    },
+    {
+        "nombre": "DETERGENTE LÍQUIDO 4 en 1 (2000ml) ",
+        "presentacion": "...",
+        "precio_usd": 7.5
+    },
+    {
+        "nombre": "GEL DE BAÑO (400ml)",
+        "presentacion": "...",
+        "precio_usd": 2.25
+    },
+    {
+        "nombre": "JABÓN DE TOCADOR LECHE Y MIEL (100 g) ",
+        "presentacion": "...",
+        "precio_usd": 0.65
+    },
+    {
+        "nombre": "LAVAVAJILLAS LÍQUIDO (1000 ml) ",
+        "presentacion": "...",
+        "precio_usd": 3.25
+    },
+    {
+        "nombre": "LAVAVAJILLAS LÍQUIDO (500 ml)",
+        "presentacion": "...",
+        "precio_usd": 1.7
+    },
+    {
+        "nombre": "PASTA PARA LAVAVAJILLAS (200g) ",
+        "presentacion": "La pasta de fregar Total Care es la solución perfecta para mantener tus utensilios y superficies impecables. Su fórmula avanzada combina eficacia y cuidado con un alto poder desengrasante además de ahorro.\n\nBeneficios:\nEfectivo para quitar grasa, desinfectar y evitar malos olores. \nNeutraliza los olores y deja un aroma fresco y agradable en los recipientes.\nEconomía y ahorro su alta concentración significa que necesitas menos cantidad para obtener resultados excelentes. Esto se traduce en un mayor ahorro para tu negocio. \nCaracterísticas del producto:\nIngrediente activo: 13%\nFragancia: Naranja y Aloe Vera \nMarca: Total Care",
+        "precio_usd": 1.35
+    },
+    {
+        "nombre": "Champú anticaspa 500ml ",
+        "presentacion": "Champú anticaspa.\nMarca: COMFORTIME\n\n",
+        "precio_usd": 2.25
+    },
+    {
+        "nombre": "FRAZADA DE PISO",
+        "presentacion": "...",
+        "precio_usd": 0.8
+    },
+    {
+        "nombre": "PAÑALES DESECHABLES PARA ADULTOS (20 unidades) ",
+        "presentacion": "Pañales para adultos, talla grande, absorción de noche...",
+        "precio_usd": 8.99
+    },
+    {
+        "nombre": "PAÑALES DESECHABLES PARA ADULTOS (20unidades)",
+        "presentacion": "Pañales para adultos, elasticos..",
+        "precio_usd": 8.99
+    },
+    {
+        "nombre": "LIMPIADOR PARA COCINA DESENGRASANTE (2000 ml)",
+        "presentacion": "Ingrediente activo es de 4-5%. \nFragancia: Limón \nMarca: Total Care \nEste limpiador desengrasante Total Care es imprescindible en cualquier cocina comercial. Elimina la grasa, los residuos y las manchas difíciles en cocinas, campanas extractoras y superficies de acero inoxidable. ¡Ayuda a mantener una cocina impecable y segura!\n",
+        "precio_usd": 7.99
+    },
+    {
+        "nombre": "PAPEL SANITARIO ",
+        "presentacion": "Paquete de 4 rollos",
+        "precio_usd": 1.99
+    },
+    {
+        "nombre": "JABÓN DE TOCADOR DE ROSAS 100G",
+        "presentacion": "...",
+        "precio_usd": 0.65
+    },
+    {
+        "nombre": "YOGURT PROBIOTICO DE FRESA  4LT",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "YOGURT PROBIOTICO NATURAL 4LT",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "QUESO GOUDA ",
+        "presentacion": "QUESO GOUDA  BARRA 2.825kg",
+        "precio_usd": 31.99
+    },
+    {
+        "nombre": "QUESO GOUDA 250g",
+        "presentacion": "...",
+        "precio_usd": 3.95
+    },
+    {
+        "nombre": "YOGURT PROBIÓTICO DE MANZANA 4LT",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "YOGURT PROBIÓTICO DE VAINILLA 4LT",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "YOGURT PROBIÓTICO DE GUANABANA 4LT",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "YOGURT PROBIOTICO DE PLATANO 4L",
+        "presentacion": "...",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "HELADO DE RIZADO DE FRESA 4LT",
+        "presentacion": "...",
+        "precio_usd": 12.99
+    },
+    {
+        "nombre": "HELADO DE RIZADO DE CHOCOLATE 4LT ",
+        "presentacion": "...",
+        "precio_usd": 12.99
+    },
+    {
+        "nombre": "HELADO DE VAINILLA 4L",
+        "presentacion": "Helado especial de crema sabor vainilla \nMarca: RHD",
+        "precio_usd": 12.99
+    },
+    {
+        "nombre": "YOGURT PROBIOTICO DE COCO 1L",
+        "presentacion": "Marca: RHD",
+        "precio_usd": 3.25
+    },
+    {
+        "nombre": "PALETA DE CERDO  DESHUESADA DE IMPORTACIÓN",
+        "presentacion": "Peso: de 5kg a 6kg ",
+        "precio_usd": 42.99
+    },
+    {
+        "nombre": "HÍGADO DE POLLO 1Kg",
+        "presentacion": "...",
+        "precio_usd": 2.99
+    },
+    {
+        "nombre": "SALCHICHAS DE POLLO (10 Unidades)",
+        "presentacion": "...",
+        "precio_usd": 1.88
+    },
+    {
+        "nombre": "LOMO DE CERDO SIN PIEL Y SIN HUESO 10lb",
+        "presentacion": "...",
+        "precio_usd": 50.0
+    },
+    {
+        "nombre": "PECHUGA DE POLLO 2.5kg",
+        "presentacion": "Paquete de pechuga de pollo sin hueso y sin piel de 2.5kg",
+        "precio_usd": 15.05
+    },
+    {
+        "nombre": "PICADILLO DE POLLO 400g ",
+        "presentacion": "Tubo de picadillo de pollo sazonado",
+        "precio_usd": 1.9
+    },
+    {
+        "nombre": "PAQUETE DE POLLO (10lbs)",
+        "presentacion": "Paquete de 10lbs (muslos y contramuslos)\n",
+        "precio_usd": 11.99
+    },
+    {
+        "nombre": "OFERTA EXPRESS",
+        "presentacion": "Contenido: Yogurt probiótico 4lt + tina de helado 4lt\nSabores de Helado: Rizado de chocolate, Rizado de fresa, Vainilla... \nSabores de yogurt: Manzana, Natural, Coco Melocotón..",
+        "precio_usd": 20.99
+    },
+    {
+        "nombre": "OFERTA PARA CAFÉ",
+        "presentacion": "2 Paquetes de Café, 20 Coffee mate",
+        "precio_usd": 14.5
+    },
+    {
+        "nombre": "DUO PERFECTO ",
+        "presentacion": "12 cervezas cristal y 12 maltas bucanero...",
+        "precio_usd": 19.5
+    },
+    {
+        "nombre": "Cereal de chocolate ",
+        "presentacion": "Paquete de cereales de 250g",
+        "precio_usd": 3.6
+    },
+    {
+        "nombre": "Repelente de Insectos",
+        "presentacion": "Repelente natural.  Empleamos plantas como el Árbol del Neem, romero, citronela -que en nuestro país es la muy conocida caña santa o hierba limón-. A esas plantas les extraemos su aceite escencial por destilación al vapor, lo cual se conoce en nuestra comunidad como hidrolato. También empleamos especias como el clavo de olor y la canela.",
+        "precio_usd": 1.0
+    }
+        ]
+    }
+]
