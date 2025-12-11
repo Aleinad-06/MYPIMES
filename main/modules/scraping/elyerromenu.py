@@ -4,7 +4,7 @@ import json
 
 while True:
     
-    url = "https://elyerromenu.com/b/don-rilio/seller/bazar-ym/category/carnes-y-embutidos-388a"
+    url = "https://elyerromenu.com/b/perez-and-quesada-santa-clara/seller/bazar-ym/category/bebidas-analcoholicas-h1f"
 
     if url.lower() == "salir":
         break
@@ -20,7 +20,7 @@ while True:
         }
 
         atributos_nombre = {
-            "line-clamp-2 text-main-500 font-semibold text-base leading-tight"
+            "class": "line-clamp-2 text-main-500 font-semibold text-base leading-tight"
         }
         atributos_presentacion = {
             "class": "line-clamp-2 text-gray-500 text-xs"
@@ -35,19 +35,34 @@ while True:
         presentacion = buscador.find_all("div", attrs = atributos_presentacion)
         precio = buscador.find_all("span", attrs = atributos_precio)
         
+        # Mostrar para debug
+        print(f"Productos: {len(producto)}, Presentaciones: {len(presentacion)}, Precios: {len(precio)}")
+        
         productoos = []
         
         for i in range(len(producto)):
+            # Intentar obtener el precio para este producto específico
+            precio_valor = None  # Valor por defecto
+            
+            # Buscar si hay un precio en la posición i
+            if i < len(precio):
+                try:
+                    precio_texto = precio[i].text.strip()
+                    if precio_texto:
+                        precio_valor = float(precio_texto.split(" ")[0].replace(",", ""))
+                except:
+                    precio_valor = None
+            
             productoos.append(
                 {
-                    "nombre": producto[i].text ,
-                    "presentacion": presentacion[i].text,
-                    "precio": float(precio[i].text.split(" ")[0].replace(",", "")) 
+                    "nombre": producto[i].text,
+                    "presentacion": presentacion[i].text if i < len(presentacion) else "",
+                    "precio": precio_valor  # Será None si no hay precio disponible
                 }
             )
         
         contador = 0
         with open(f"{nombre_lugar.text}_{contador}.json", "w", encoding="utf-8") as archivo:
             json.dump(productoos, archivo, ensure_ascii=False, indent=4)
-        
+            
         contador += 1

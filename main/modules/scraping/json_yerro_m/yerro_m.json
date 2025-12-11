@@ -1,0 +1,7233 @@
+[
+    {
+    "nombre": "Twomarker",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.117861,
+        "long": -82.389612
+    },
+    "horario": "9:00 AM / 9:00 PM",
+    "productos": [
+        {
+            "nombre": "Frijol negro",
+            "presentacion": "lb",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Frijol Colorado",
+            "presentacion": "lb",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Garbanzos",
+            "presentacion": "lb",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Leche en polvo",
+            "presentacion": "...",
+            "precio": 720.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Espaguetis",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "gramos",
+            "precio": 580.0
+        },
+        {
+            "nombre": "Picadillo La Favorita",
+            "presentacion": "g",
+            "precio": 580.0
+        },
+        {
+            "nombre": "Picadillo de Rea",
+            "presentacion": "g",
+            "precio": 3500.0
+        },
+        {
+            "nombre": "Pechuga de pollo deshuesado",
+            "presentacion": "kg",
+            "precio": 6500.0
+        },
+        {
+            "nombre": "Pollo de muslo y contramuslo",
+            "presentacion": "lb",
+            "precio": 3900.0
+        },
+        {
+            "nombre": "Pollo de muslo",
+            "presentacion": "kg",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Pollo de muslo",
+            "presentacion": "libras",
+            "precio": 4300.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "kg",
+            "precio": 12300.0
+        },
+        {
+            "nombre": "Pechuga",
+            "presentacion": "gramos",
+            "precio": 3400.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "kg",
+            "precio": 760.0
+        },
+        {
+            "nombre": "Arroz blanco",
+            "presentacion": "lb",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Salchicha de pollo",
+            "presentacion": "unidades",
+            "precio": 570.0
+        },
+        {
+            "nombre": "Salchichón ibérico",
+            "presentacion": "...",
+            "precio": 1350.0
+        },
+        {
+            "nombre": "Salchichón wapa",
+            "presentacion": "g",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Huevos",
+            "presentacion": "...",
+            "precio": 3650.0
+        },
+        {
+            "nombre": "Cartón de huevos criollos",
+            "presentacion": "...",
+            "precio": 3200.0
+        },
+        {
+            "nombre": "Pasta de tomate Sabrossisimo",
+            "presentacion": "gramos",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Pasta de tomate Sabrosisimo",
+            "presentacion": "gramos",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Puré de tomate El Roble",
+            "presentacion": "kg",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Puré de tomate Holland Park",
+            "presentacion": "gramos",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Puré de tomate El roble",
+            "presentacion": "kg",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Puré de tomate Val",
+            "presentacion": "kg",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Puré de tomate El Roble",
+            "presentacion": "ml",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Espaguetis",
+            "presentacion": "g",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Lentejas La Asturiana",
+            "presentacion": "...",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Lentejas pardinas La Asturiana",
+            "presentacion": "...",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Lentejas Cister",
+            "presentacion": "g",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Café El Morro",
+            "presentacion": "...",
+            "precio": 1900.0
+        },
+        {
+            "nombre": "Café La Carreta",
+            "presentacion": "...",
+            "precio": 1900.0
+        },
+        {
+            "nombre": "Café Rancheiro Extra Fuerte",
+            "presentacion": "g",
+            "precio": 1900.0
+        },
+        {
+            "nombre": "Café Sebraz",
+            "presentacion": "g",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Café La Llave",
+            "presentacion": "...",
+            "precio": 4200.0
+        },
+        {
+            "nombre": "Leche condensada Holland Park",
+            "presentacion": "gramos",
+            "precio": 690.0
+        },
+        {
+            "nombre": "Leche en polvo",
+            "presentacion": "kg",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Leche en polvo DoBon",
+            "presentacion": "kg",
+            "precio": 3800.0
+        },
+        {
+            "nombre": "Leche entera Alquimia",
+            "presentacion": "...",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Leche entera italiana",
+            "presentacion": "...",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Leche ChocoRica",
+            "presentacion": "...",
+            "precio": 1250.0
+        },
+        {
+            "nombre": "Leche Descremada",
+            "presentacion": "...",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Leche Pascual",
+            "presentacion": "L",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Aceite Girasol",
+            "presentacion": "L",
+            "precio": 1360.0
+        },
+        {
+            "nombre": "Aceite oliva",
+            "presentacion": "L",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Aceite de oliva",
+            "presentacion": "L",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Aceite de oliva extra virgen Badia",
+            "presentacion": "ml",
+            "precio": 5000.0
+        },
+        {
+            "nombre": "Jabón de lavar Total Care",
+            "presentacion": "g",
+            "precio": 365.0
+        },
+        {
+            "nombre": "Jabón de baño Kare",
+            "presentacion": "...",
+            "precio": 210.0
+        },
+        {
+            "nombre": "Jabón Palmolive aloe",
+            "presentacion": "...",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Jabón de baño TC",
+            "presentacion": "gramos",
+            "precio": 230.0
+        },
+        {
+            "nombre": "Jabón total care",
+            "presentacion": "...",
+            "precio": 390.0
+        },
+        {
+            "nombre": "Detergente total care 4 en 1",
+            "presentacion": "...",
+            "precio": 1650.0
+        },
+        {
+            "nombre": "Detergente para fregar lavaloza",
+            "presentacion": "ml",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Lavavajillas líquido total care",
+            "presentacion": "ml",
+            "precio": 740.0
+        },
+        {
+            "nombre": "Lavavajillas líquido total care",
+            "presentacion": "L",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Detergente en polvo Saba",
+            "presentacion": "kg",
+            "precio": 830.0
+        },
+        {
+            "nombre": "Detergente Saba",
+            "presentacion": "gramos",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Detergente Mío mío",
+            "presentacion": "gramos",
+            "precio": 190.0
+        },
+        {
+            "nombre": "Detergente en polvo NT limón",
+            "presentacion": "kg",
+            "precio": 1250.0
+        },
+        {
+            "nombre": "Detergente en polvo NT",
+            "presentacion": "gramos",
+            "precio": 680.0
+        },
+        {
+            "nombre": "Detergente de lavar Ropa Diario",
+            "presentacion": "L",
+            "precio": 2150.0
+        },
+        {
+            "nombre": "Detergente líquido de ropa limon",
+            "presentacion": "...",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Detergente total care para ropa lavanda",
+            "presentacion": "...",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Detergente líquido de ropa Lupe",
+            "presentacion": "L",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Detergente líquido de lavar Esil",
+            "presentacion": "L",
+            "precio": 2800.0
+        },
+        {
+            "nombre": "Detergente líquido de lavar",
+            "presentacion": "L",
+            "precio": 2700.0
+        },
+        {
+            "nombre": "Detergente en pasta de fregar",
+            "presentacion": "gramos",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Detergente líquido Aloe Vera",
+            "presentacion": "L",
+            "precio": 2700.0
+        },
+        {
+            "nombre": "Detergente líquido básico kiriko",
+            "presentacion": "L",
+            "precio": 3560.0
+        },
+        {
+            "nombre": "Detergente en pasta",
+            "presentacion": "g",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Detergente de pasta",
+            "presentacion": "g",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Detergente Tide",
+            "presentacion": "cápsulas",
+            "precio": 9900.0
+        },
+        {
+            "nombre": "Detergente Miya",
+            "presentacion": "...",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Detergente en polvo Foam",
+            "presentacion": "g",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente en polvo Foam",
+            "presentacion": "kg",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Detergente en polvo Foam",
+            "presentacion": "kg",
+            "precio": 3100.0
+        }
+    ]
+},
+    {
+    "nombre": "Aseremarker",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.132135,
+        "long": -82.4021279
+    },
+    "horario": "Todos los días 9:00 AM - 8:00 PM",
+    "productos": [
+        {
+            "nombre": "Picadillo de Res Karmac",
+            "presentacion": "250gr",
+            "precio_cup": 710.0
+        },
+        {
+            "nombre": "Pechuga de Pollo",
+            "presentacion": "2 Kg",
+            "precio_cup": 5060.0
+        },
+        {
+            "nombre": "Hamburguesa de Cerdo",
+            "presentacion": "75 gr",
+            "precio_cup": 170.0
+        },
+        {
+            "nombre": "Hamburguesa de Res",
+            "presentacion": "75 gr",
+            "precio_cup": 200.0
+        },
+        {
+            "nombre": "Hamburguesa de Res",
+            "presentacion": "90 gr",
+            "precio_cup": 250.0
+        },
+        {
+            "nombre": "Hamburguesa de Cerdo",
+            "presentacion": "90 gr",
+            "precio_cup": 225.0
+        },
+        {
+            "nombre": "Frijoles Negros",
+            "presentacion": "500 gr",
+            "precio_cup": 810.0
+        },
+        {
+            "nombre": "Lentejas",
+            "presentacion": "1 kg",
+            "precio_cup": 1370.0
+        },
+        {
+            "nombre": "Garbanzos sin piel",
+            "presentacion": "1 kg",
+            "precio_cup": 1470.0
+        },
+        {
+            "nombre": "Fusilli PastaRicco",
+            "presentacion": "500 gr",
+            "precio_cup": 375.0
+        },
+        {
+            "nombre": "Penne PastaRicco",
+            "presentacion": "500 gr",
+            "precio_cup": 375.0
+        },
+        {
+            "nombre": "Spaghetti PastaRicco",
+            "presentacion": "500 gr",
+            "precio_cup": 375.0
+        },
+        {
+            "nombre": "Leche Chocolate Macrofood",
+            "presentacion": "1 kg",
+            "precio_cup": 2300.0
+        },
+        {
+            "nombre": "Detergente líquido Óptimo",
+            "presentacion": "1 lt",
+            "precio_cup": 1500.0
+        },
+        {
+            "nombre": "Cloro gel aroma limón Doña Fresia",
+            "presentacion": "900 ml",
+            "precio_cup": 1165.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Ron Santiago de Cuba Añejo Tradición",
+        "presentacion": "",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 8 años",
+        "presentacion": "700 ml.",
+        "precio": 4250.0
+    },
+    {
+        "nombre": "Vino Espumoso Brut Undurraga",
+        "presentacion": "750 ml.",
+        "precio": 2400.0
+    },
+    {
+        "nombre": "Vino Espumoso Demi Sec Baron Lacroix",
+        "presentacion": "750 ml.",
+        "precio": 2400.0
+    },
+    {
+        "nombre": "Vino J. Bouchon Cabernet Sauvignon",
+        "presentacion": "750 ml.",
+        "precio": 3450.0
+    },
+    {
+        "nombre": "Agua Natural Acqua Buona",
+        "presentacion": "500 ml.",
+        "precio": 180.0
+    },
+    {
+        "nombre": "Refresco sabor naranja Tuist",
+        "presentacion": "3 l.",
+        "precio": 980.0
+    },
+    {
+        "nombre": "Cavalla Ensamblaje Cabernet Sauvignon - Carmenere",
+        "presentacion": "750 ml.",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Cavalla Carmenere",
+        "presentacion": "750 ml.",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Cavalla Cabernet Sauvignon",
+        "presentacion": "",
+        "precio": 1700.0
+    },
+    {
+        "nombre": "Cavalla Sauvignon Blanc",
+        "presentacion": "750 ml.",
+        "precio": 1700.0
+    }
+        ]
+    
+    
+},
+    {
+    "nombre": "Bodegón 23",
+    "municipio": "Cerro",
+    "ubicacion": {
+        "lat": 23.103357,
+        "long": -82.388497
+    },
+    "horario": "Domingo 9:00 AM - 5:00 PM  Lunes a Sábado  9:00 AM - 7:00 PM",
+    "productos": [
+        {
+            "nombre": "Codito",
+            "presentacion": "250g",
+            "precio": 210.0
+        },
+        {
+            "nombre": "Codito",
+            "presentacion": "500g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "850g",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "400g",
+            "precio": 430.0
+        },
+        {
+            "nombre": "Lentejas del campo",
+            "presentacion": "",
+            "precio": 620.0
+        },
+        {
+            "nombre": "Frijoles negro del campo",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Garbanzos del campo",
+            "presentacion": "",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Frijol colorado Goya",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Lentejas Goya",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Frijol blanco",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Macarrones cheezy",
+            "presentacion": "",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Frijoles blancos Goya",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Avena",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Café la llave",
+            "presentacion": "",
+            "precio": 2000.0
+        },
+        {
+            "nombre": "Café Aroma",
+            "presentacion": "",
+            "precio": 1550.0
+        },
+        {
+            "nombre": "Spaguettis",
+            "presentacion": "500g",
+            "precio": 330.0
+        },
+        {
+            "nombre": "Fideos",
+            "presentacion": "500 g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "1kg",
+            "precio": 580.0
+        },
+        {
+            "nombre": "Cartón de huevo",
+            "presentacion": "",
+            "precio": 2700.0
+        },
+        {
+            "nombre": "Picadillo la favorita",
+            "presentacion": "800g",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 430.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "2kg",
+            "precio": 4100.0
+        },
+        {
+            "nombre": "Bandejas de pechuga entera sin hueso",
+            "presentacion": "1kg",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Salchichas de pollo",
+            "presentacion": "",
+            "precio": 355.0
+        },
+        {
+            "nombre": "Aceite",
+            "presentacion": "900ml",
+            "precio": 870.0
+        },
+        {
+            "nombre": "Jabón jolie",
+            "presentacion": "",
+            "precio": 130.0
+        },
+        {
+            "nombre": "Jabón kite",
+            "presentacion": "",
+            "precio": 140.0
+        },
+        {
+            "nombre": "Detergente SBT",
+            "presentacion": "1kg",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Lavaplatos",
+            "presentacion": "",
+            "precio": 400.0
+        }
+    ],
+    "bebida": [
+        [
+    {
+        "nombre": "Albin",
+        "presentacion": "",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Vodka",
+        "presentacion": "",
+        "precio": 550.0
+    },
+    {
+        "nombre": "Tequila",
+        "presentacion": "",
+        "precio": 1500.0
+    },
+    {
+        "nombre": "John mail",
+        "presentacion": "",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Vino Acantus (tinto)",
+        "presentacion": "",
+        "precio": 1300.0
+    },
+    {
+        "nombre": "Vino Acantus (blanco)",
+        "presentacion": "",
+        "precio": 5200.0
+    },
+    {
+        "nombre": "Jagermeister",
+        "presentacion": "",
+        "precio": 6500.0
+    },
+    {
+        "nombre": "Red label",
+        "presentacion": "",
+        "precio": 480.0
+    },
+    {
+        "nombre": "Cerveza Corona",
+        "presentacion": "",
+        "precio": 450.0
+    },
+    {
+        "nombre": "Agua tónica",
+        "presentacion": "",
+        "precio": 3000.0
+    },
+    {
+        "nombre": "Ritual",
+        "presentacion": "",
+        "precio": 4000.0
+    },
+    {
+        "nombre": "Ron Santiago",
+        "presentacion": "",
+        "precio": 5900.0
+    },
+    {
+        "nombre": "Ballantines",
+        "presentacion": "",
+        "precio": 3200.0
+    },
+    {
+        "nombre": "Barceló dorado",
+        "presentacion": "",
+        "precio": 2900.0
+    },
+    {
+        "nombre": "Barceló blanco",
+        "presentacion": "",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Cerveza cristal",
+        "presentacion": "",
+        "precio": 270.0
+    },
+    {
+        "nombre": "Cerveza cristal botella",
+        "presentacion": "botella",
+        "precio": 260.0
+    },
+    {
+        "nombre": "Cerveza bucanero",
+        "presentacion": "",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Cerveza moyoc",
+        "presentacion": "",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Cerveza Lander Brau",
+        "presentacion": "",
+        "precio": 200.0
+    },
+    {
+        "nombre": "Cerveza holandia Clásica",
+        "presentacion": "",
+        "precio": 9000.0
+    },
+    {
+        "nombre": "Chiva real 12 años",
+        "presentacion": "chiquita",
+        "precio": 4800.0
+    },
+    {
+        "nombre": "Tequila",
+        "presentacion": "",
+        "precio": 5000.0
+    },
+    {
+        "nombre": "Tequila reposado",
+        "presentacion": "",
+        "precio": null
+    }
+]
+    ]
+},
+    {
+    "nombre": "Bodegón Oasis",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.1389366,
+        "long": -82.3850155
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Pechuga de Pollo Friato",
+            "presentacion": "kg",
+            "precio": 5300.0
+        },
+        {
+            "nombre": "Pollo Entero Sin Menudos Congelado",
+            "presentacion": "kg",
+            "precio": 3500.0
+        },
+        {
+            "nombre": "Asado Molido de Bovino Karmac",
+            "presentacion": "g",
+            "precio": 1680.0
+        },
+        {
+            "nombre": "Arroz Super Extra KDM",
+            "presentacion": "g",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Garbanzo con Panceta y Chorizo deCancio",
+            "presentacion": "g",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Lentejas con Panceta y Chorizo deCancio",
+            "presentacion": "g",
+            "precio": 1070.0
+        },
+        {
+            "nombre": "Alubias con Panceta y Chorizo deCancio",
+            "presentacion": "g",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Fabada Asturiana deCancio",
+            "presentacion": "g",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Alubias Blancas deCancio",
+            "presentacion": "",
+            "precio": 1190.0
+        },
+        {
+            "nombre": "Spaguetti Tu Pasta",
+            "presentacion": "g",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Spaghetti Donatella",
+            "presentacion": "g",
+            "precio": 410.0
+        },
+        {
+            "nombre": "Sopa sabor Ternera con Estrellitas",
+            "presentacion": "",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Sopa sabor Cocido",
+            "presentacion": "",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Café Soluble Clásico",
+            "presentacion": "g",
+            "precio": 4585.0
+        },
+        {
+            "nombre": "Café Soluble Descafeinado",
+            "presentacion": "g",
+            "precio": 4800.0
+        },
+        {
+            "nombre": "Leche evaporada Rica",
+            "presentacion": "g",
+            "precio": 695.0
+        },
+        {
+            "nombre": "Crema de Leche Rica",
+            "presentacion": "ml",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Leche sabor a Frutilla macro food",
+            "presentacion": "kg",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Nata para cocinar Arla",
+            "presentacion": "Lt",
+            "precio": 3160.0
+        },
+        {
+            "nombre": "Coffe Mate Original",
+            "presentacion": "g",
+            "precio": 1125.0
+        },
+        {
+            "nombre": "Coffee mate Vainilla",
+            "presentacion": "g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffee Mate Chocolate",
+            "presentacion": "g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffee mate Avellana",
+            "presentacion": "g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Coffe mate Extracremoso",
+            "presentacion": "g",
+            "precio": 4480.0
+        },
+        {
+            "nombre": "Crema de Cafe de Avellana Mc'Daniels",
+            "presentacion": "g",
+            "precio": 2175.0
+        },
+        {
+            "nombre": "Crema para el Cafe Original Mc.Daniel's",
+            "presentacion": "g",
+            "precio": 2550.0
+        },
+        {
+            "nombre": "Jabón de tocador Tropical Blossom Kare",
+            "presentacion": "g",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Jabón de tocador Aloe Vera Kare",
+            "presentacion": "g",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Jabón de tocador Classic Creamy Kare",
+            "presentacion": "g",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Jabón de tocador collogne Azul Kare",
+            "presentacion": "g",
+            "precio": 215.0
+        },
+        {
+            "nombre": "Desengrasante Arrixaca Pulverizador",
+            "presentacion": "ml",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Limpia Todo ArriXaca",
+            "presentacion": "Lt",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Fregasuelo de Flor de Cerezo ArriXaca",
+            "presentacion": "t",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Cítrico ArriXaca",
+            "presentacion": "lt",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Marino ArriXaca",
+            "presentacion": "lt",
+            "precio": 925.0
+        },
+        {
+            "nombre": "Fregasuelo Floral ArriXaca",
+            "presentacion": "lt",
+            "precio": 925.0
+        },
+        {
+            "nombre": "WC baño con lejía Kiriko",
+            "presentacion": "ml",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Limpiador para baño WC 3 en 1 Kiriko",
+            "presentacion": "ml",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Suavizante Talco Ayala",
+            "presentacion": "lt",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Suavizante Frescor Azul Ayala",
+            "presentacion": "lt",
+            "precio": 2200.0
+        }
+    ],
+    "bebida": [
+        [
+    {
+        "nombre": "Vino tinto clásico D.O.Ca Rioja Marques de Griñon",
+        "presentacion": "750ml",
+        "precio": 4920.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ginger Ale",
+        "presentacion": "300ml",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Licor Aperol",
+        "presentacion": "700ml",
+        "precio": 8200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Fino Palomino D.O Jerez Tío Pepe",
+        "presentacion": "375ml",
+        "precio": 3000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Casillero del Diablo Cabernet Sauvignon",
+        "presentacion": "750ml",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Finca Resalso Emilio Moro",
+        "presentacion": "750ml",
+        "precio": 6100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua San Joaquín",
+        "presentacion": "1.5lt",
+        "precio": 445.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Piña Dimes",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Melocotón Dimes",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Albaricoque Dimes",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Carta Blanca",
+        "presentacion": "38% Vol. 0,7l",
+        "precio": 2800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Tradición",
+        "presentacion": "700ml",
+        "precio": 3600.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Dimes Premium Tetra Manzana",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar Dimes Clasicc Multifrutas",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "VB Casillero Del Diablo Chardonnay",
+        "presentacion": "750ml",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "VB Casillero del Diablo Sauvignon Blanc",
+        "presentacion": "750ml",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar de Mango Nezka",
+        "presentacion": "250ml",
+        "precio": 420.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Tinto Pinot Noir (Valle Casablanca) VERAMONTE Reserva",
+        "presentacion": "750ml",
+        "precio": 4750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cava Vilarnau Ice Sec",
+        "presentacion": "750ml",
+        "precio": 5300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Compota de Durazno Fresko",
+        "presentacion": "4 onz",
+        "precio": 380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Compota de Pera Fresko",
+        "presentacion": "4 onz",
+        "precio": 380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Compota de Banana Fresko",
+        "presentacion": "4 onz",
+        "precio": 380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Compota de Frutas Mixtas Fresko",
+        "presentacion": "4 onz",
+        "precio": 380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Compota Mango Fresko",
+        "presentacion": "4 onz",
+        "precio": 380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Blanco Frontera Chardonnay",
+        "presentacion": "750ml",
+        "precio": 2200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Fever Tree Agua Tónica Premium Indian",
+        "presentacion": "150ml",
+        "precio": 780.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Chateau Domecq Valle de Guadalupe",
+        "presentacion": "",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "VB JP Chenet Vin De France Colombard Chardonnay",
+        "presentacion": "250ml",
+        "precio": 1670.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar de Pera deCancio",
+        "presentacion": "Botella 200ml",
+        "precio": 370.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Pera",
+        "presentacion": "200ml",
+        "precio": 190.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Mango deCancio",
+        "presentacion": "Botella 200ml",
+        "precio": 370.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Manzana deCancio",
+        "presentacion": "Botella 200ml",
+        "precio": 370.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Multifrutas deCancio",
+        "presentacion": "Botella 200ml",
+        "precio": 370.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Melocotón deCancio",
+        "presentacion": "200ml",
+        "precio": 370.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Super Bock Abadia",
+        "presentacion": "",
+        "precio": 465.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Super Bock Stout",
+        "presentacion": "",
+        "precio": 540.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Aquarius de limón Zero",
+        "presentacion": "330ml",
+        "precio": 1030.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Daura Damm",
+        "presentacion": "330ml Sin gluten",
+        "precio": 675.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Soda Evervess",
+        "presentacion": "300ml",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Presidente",
+        "presentacion": "330ml 5.0% ALC.",
+        "precio": 260.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Super Bock sin Alcohol",
+        "presentacion": "330ml 0.0% Alc.",
+        "precio": 485.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Energizante Peach Vibe Celsius",
+        "presentacion": "355ml",
+        "precio": 1150.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Energizante Tropical Vibe Celsius",
+        "presentacion": "355ml",
+        "precio": 1150.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar Guava Nezka",
+        "presentacion": "250ml",
+        "precio": 495.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Bebida Alcoholica Roskoff Ice Rtd Sandía Limón",
+        "presentacion": "275ml",
+        "precio": 580.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Alcoholica Roskoff Ice Rtd Tropical",
+        "presentacion": "275ml",
+        "precio": 580.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Casillero del Diablo Merlot",
+        "presentacion": "",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Casillero del Diablo Carmenere",
+        "presentacion": "",
+        "precio": 4600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Estrella Damm",
+        "presentacion": "6x 330ml",
+        "precio": 2820.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Estrella Damm",
+        "presentacion": "330ml",
+        "precio": 470.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Perrier Agua Mineral con Gas",
+        "presentacion": "330ml",
+        "precio": 770.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Frontera Merlot",
+        "presentacion": "750ml",
+        "precio": 2200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Frontera Carmene",
+        "presentacion": "750ml",
+        "precio": 2200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Frontera Sauvignon Blanc",
+        "presentacion": "750ml",
+        "precio": 2200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Super Bock",
+        "presentacion": "5.2% 33cl",
+        "precio": 395.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Redbull",
+        "presentacion": "250ml",
+        "precio": 620.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Natural",
+        "presentacion": "500ml",
+        "precio": 195.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco piñata Melocotón",
+        "presentacion": "12L",
+        "precio": 460.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Sidra Cereser",
+        "presentacion": "660ml",
+        "precio": 1650.0,
+        "nacional": false
+    }
+]
+    ]
+},
+    {
+    "nombre": "Bodegón Wära",
+    "municipio": "Playa",
+    "ubicacion": {
+        "lat": 23.126681,
+        "long": -82.422173
+    },
+    "horario": "Lunes a Sábado 9:00 AM / 7:00 PM Domingos 9:00 AM / 5:00 PM",
+    "productos": [
+        {
+            "nombre": "Picadillo de Res",
+            "presentacion": "lb",
+            "precio": 1700.0
+        },
+        {
+            "nombre": "Picadillo de Res GCM",
+            "presentacion": "kg",
+            "precio": 1700.0
+        },
+        {
+            "nombre": "Pechuga de Pollo",
+            "presentacion": "lb",
+            "precio": 1890.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "lb",
+            "precio": 2390.0
+        },
+        {
+            "nombre": "Arroz Mirhogar Grano Largo",
+            "presentacion": "kg",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Spaguetis Monca",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Fusilli Assaada",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Fideos Badelli",
+            "presentacion": "g",
+            "precio": 335.0
+        },
+        {
+            "nombre": "Coditos Besler",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Penne Banetti",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Garbanzos Del Campo",
+            "presentacion": "lb",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Frijoles Blancos del Campo",
+            "presentacion": "lb",
+            "precio": 860.0
+        },
+        {
+            "nombre": "Frijoles Colorados del Campo",
+            "presentacion": "lb",
+            "precio": 920.0
+        },
+        {
+            "nombre": "Frijoles Negros Del Campo",
+            "presentacion": "lb",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Lentejas Rojas Iberia",
+            "presentacion": "g",
+            "precio": 890.0
+        },
+        {
+            "nombre": "Frijoles Rosados Iberia",
+            "presentacion": "g",
+            "precio": 840.0
+        },
+        {
+            "nombre": "Chicharos Verdea Partidos Penelas",
+            "presentacion": "g",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Café Cubano",
+            "presentacion": "g",
+            "precio": 960.0
+        },
+        {
+            "nombre": "Café Molido Isla Grande",
+            "presentacion": "g",
+            "precio": 1750.0
+        },
+        {
+            "nombre": "Café La llave",
+            "presentacion": "g",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Café Soluble Aurera",
+            "presentacion": "g",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Leche Condensada Azucarada La Granjera",
+            "presentacion": "g",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Leche entera Rica",
+            "presentacion": "L",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Leche Evaporada Rica",
+            "presentacion": "g",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Leche Semidescremada",
+            "presentacion": "L",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Crema de Leche",
+            "presentacion": "ml",
+            "precio": 1150.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Vino Tinto Castañeda",
+        "presentacion": "750ml",
+        "precio": 1660.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "1L",
+        "precio": 1930.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Fraterno",
+        "presentacion": "750ml",
+        "precio": 1660.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Chemato",
+        "presentacion": "1L Salsa de tomate con sabor Almejas",
+        "precio": 1360.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago 8 años",
+        "presentacion": "",
+        "precio": 6100.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Tinto Viña Mercedes",
+        "presentacion": "750ml",
+        "precio": 1660.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Cola Revoltosa",
+        "presentacion": "2L",
+        "precio": 890.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua Lunares",
+        "presentacion": "330ml",
+        "precio": 210.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Crema de whisky Scoth Lands",
+        "presentacion": "70cl 15% vol",
+        "precio": 5000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Guayaba",
+        "presentacion": "946ml",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Naranja Fresh Mix",
+        "presentacion": "250ml",
+        "precio": 190.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Limón Fresh Mix",
+        "presentacion": "250ml",
+        "precio": 190.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Alcohólica Roskoff Ice Sandía-Limón",
+        "presentacion": "275ml",
+        "precio": 580.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Alcohólica Mista Roskoff Ice Limón",
+        "presentacion": "275ml",
+        "precio": 580.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Alcohólica Mista Roskoff Ice Tropical",
+        "presentacion": "275ml",
+        "precio": 580.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Manzana Yes!",
+        "presentacion": "1L",
+        "precio": 800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Viña Mercedes",
+        "presentacion": "750ml",
+        "precio": 1660.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Wallformosa Gala",
+        "presentacion": "Rose-Brut La versatilidad hecha rosé No hay dos sin tres. Lo único que le faltaba a la gama Vallformosa Gala era un toque más rosé. Ahora ya no hay excusa, los momentos más elegantes ya tienen un rosé para unirse a la fiesta. Doce grados de pura finura gracias a un agradable Pinot Noir.",
+        "precio": 3500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Abbazia Prosecco Rose",
+        "presentacion": "75cl",
+        "precio": 2250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Sidra Rosada Mayador",
+        "presentacion": "",
+        "precio": 1740.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Sidra Espumosa Mayador",
+        "presentacion": "",
+        "precio": 1700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Gatorade Fruit Punch",
+        "presentacion": "355ml",
+        "precio": 980.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Gatorade Lemon Lime",
+        "presentacion": "355ml",
+        "precio": 980.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Gatorade Orange",
+        "presentacion": "355ml",
+        "precio": 980.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Rosado Gato Negro",
+        "presentacion": "",
+        "precio": 1630.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Canada Dry GinGer Ale",
+        "presentacion": "355ml",
+        "precio": 410.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Canada Dry Agua Tonica",
+        "presentacion": "",
+        "precio": 410.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Tempra/Maz/Garnacha D.O.Rioja LAN Crianza 6/Caja",
+        "presentacion": "Crianza 2020",
+        "precio": 6240.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago Extra añejo 11 años",
+        "presentacion": "",
+        "precio": 11320.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago Extra Añejo 12 años",
+        "presentacion": "",
+        "precio": 12990.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Goliath Piña",
+        "presentacion": "1L",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Añejo Santiago Tradición",
+        "presentacion": "",
+        "precio": 5400.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Carta Blanca",
+        "presentacion": "",
+        "precio": 3480.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Sprite Zero zugar",
+        "presentacion": "355ml",
+        "precio": 520.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "340ml",
+        "precio": 590.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Minha",
+        "presentacion": "1.5 L Agua Natural Purificada",
+        "precio": 180.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Badelli Manzana",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Redbull",
+        "presentacion": "250ml Bebida energética",
+        "precio": 600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Gala Brut Nature Reserva - Vallformosa",
+        "presentacion": "12% vol 750ml",
+        "precio": 3500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino blanco Viña Esmeralda",
+        "presentacion": "750ml",
+        "precio": 2800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino blanco Sangre de Toro Clásico",
+        "presentacion": "750ml 12 % vol.",
+        "precio": 2500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vallformosa Cava brut vallformosa classic rose",
+        "presentacion": "750ml",
+        "precio": 2150.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Espumoso Viña Esmeralda",
+        "presentacion": "11.5%vol. 750ml",
+        "precio": 3200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Tónica Fever Tree",
+        "presentacion": "150ml",
+        "precio": 640.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Piñata Piña Colada",
+        "presentacion": "Rinde 12L",
+        "precio": 500.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Goliath Tropical",
+        "presentacion": "1L",
+        "precio": 980.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Mango",
+        "presentacion": "946ml",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Súper Bock",
+        "presentacion": "Botella 330ml. 5.2% acl",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Pera",
+        "presentacion": "946ml",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Manzana",
+        "presentacion": "1L",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Melocotón",
+        "presentacion": "1L",
+        "precio": 900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Goliath Naranja",
+        "presentacion": "1L",
+        "precio": 1050.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Coca Cola",
+        "presentacion": "355ml",
+        "precio": 460.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua San Joaquín",
+        "presentacion": "1.5L",
+        "precio": 460.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco 7 up",
+        "presentacion": "355ml",
+        "precio": 400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club Especial",
+        "presentacion": "750ml",
+        "precio": 2200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Havana Club Reserva",
+        "presentacion": "700ml",
+        "precio": 2300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Cristal",
+        "presentacion": "Botella 350ml, alc 4.9% vol.",
+        "precio": 400.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Corona Extra",
+        "presentacion": "Botella 355ml 4.5% alc.",
+        "precio": 700.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "Cafeto Mio",
+    "municipio": "Playa",
+    "ubicacion": {
+        "lat": 23.1036813,
+        "long": -82.4175449
+    },
+    "horario": "9:00 AM / 9:00 PM",
+    "productos": [
+        {
+            "nombre": "Huevo",
+            "presentacion": "",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Picadillo de MM",
+            "presentacion": "",
+            "precio": 340.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "kg",
+            "precio": 5000.0
+        },
+        {
+            "nombre": "Solomillo",
+            "presentacion": "lb",
+            "precio": 1350.0
+        },
+        {
+            "nombre": "Picadillo de cerdo",
+            "presentacion": "",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Bistec cerdo Y masa de cerdo",
+            "presentacion": "lb",
+            "precio": 1350.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "kg",
+            "precio": 710.0
+        },
+        {
+            "nombre": "Salchicha parrillera",
+            "presentacion": "",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Frijol negro",
+            "presentacion": "g",
+            "precio": 740.0
+        },
+        {
+            "nombre": "Frijol negro",
+            "presentacion": "kg",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Garbanzo",
+            "presentacion": "g",
+            "precio": 740.0
+        },
+        {
+            "nombre": "Lentejas",
+            "presentacion": "lb",
+            "precio": 720.0
+        },
+        {
+            "nombre": "Chicharo verde",
+            "presentacion": "",
+            "precio": 740.0
+        },
+        {
+            "nombre": "Avena",
+            "presentacion": "",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Lata de maiz",
+            "presentacion": "",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Lata de maiz",
+            "presentacion": "g",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Macedonia",
+            "presentacion": "",
+            "precio": 790.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "",
+            "precio": 550.0
+        },
+        {
+            "nombre": "LECHE CONDENSADA",
+            "presentacion": "",
+            "precio": 600.0
+        },
+        {
+            "nombre": "LECHE EVAPORADO",
+            "presentacion": "",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Yogurt Santa Ana",
+            "presentacion": "",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Yogurt Vida Lactea",
+            "presentacion": "lt",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Yogurt RFC",
+            "presentacion": "Lt",
+            "precio": 1070.0
+        },
+        {
+            "nombre": "yogurt probiótico",
+            "presentacion": "l",
+            "precio": 1280.0
+        },
+        {
+            "nombre": "yogurt probiótico",
+            "presentacion": "ml",
+            "precio": 710.0
+        }
+    ],
+    "bebida": [
+        {
+            "nombre": "JUGO DE CAJITA",
+            "presentacion": "",
+            "precio": 180.0,
+            "nacional": true
+        },
+        {
+            "nombre": "REFRESCOS FRUTALES",
+            "presentacion": "",
+            "precio": 235.0,
+            "nacional": true
+        },
+        {
+            "nombre": "ENERGIZANTE",
+            "presentacion": "",
+            "precio": 400.0,
+            "nacional": false
+        },
+        {
+            "nombre": "UNLAGUER",
+            "presentacion": "",
+            "precio": 200.0,
+            "nacional": true
+        },
+        {
+            "nombre": "CERVEZA PRESIDENTE",
+            "presentacion": "",
+            "precio": 550.0,
+            "nacional": false
+        },
+        {
+            "nombre": "REFRESCO NARANJA BOTELLA",
+            "presentacion": "BOTELLA",
+            "precio": 240.0,
+            "nacional": true
+        },
+        {
+            "nombre": "REFRESCO COLA",
+            "presentacion": "",
+            "precio": 225.0,
+            "nacional": true
+        },
+        {
+            "nombre": "AGUA PEQUEÑA",
+            "presentacion": "",
+            "precio": 190.0,
+            "nacional": true
+        },
+        {
+            "nombre": "CAJA DE JUGO GOLIATH",
+            "presentacion": "MANGO",
+            "precio": 700.0,
+            "nacional": false
+        },
+        {
+            "nombre": "CAJA DE JUGO TANGO",
+            "presentacion": "NARANJA, MANZANA, MULTIFRUTAS",
+            "precio": 700.0,
+            "nacional": true
+        },
+        {
+            "nombre": "BOTELLA DE AGUA",
+            "presentacion": "1.5LT",
+            "precio": 580.0,
+            "nacional": true
+        },
+        {
+            "nombre": "REFRESCO 3 LITROS",
+            "presentacion": "",
+            "precio": 1200.0,
+            "nacional": true
+        },
+        {
+            "nombre": "ENERGIZANTE",
+            "presentacion": "",
+            "precio": 270.0,
+            "nacional": false
+        },
+        {
+            "nombre": "CERVEZA HEINEKEN",
+            "presentacion": "",
+            "precio": 550.0,
+            "nacional": false
+        },
+        {
+            "nombre": "ENERGIZANTE",
+            "presentacion": "",
+            "precio": 270.0,
+            "nacional": false
+        },
+        {
+            "nombre": "ENERGIZANTE",
+            "presentacion": "",
+            "precio": 320.0,
+            "nacional": false
+        },
+        {
+            "nombre": "CERVEZA CRISTAL",
+            "presentacion": "",
+            "precio": 350.0,
+            "nacional": true
+        },
+        {
+            "nombre": "PEPSI",
+            "presentacion": "",
+            "precio": 300.0,
+            "nacional": false
+        },
+        {
+            "nombre": "JUGO DE MANGO",
+            "presentacion": "",
+            "precio": 180.0,
+            "nacional": true
+        },
+        {
+            "nombre": "MALTA GUAJIRA",
+            "presentacion": "",
+            "precio": 280.0,
+            "nacional": true
+        },
+        {
+            "nombre": "REFRESCO",
+            "presentacion": "400ml",
+            "precio": 240.0,
+            "nacional": true
+        },
+        {
+            "nombre": "CERVEZA UNLAGUER",
+            "presentacion": "",
+            "precio": 220.0,
+            "nacional": true
+        },
+        {
+            "nombre": "ENERGIZANTE",
+            "presentacion": "",
+            "precio": 270.0,
+            "nacional": false
+        },
+        {
+            "nombre": "CERVEZA CALATRAVA ESPAÑOLA",
+            "presentacion": "",
+            "precio": 240.0,
+            "nacional": false
+        }
+        
+    ]
+},
+    {
+    "nombre": "CharcuteLia",
+    "municipio": "Arroyo Naranjo",
+    "ubicacion": {
+        "lat": 23.06079,
+        "long": -82.363023
+    },
+    "horario": "Lunes a Sábado 9:00 AM - 8:00 PM",
+    "productos": [
+        {
+            "nombre": "Picadillo de cerdo importado",
+            "presentacion": "",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Picadillo importados",
+            "presentacion": "g",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 280.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Pechuga",
+            "presentacion": "kg",
+            "precio": 4800.0
+        },
+        {
+            "nombre": "Salchicha",
+            "presentacion": "",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Arroz Brasileño",
+            "presentacion": "kg",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Spaghetti",
+            "presentacion": "g",
+            "precio": 340.0
+        },
+        {
+            "nombre": "Pasta Lazaña",
+            "presentacion": "g",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Macarrones con queso",
+            "presentacion": "",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Frijoles negros",
+            "presentacion": "kg",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Lentejas",
+            "presentacion": "",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Garbanzos del campo",
+            "presentacion": "",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Garbanzo goya",
+            "presentacion": "",
+            "precio": 970.0
+        },
+        {
+            "nombre": "Chícharos verdes",
+            "presentacion": "",
+            "precio": 630.0
+        },
+        {
+            "nombre": "Alubias blancas",
+            "presentacion": "",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Avena",
+            "presentacion": "",
+            "precio": 570.0
+        },
+        {
+            "nombre": "Café Español",
+            "presentacion": "",
+            "precio": 1650.0
+        },
+        {
+            "nombre": "Leche entera",
+            "presentacion": "kg",
+            "precio": 2250.0
+        },
+        {
+            "nombre": "Yogurt de vasito natural",
+            "presentacion": "",
+            "precio": 220.0
+        },
+        {
+            "nombre": "Yogurt probiotico importado",
+            "presentacion": "lt",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "g",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Aceite",
+            "presentacion": "lt",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Aceite de oliva extra virgen",
+            "presentacion": "",
+            "precio": 2690.0
+        },
+        {
+            "nombre": "Aceite de oliva puro",
+            "presentacion": "",
+            "precio": 2400.0
+        },
+        {
+            "nombre": "Jabón tocador",
+            "presentacion": "",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabon irish spring",
+            "presentacion": "",
+            "precio": 410.0
+        },
+        {
+            "nombre": "Detergente en polvo",
+            "presentacion": "kg",
+            "precio": 630.0
+        },
+        {
+            "nombre": "Detergente liquido",
+            "presentacion": "",
+            "precio": 800.0
+        }
+    ]
+},
+    {
+    "nombre": "El Balle",
+    "municipio": "La Lisa",
+    "ubicacion": {
+        "lat": 23.0527718,
+        "long": -82.4682166
+    },
+    "horario": "Domingo 8:00 AM - 5:00 PM Lunes a Sábado 7:00 AM - 7:00 PM",
+    "productos": [
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Leche en polvo 1 kg",
+            "presentacion": "...",
+            "precio": 2150.0
+        },
+        {
+            "nombre": "Arroz (Brazil) 1 kg",
+            "presentacion": "...",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Espaguetis 500g",
+            "presentacion": "...",
+            "precio": 280.0
+        },
+        {
+            "nombre": "Coditos 500g",
+            "presentacion": "...",
+            "precio": 300.0
+        },
+        {
+            "nombre": "Frijoles 1 kg",
+            "presentacion": "...",
+            "precio": 840.0
+        },
+        {
+            "nombre": "Pasta de tomate 400 g",
+            "presentacion": "...",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Picadillo de pollo 400g",
+            "presentacion": "...",
+            "precio": 410.0
+        },
+        {
+            "nombre": "Picadillo Especial 800 g La Favorita",
+            "presentacion": "...",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Pechuga de pollo 2kg",
+            "presentacion": "...",
+            "precio": 4200.0
+        },
+        {
+            "nombre": "Paquete de 10 lb de pollo muslos",
+            "presentacion": "Muslos",
+            "precio": 4100.0
+        },
+        {
+            "nombre": "Paquete de perritos 10 u",
+            "presentacion": "...",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Mortadela de pollo 500g",
+            "presentacion": "...",
+            "precio": 560.0
+        },
+        {
+            "nombre": "Pomo de aceite 1L",
+            "presentacion": "...",
+            "precio": 1010.0
+        },
+        {
+            "nombre": "Pomo de Aceite 900 ml",
+            "presentacion": "...",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Jabón de baño 60 g limón",
+            "presentacion": "...",
+            "precio": 120.0
+        },
+        {
+            "nombre": "Detergente líquido 1L",
+            "presentacion": "...",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Detergente en polvo 500g bibo",
+            "presentacion": "...",
+            "precio": 330.0
+        }
+    ],
+    "bebida": [
+        {
+            "nombre": "Vodka skarloff",
+            "presentacion": "ml",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Jugo de cóctel badelli",
+            "presentacion": "ml",
+            "precio": 190.0
+        }
+    ]
+},
+    {
+    "nombre": "El Contacto_22",
+    "municipio": "Boyeros",
+    "ubicacion": {
+        "lat": 23.0387167,
+        "long": -82.3727586
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Spagheti",
+            "presentacion": "",
+            "precio": 310.0
+        },
+        {
+            "nombre": "Macarones",
+            "presentacion": "",
+            "precio": 310.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 500.0
+        },
+        {
+            "nombre": "pechuga de pollo",
+            "presentacion": "",
+            "precio": 4500.0
+        },
+        {
+            "nombre": "Perritos",
+            "presentacion": "",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Perritos",
+            "presentacion": "kg",
+            "precio": 2800.0
+        },
+        {
+            "nombre": "Jabón de baño",
+            "presentacion": "",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de lavar",
+            "presentacion": "",
+            "precio": 260.0
+        },
+        {
+            "nombre": "Detergente en polvo",
+            "presentacion": "",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Detergente en polvo",
+            "presentacion": "",
+            "precio": 630.0
+        }
+    ]
+},
+{
+    "nombre": "TenCen",
+    "municipio": "Centro Habana",
+    "ubicacion": {
+        "lat": 23.103973,
+        "long": -82.3500295
+    },
+    "horario": "Lunes a Sábado 9:00 AM / 5:00 PM",
+    "productos": [
+        {
+            "nombre": "Aceite Oliva Extra Virgen",
+            "presentacion": "ml",
+            "precio": 8500.0
+        },
+        {
+            "nombre": "Alubias con panceta y chorizo",
+            "presentacion": "",
+            "precio": 1265.0
+        },
+        {
+            "nombre": "Lentejas con panceta y chorizo",
+            "presentacion": "",
+            "precio": 1220.0
+        },
+        {
+            "nombre": "Guisantes Finos",
+            "presentacion": "",
+            "precio": 605.0
+        },
+        {
+            "nombre": "Chicharo Verde Partido",
+            "presentacion": "",
+            "precio": 1230.0
+        },
+        {
+            "nombre": "Alubias Cocidas Blancas",
+            "presentacion": "",
+            "precio": 1265.0
+        },
+        {
+            "nombre": "Alubia Canela",
+            "presentacion": "kg",
+            "precio": 1685.0
+        },
+        {
+            "nombre": "Alubias Rojas extra",
+            "presentacion": "",
+            "precio": 1010.0
+        },
+        {
+            "nombre": "Arroz Super Extra KDM Gold",
+            "presentacion": "g",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Pechuga de Pollo Aurora",
+            "presentacion": "kg",
+            "precio": 6500.0
+        },
+        {
+            "nombre": "Carne molida de res Premiun",
+            "presentacion": "g",
+            "precio": 4990.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Chorizo tipo Vela Wapa",
+            "presentacion": "",
+            "precio": 2405.0
+        },
+        {
+            "nombre": "Mac & chesse",
+            "presentacion": "",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Spagheti",
+            "presentacion": "",
+            "precio": 310.0
+        },
+        {
+            "nombre": "Macarones",
+            "presentacion": "",
+            "precio": 310.0
+        },
+        {
+            "nombre": "Croquetas de pollo",
+            "presentacion": "gr",
+            "precio": 1450.0
+        },
+        {
+            "nombre": "Cafe Isla Grande",
+            "presentacion": "gr",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Café Caribe",
+            "presentacion": "gr",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "CAFÉ La Llave",
+            "presentacion": "gr",
+            "precio": 5240.0
+        },
+        {
+            "nombre": "Crema para Cafe McDaniels",
+            "presentacion": "",
+            "precio": 2100.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Yogurt Natural Santa Ana",
+            "presentacion": "L",
+            "precio": 1620.0
+        },
+        {
+            "nombre": "Yogurt Mango Santa Ana",
+            "presentacion": "",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Jabon Ivory",
+            "presentacion": "gr",
+            "precio": 420.0
+        },
+        {
+            "nombre": "Jabon Iris",
+            "presentacion": "",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente Kapital de lavar",
+            "presentacion": "litro",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Detregente Kapital de Lavar",
+            "presentacion": "ml",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Detergente Kapital de Fregar",
+            "presentacion": "ml",
+            "precio": 1100.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Nectar de Melocotón",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": true
+        },
+        {
+            "nombre": "Jugo Guayaba",
+            "presentacion": "1L",
+            "precio": 600.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Nectar de Pera",
+            "presentacion": "",
+            "precio": 250.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Malta turbo",
+            "presentacion": "",
+            "precio": 340.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Jugo de Mango Goliath",
+            "presentacion": "",
+            "precio": 1180.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Jugo de Naranja Goliath",
+            "presentacion": "",
+            "precio": 1180.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Jugo de Piña Goliath",
+            "presentacion": "",
+            "precio": 1180.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Jugo Tropical Goliath",
+            "presentacion": "",
+            "precio": 1180.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Refresco Coca cola",
+            "presentacion": "355ml",
+            "precio": 570.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Energizante XL",
+            "presentacion": "",
+            "precio": 310.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Agua Manantial Gasificada",
+            "presentacion": "",
+            "precio": 280.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Agua Natural San Joaquin",
+            "presentacion": "1.5 L",
+            "precio": 450.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Nectar Ponche de Frutas",
+            "presentacion": "",
+            "precio": 260.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Refesco Pepsi Cola",
+            "presentacion": "",
+            "precio": 390.0,
+            "nacional": false
+        }
+    ]
+},
+    {
+    "nombre": "Jal Minimarker",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.137295,
+        "long": -82.3943459
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Coditos",
+            "presentacion": "g",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Espagueti",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Spaguetis",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Macarrones con queso",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Avena",
+            "presentacion": "kg",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Arroz Super Extra KDM Gold",
+            "presentacion": "g",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Leche Condensada Azucarada",
+            "presentacion": "",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Leche Entera en Polvo",
+            "presentacion": "kg",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "x",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "g",
+            "precio": 470.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "lb",
+            "precio": 4200.0
+        },
+        {
+            "nombre": "Concentrado de Tomate",
+            "presentacion": "g",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Salsa Tomate Condimentada El Roble",
+            "presentacion": "g",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Tomate Frito UNO",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Pechuga sin hueso y sin piel",
+            "presentacion": "kg",
+            "precio": 5500.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Chorizo Vela",
+            "presentacion": "",
+            "precio": 2450.0
+        },
+        {
+            "nombre": "Aceite",
+            "presentacion": "Lt",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Aceite de Oliva",
+            "presentacion": "ml",
+            "precio": 2000.0
+        },
+        {
+            "nombre": "Aceite Saude",
+            "presentacion": "ml",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Cafe El Dorado",
+            "presentacion": "g",
+            "precio": 1850.0
+        },
+        {
+            "nombre": "Café Doña Nora",
+            "presentacion": "g",
+            "precio": 1400.0
+        },
+        {
+            "nombre": "Cafe Artesanal",
+            "presentacion": "g",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Lavavajillas Kapital",
+            "presentacion": "ml",
+            "precio": 840.0
+        },
+        {
+            "nombre": "Lavavajillas",
+            "presentacion": "ml",
+            "precio": 840.0
+        },
+        {
+            "nombre": "Esponjas de fregar",
+            "presentacion": "u",
+            "precio": 360.0
+        }
+        ],
+        "bebida": [ 
+            {
+            "nombre": "Havana Club Spiced",
+            "presentacion": "",
+            "precio": 5000.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Havana Club Profundo",
+            "presentacion": "",
+            "precio": 4500.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Havana Club Spiced",
+            "presentacion": "70cl",
+            "precio": 5000.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Santiago 8 Años",
+            "presentacion": "",
+            "precio": 5625.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Cerveza parranda",
+            "presentacion": "330ml",
+            "precio": 260.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Habana Club 7 años Edicion Limitada",
+            "presentacion": "",
+            "precio": 9700.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Habana Club 7 años Clásico",
+            "presentacion": "",
+            "precio": 7200.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Habana Club Reserva",
+            "presentacion": "",
+            "precio": 5000.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Cerveza Presidente",
+            "presentacion": "",
+            "precio": 270.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Caneca Ron Cubay",
+            "presentacion": "",
+            "precio": 350.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Cerveza Lander Brau",
+            "presentacion": "",
+            "precio": 280.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Sidra Cereser",
+            "presentacion": "",
+            "precio": 1500.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Cerveza Unlager",
+            "presentacion": "Lata",
+            "precio": 280.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Legendario elixir",
+            "presentacion": "",
+            "precio": 1400.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Añejo Especial",
+            "presentacion": "700ml",
+            "precio": 3400.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Tequila de Chocolate Doña Camila",
+            "presentacion": "",
+            "precio": 2000.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Vino Tinto",
+            "presentacion": "",
+            "precio": 1350.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Vino Blanco",
+            "presentacion": "",
+            "precio": 1200.0,
+            "nacional": false
+        },
+        {
+            "nombre": "Ron Palma",
+            "presentacion": "",
+            "precio": 1800.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Ritual",
+            "presentacion": "",
+            "precio": 4000.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Añejo Especial",
+            "presentacion": "700 cl",
+            "precio": 3400.0,
+            "nacional": true
+        },
+        {
+            "nombre": "Ron Añejo 3 Años",
+            "presentacion": "700 cl",
+            "precio": 3000.0,
+            "nacional": true
+        }
+        ]   
+},
+    {
+    "nombre": "Kaluch",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.136044,
+        "long": -82.407856
+    },
+    "horario": "",
+    "productos": [
+        {
+            "nombre": "Docena de huevos",
+            "presentacion": "",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Huevos",
+            "presentacion": "unidad",
+            "precio": 115.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "gr",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Pechuga de Pollo",
+            "presentacion": "Kg",
+            "precio": 6000.0
+        },
+        {
+            "nombre": "Carne molida de cerdo",
+            "presentacion": "gr",
+            "precio": 2200.0
+        },
+        {
+            "nombre": "Carne molida de res",
+            "presentacion": "gr",
+            "precio": 4350.0
+        },
+        {
+            "nombre": "Arroz Pelicano",
+            "presentacion": "",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Jamón barra York",
+            "presentacion": "gr",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Jamón barra de pavo",
+            "presentacion": "gr",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Espagueti",
+            "presentacion": "g",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Pasta caracolino",
+            "presentacion": "",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Pasta Torti",
+            "presentacion": "gr",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Galo Parafushino",
+            "presentacion": "gr",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Penne Rigate",
+            "presentacion": "gr",
+            "precio": 415.0
+        },
+        {
+            "nombre": "Mac & cheese so cheezy",
+            "presentacion": "gr",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Frijol colorado Del Campo",
+            "presentacion": "gr",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Lentejas",
+            "presentacion": "gr",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Garbanzos Extra",
+            "presentacion": "gr",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Leche Entera President",
+            "presentacion": "lt",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Jabón de tocador",
+            "presentacion": "unidad",
+            "precio": 270.0
+        },
+        {
+            "nombre": "Detergente Ropa Diario",
+            "presentacion": "l",
+            "precio": 2900.0
+        },
+        {
+            "nombre": "Lavavajillas Kiriko",
+            "presentacion": "l",
+            "precio": 2550.0
+        },
+        {
+            "nombre": "Fregasuelos colonia",
+            "presentacion": "ml",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Fregasuelos Spa Kiriko",
+            "presentacion": "ml",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Fregasuelos Talco Kiriko",
+            "presentacion": "ml",
+            "precio": 1600.0
+        },
+        {
+            "nombre": "Limpiasuelo",
+            "presentacion": "lt",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Desengrasante",
+            "presentacion": "ml",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Detergente Líquido Ropa Oscuro",
+            "presentacion": "lt",
+            "precio": 2700.0
+        },
+        {
+            "nombre": "Suavizante azul concentrado",
+            "presentacion": "L",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Suavizante Spa concentrado",
+            "presentacion": "L",
+            "precio": 2600.0
+        },
+        {
+            "nombre": "Suavizante Delicado",
+            "presentacion": "l",
+            "precio": 2600.0
+        },
+        {
+            "nombre": "Suavizante de Ropa",
+            "presentacion": "lt",
+            "precio": 1600.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Havana Club Ritual",
+        "presentacion": "700 ml",
+        "precio": 5000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Black Tears Spiced",
+        "presentacion": "",
+        "precio": 5200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Black Tears Super Dry",
+        "presentacion": "",
+        "precio": 2800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ruavieja Crema",
+        "presentacion": "",
+        "precio": 4500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago Carta Blanca",
+        "presentacion": "",
+        "precio": 2600.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago 12 años",
+        "presentacion": "",
+        "precio": 9500.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 8 Años",
+        "presentacion": "",
+        "precio": 5000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Olmeca Altos Reposado",
+        "presentacion": "700 ml",
+        "precio": 8000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Tequila Altos Plata",
+        "presentacion": "700 ml",
+        "precio": 8000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Pacto Navio",
+        "presentacion": "",
+        "precio": 17500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Tequila Olmeca Silver",
+        "presentacion": "700 ml",
+        "precio": 5000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ruavieja Crema de Chocolate",
+        "presentacion": "",
+        "precio": 4500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Tequila Olmeca Reposado",
+        "presentacion": "700 ml",
+        "precio": 6000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky The Glenlivet",
+        "presentacion": "",
+        "precio": 9000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Wyborowa",
+        "presentacion": "700 ml",
+        "precio": 5000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Black & White",
+        "presentacion": "",
+        "precio": 4500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ginebra Tanqueray",
+        "presentacion": "",
+        "precio": 7000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club 3 Años",
+        "presentacion": "700ml",
+        "precio": 2700.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Havana Club Reserva",
+        "presentacion": "700ml",
+        "precio": 4000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky Chivas Regal 12 años",
+        "presentacion": "700 ml",
+        "precio": 10500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Jameson",
+        "presentacion": "700 ml",
+        "precio": 6200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Havana Club Añejo Especial",
+        "presentacion": "700 ml",
+        "precio": 3000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de Cola Covey",
+        "presentacion": "",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de Limón Covey",
+        "presentacion": "",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua de Manantial Gasificada",
+        "presentacion": "355 ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Zumo multifrutas Pascual",
+        "presentacion": "1 Lt",
+        "precio": 1800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Zumo de naranja",
+        "presentacion": "1 Lt",
+        "precio": 1800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de melocotón Coviran",
+        "presentacion": "1 L",
+        "precio": 1360.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Zumo Piña/Manzana/Uva Gourmet",
+        "presentacion": "1 L",
+        "precio": 1360.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo de melocotón/manzana/uva Coviran",
+        "presentacion": "1 L",
+        "precio": 1360.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Energizante Doping",
+        "presentacion": "",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco de Piña Covey",
+        "presentacion": "",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua Mineral Deus",
+        "presentacion": "1 Lt",
+        "precio": 650.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Unlaguer",
+        "presentacion": "",
+        "precio": 400.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Dimes de Manzana",
+        "presentacion": "200 ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Dimes Frutas Mixtas",
+        "presentacion": "200 ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar Dimes de Piña",
+        "presentacion": "200 ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza de Lata Covey",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua Natural con Gas Perrier",
+        "presentacion": "330ml",
+        "precio": 950.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Aquactiva",
+        "presentacion": "16 oz",
+        "precio": 230.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Pepsi en lata",
+        "presentacion": "",
+        "precio": 400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco de Naranja Mirinda",
+        "presentacion": "",
+        "precio": 400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Vermouth Yzaguirre",
+        "presentacion": "",
+        "precio": 4500.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "La Despensa",
+    "municipio": "Playa",
+    "ubicacion": {
+        "lat": 23.093584,
+        "long": -82.454992
+    },
+    "horario": "Todos los días 10:00 AM - 8:00 PM",
+    "productos": [
+        {
+            "nombre": "Cartón de huevos",
+            "presentacion": "...",
+            "precio": 3200.0
+        },
+        {
+            "nombre": "Carne bovina molida",
+            "presentacion": "g",
+            "precio": 3500.0
+        },
+        {
+            "nombre": "Pollo ahumado",
+            "presentacion": "...",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Arroz Coradini",
+            "presentacion": "kg",
+            "precio": 4900.0
+        },
+        {
+            "nombre": "Arroz coradini",
+            "presentacion": "kg",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Arroz CÍES",
+            "presentacion": "...",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Arroz sin Gluten",
+            "presentacion": "kg",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Chorizo",
+            "presentacion": "g",
+            "precio": 2000.0
+        },
+        {
+            "nombre": "Chorizo entero",
+            "presentacion": "g",
+            "precio": 4350.0
+        },
+        {
+            "nombre": "Chorizo vela ahumado",
+            "presentacion": "g",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Chorizo Xander",
+            "presentacion": "...",
+            "precio": 2100.0
+        },
+        {
+            "nombre": "Chorizo tipo vela",
+            "presentacion": "...",
+            "precio": 4100.0
+        },
+        {
+            "nombre": "Chorizo ahumado en manteca",
+            "presentacion": "...",
+            "precio": 1500.0
+        },
+        {
+            "nombre": "Chorizos en manteca",
+            "presentacion": "g",
+            "precio": 6500.0
+        },
+        {
+            "nombre": "Pasta penne Barilla + tomate Goya",
+            "presentacion": "...",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Linguini BARILLA + Tomate GOYA",
+            "presentacion": "...",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Casarecce BARILLA + Tomate GOYA",
+            "presentacion": "...",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Lasaña BARILLA + Tomate GOYA",
+            "presentacion": "...",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Coditos Grano de oro",
+            "presentacion": "...",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Alubias blancas PUÑADO",
+            "presentacion": "g",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Lentejas PUÑADO",
+            "presentacion": "g",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Frijoles blancos DEL CAMPO",
+            "presentacion": "...",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Alubias Blancas MARCOS",
+            "presentacion": "...",
+            "precio": 720.0
+        },
+        {
+            "nombre": "Garbanzos LOS GRANOS",
+            "presentacion": "...",
+            "precio": 1530.0
+        },
+        {
+            "nombre": "Frijoles blancos en conserva YUVAM",
+            "presentacion": "...",
+            "precio": 1270.0
+        },
+        {
+            "nombre": "Frijoles colorados en conserva YUVAM",
+            "presentacion": "...",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Frijoles blancos en conserva GOYA",
+            "presentacion": "...",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Frijol Colorado en conserva CLIC",
+            "presentacion": "...",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Pasta de tomate VIMA",
+            "presentacion": "...",
+            "precio": 7000.0
+        },
+        {
+            "nombre": "Concentrado de tomate",
+            "presentacion": "...",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Concentrado de tomate",
+            "presentacion": "kg",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Pulpa de tomate",
+            "presentacion": "g",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Salsa de tomate DI CARLO",
+            "presentacion": "...",
+            "precio": 1700.0
+        },
+        {
+            "nombre": "Leche entera",
+            "presentacion": "L",
+            "precio": 1670.0
+        },
+        {
+            "nombre": "Media crema de leche",
+            "presentacion": "...",
+            "precio": 3750.0
+        },
+        {
+            "nombre": "Aceite de girasol",
+            "presentacion": "ml",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Galón de aceite",
+            "presentacion": "...",
+            "precio": 25000.0
+        },
+        {
+            "nombre": "Jabón de baño Nova",
+            "presentacion": "...",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Jabón líquido infantil",
+            "presentacion": "...",
+            "precio": 1440.0
+        },
+        {
+            "nombre": "Jabón líquido infantil grande",
+            "presentacion": "...",
+            "precio": 1620.0
+        },
+        {
+            "nombre": "Pack de 3 jabones de pepino DALAN",
+            "presentacion": "...",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Pack de 3 jabones de avellana DALAN",
+            "presentacion": "...",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Pack de 3 jabones de aguacate DALAN",
+            "presentacion": "...",
+            "precio": 1050.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Refresco gaceada de naranja",
+        "presentacion": "3 L",
+        "precio": 1300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo mix de frutas Kool",
+        "presentacion": "",
+        "precio": 260.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Barriles de fruta",
+        "presentacion": "Kiwi Uva Fresa",
+        "precio": 400.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua natural Kirkland",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua tónica",
+        "presentacion": "",
+        "precio": 1200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua gaseada",
+        "presentacion": "",
+        "precio": 1200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cristal de botella",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cristal Extra de botella",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de Uva",
+        "presentacion": "946ml",
+        "precio": 3380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Frappuccino sabor vainilla Starbucks",
+        "presentacion": "",
+        "precio": 1700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Café Frappuccino Starbucks",
+        "presentacion": "",
+        "precio": 1700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Coca Cola Dietética",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Galón de agua",
+        "presentacion": "5 L",
+        "precio": 760.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomo de agua LA PUREZA",
+        "presentacion": "500 ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomo de agua LA PUREZA",
+        "presentacion": "1.5 L",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Batido de proteína de vainilla",
+        "presentacion": "42 g",
+        "precio": 2600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Batido de proteína de vainilla",
+        "presentacion": "26 g",
+        "precio": 2000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Batido de proteína de fresa",
+        "presentacion": "42 g",
+        "precio": 2600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Batido de proteína fresa y plátano",
+        "presentacion": "26 g",
+        "precio": 2000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida con aloe Vera",
+        "presentacion": "Sabor mango",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida con aloe vera",
+        "presentacion": "Sabor fresa",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida con aloe vera",
+        "presentacion": "Sabor natural",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua carbonatada MAISON PERRIER",
+        "presentacion": "",
+        "precio": 1000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Coca-Cola",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Fanta",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Sprit (azúcar cero)",
+        "presentacion": "",
+        "precio": 450.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo de naranja con vitamina D",
+        "presentacion": "",
+        "precio": 440.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco 7 Up",
+        "presentacion": "",
+        "precio": 320.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida energizante JAGUAR BLACK",
+        "presentacion": "",
+        "precio": 500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Clamato",
+        "presentacion": "221 ml",
+        "precio": 650.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Blonder",
+        "presentacion": "",
+        "precio": 210.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Heineken",
+        "presentacion": "",
+        "precio": 550.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "La Nave Mercado",
+    "municipio": "Habana del Este",
+    "ubicacion": {
+        "lat": 23.154121,
+        "long": -82.331866
+    },
+    "horario": "Lunes a sábado 9:00 am -8:00 pm / Domingo 9:00am - 7:00pm",
+    "productos": [
+        {
+            "nombre": "Huevos criollos importado",
+            "presentacion": "u",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Pechuga de pollo Levo",
+            "presentacion": "kg",
+            "precio": 5600.0
+        },
+        {
+            "nombre": "Lomo de cerdo deshuesado",
+            "presentacion": "",
+            "precio": 1250.0
+        },
+        {
+            "nombre": "Arroz de grano largo brasileño Tulipán",
+            "presentacion": "",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Espaguetis Fortificados Zonia",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Espaguetis Pasta Premium DOÑA NORA",
+            "presentacion": "",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Spaghetti Porto Bello",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Coditos Berrak",
+            "presentacion": "g",
+            "precio": 335.0
+        },
+        {
+            "nombre": "Lasaña italiana Mantia´s",
+            "presentacion": "g",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Garbanzos Del Campo",
+            "presentacion": "g",
+            "precio": 720.0
+        },
+        {
+            "nombre": "Frijoles negros Del Campo",
+            "presentacion": "g",
+            "precio": 730.0
+        },
+        {
+            "nombre": "Lentejas Del Campo",
+            "presentacion": "g",
+            "precio": 720.0
+        },
+        {
+            "nombre": "Frijoles colorados Del Campo",
+            "presentacion": "lb",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Frijoles BLANCOS Del Campo",
+            "presentacion": "lb",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Leche en polvo en Bolsas agranel",
+            "presentacion": "kg",
+            "precio": 1675.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 460.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 550.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Cerveza Peña tipo Pilsener",
+        "presentacion": "330 ml x 24 u",
+        "precio": 220.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Unlaguer",
+        "presentacion": "330 ml",
+        "precio": 290.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vodka triple destilado Bleinkoff",
+        "presentacion": "1 L",
+        "precio": 1680.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar de manzana La Estancia",
+        "presentacion": "200 ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar de Pera La Estancia",
+        "presentacion": "200 ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Ciego Montero de Naranja",
+        "presentacion": "1.5 L",
+        "precio": 790.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Botella de Agua Ciego Montero",
+        "presentacion": "1500 ml",
+        "precio": 310.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Baileys Original Crema Irlandesa Licor",
+        "presentacion": "750 ml",
+        "precio": 9000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema Ruavieja tradicional",
+        "presentacion": "",
+        "precio": 5200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Ballentines",
+        "presentacion": "",
+        "precio": 7200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco SANTA lima limón",
+        "presentacion": "330ml",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Bebida energética de día go +",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida energética de noche go +",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza La Fría",
+        "presentacion": "",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua Natural Aquelle",
+        "presentacion": "500 ml",
+        "precio": 160.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Gaseado de Cola Santa",
+        "presentacion": "330 ml",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Gaseado de Naranja",
+        "presentacion": "330 ml",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Extra Añejo 12 años",
+        "presentacion": "700ml",
+        "precio": 12000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Extra Añejo 11 años",
+        "presentacion": "700ml",
+        "precio": 10500.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Bebida energética + Vodka Shaka",
+        "presentacion": "",
+        "precio": 390.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Ligre",
+        "presentacion": "330 ml",
+        "precio": 270.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Sidra de manzana",
+        "presentacion": "",
+        "precio": 1620.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Cabeza de Lobo",
+        "presentacion": "",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Eichbaum",
+        "presentacion": "",
+        "precio": 200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Caja de Cerveza Peña tipo Pilsener",
+        "presentacion": "330 ml x 24 u",
+        "precio": 5040.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "La Taberna Bodegón",
+    "municipio": "Playa",
+    "ubicacion": {
+        "lat": 23.117797,
+        "long": -82.432557
+    },
+    "horario": "Domingo 9:00 AM - 6:00 PM Lunes a Sábado 9:00 AM - 9:00 PM",
+    "productos": [
+        {
+            "nombre": "Café Molido, Buenos Días",
+            "presentacion": "g",
+            "precio": 1650.0
+        },
+        {
+            "nombre": "Café Molido, Buenos Dias",
+            "presentacion": "g",
+            "precio": 3050.0
+        },
+        {
+            "nombre": "CAFE DESCAFEINADO",
+            "presentacion": "LBS",
+            "precio": 14500.0
+        },
+        {
+            "nombre": "Nescafé Taster's Choice",
+            "presentacion": "...",
+            "precio": 14750.0
+        },
+        {
+            "nombre": "Leche condensada, Corina",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Leche Completa, Sterilgarda",
+            "presentacion": "L",
+            "precio": 1300.0
+        },
+        {
+            "nombre": "Avena, Quaker Oats",
+            "presentacion": "lb",
+            "precio": 26400.0
+        },
+        {
+            "nombre": "Arroz Largo",
+            "presentacion": "kg",
+            "precio": 1350.0
+        },
+        {
+            "nombre": "Macarrones con queso Santa Sophia",
+            "presentacion": "g",
+            "precio": 300.0
+        },
+        {
+            "nombre": "Barilla, Penne + Proteína",
+            "presentacion": "...",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Kent Aceite de Oliva",
+            "presentacion": "ml",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Aceite de Coco",
+            "presentacion": "lt",
+            "precio": 16000.0
+        },
+        {
+            "nombre": "Tomate concentrado extra, Celorrio",
+            "presentacion": "...",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Jabon de tocador Jazmín",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de tocador Limón",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de tocador Lavanda",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Detergente para ropa en cápsula, Flings, Gain",
+            "presentacion": "cápsulas",
+            "precio": 6000.0
+        },
+        {
+            "nombre": "Detergente para ropa en cápsulas, Gain, 3 en 1",
+            "presentacion": "cápsulas",
+            "precio": 11650.0
+        },
+        {
+            "nombre": "Detergente para ropa en cápsulas, 3 en 1, Tide",
+            "presentacion": "cápsulas",
+            "precio": 12500.0
+        },
+        {
+            "nombre": "Limpiador multiusos, Quimxel",
+            "presentacion": "ml",
+            "precio": 1580.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Brandy Torres 10 en barrica ahumada",
+        "presentacion": "",
+        "precio": 5500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino tinto Secret del Piorat Torres",
+        "presentacion": "",
+        "precio": 8400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino tinto Loco de Piedra Reserva Cabernet Sauvignon Torres",
+        "presentacion": "",
+        "precio": 2100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Purgatori Torres",
+        "presentacion": "",
+        "precio": 8900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida Celsius",
+        "presentacion": "",
+        "precio": 2400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua con Gas S.Pellegrino",
+        "presentacion": "",
+        "precio": 800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo de Manzana",
+        "presentacion": "1L",
+        "precio": 950.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Sprite botella",
+        "presentacion": "",
+        "precio": 950.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Santa Digna Cab. Sauvignon 2021",
+        "presentacion": "",
+        "precio": 2950.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino tinto Pais La Causa",
+        "presentacion": "",
+        "precio": 3750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino espumoso Viña Esmeralda",
+        "presentacion": "",
+        "precio": 4500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Coronas Crianza 2018",
+        "presentacion": "",
+        "precio": 3200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Merlot Petit Jean Leon 3055",
+        "presentacion": "",
+        "precio": 5500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Brandy Torres 10 Reserva Imperial",
+        "presentacion": "",
+        "precio": 4750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Viña Esmeralda",
+        "presentacion": "",
+        "precio": 3600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Reserva Altos Ibéricos",
+        "presentacion": "",
+        "precio": 6000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Sangre de Toro",
+        "presentacion": "",
+        "precio": 3100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Rosado Santa Digna Cab. Sauvignon 2022",
+        "presentacion": "",
+        "precio": 3300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Sangre de Toro Reserva",
+        "presentacion": "",
+        "precio": 4850.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Original Sangre de Toro",
+        "presentacion": "",
+        "precio": 3200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Cabernet Sauvignon Andica Miguel Torres",
+        "presentacion": "",
+        "precio": 3750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Brandy Torres 20 Brandy Superior",
+        "presentacion": "",
+        "precio": 22500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Malbec José Zuccardi",
+        "presentacion": "",
+        "precio": 22000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino sin alcohol Sangre de Toro",
+        "presentacion": "750 ml",
+        "precio": 5000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino blanco Chardonnay Santa Digna",
+        "presentacion": "",
+        "precio": 2700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Gran Coronas Reserva Cab. Sauvignon",
+        "presentacion": "",
+        "precio": 5500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Brandy Torres 5 Solera Reserva",
+        "presentacion": "",
+        "precio": 4100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Añejo 8 años",
+        "presentacion": "",
+        "precio": 6700.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Añejo Tradición",
+        "presentacion": "",
+        "precio": 4100.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Tinto Carmenère Andica Miguel Torres",
+        "presentacion": "",
+        "precio": 3750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Altos Ibéricos Crianza",
+        "presentacion": "",
+        "precio": 6500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Extra Añejo 11 Años",
+        "presentacion": "",
+        "precio": 12350.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba Extra Añejo 12 años",
+        "presentacion": "",
+        "precio": 14200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Blanco ViñaSol",
+        "presentacion": "",
+        "precio": 3100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino moscatel oro Floralis Torres",
+        "presentacion": "",
+        "precio": 4400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Celeste Roble",
+        "presentacion": "",
+        "precio": 4150.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Red Bull",
+        "presentacion": "",
+        "precio": 800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Las Mulas Sauvignon Blanco",
+        "presentacion": "",
+        "precio": 2900.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Cinsault La Causa",
+        "presentacion": "",
+        "precio": 3750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Clos Ancestral Torres",
+        "presentacion": "",
+        "precio": 4560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Sauvignon Blanc Andica Miguel Torres",
+        "presentacion": "",
+        "precio": 3750.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Cabernet Sauvignon Loco de Piedra",
+        "presentacion": "",
+        "precio": 2100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Sangre de Toro Rosé",
+        "presentacion": "",
+        "precio": 2800.0,
+        "nacional": false
+    }
+    ]
+},
+{
+    "nombre": "Malcriado",
+    "municipio": "Centro Habana",
+    "ubicacion": {
+        "lat": 23.139553,
+        "long": -82.3792295
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Arroz Extremo Sabor",
+            "presentacion": "kg",
+            "precio": 810.0
+        },
+        {
+            "nombre": "FRIJOL NEGO",
+            "presentacion": "lb",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Garbanzos Goya",
+            "presentacion": "OZ",
+            "precio": 1080.0
+        },
+        {
+            "nombre": "Chícharos Goya",
+            "presentacion": "OZ",
+            "precio": 640.0
+        },
+        {
+            "nombre": "Lentejas DDS",
+            "presentacion": "g",
+            "precio": 1120.0
+        },
+        {
+            "nombre": "Picadillo de Res Karmac",
+            "presentacion": "g",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Asado molido de Res",
+            "presentacion": "g",
+            "precio": 1710.0
+        },
+        {
+            "nombre": "Lomo de Cerdo",
+            "presentacion": "lb",
+            "precio": 1340.0
+        },
+        {
+            "nombre": "Leche Condensada HollandPark",
+            "presentacion": "g",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Leche Entera Liquida Vima",
+            "presentacion": "lt",
+            "precio": 1200.0
+        },
+        {
+            "nombre": "Desengasante",
+            "presentacion": "ml",
+            "precio": 1480.0
+        },
+        {
+            "nombre": "Limpiador Crema Amoniaco",
+            "presentacion": "g",
+            "precio": 1000.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Agua Cool Heaven",
+        "presentacion": "500ml",
+        "precio": 180.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua Tónica Shweppes",
+        "presentacion": "330ml",
+        "precio": 370.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Gaseada Tehuacan",
+        "presentacion": "330ml",
+        "precio": 330.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Pepsi",
+        "presentacion": "300ml",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Turbo",
+        "presentacion": "355ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Cristal",
+        "presentacion": "330ml",
+        "precio": 400.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Havana Club Reserva",
+        "presentacion": "750ml",
+        "precio": 2800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Super Bock",
+        "presentacion": "500ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Oberbaum",
+        "presentacion": "330ml",
+        "precio": 270.0,
+        "nacional": false
+    }
+    ]
+}
+,
+    {
+    "nombre": "Marker Rey",
+    "municipio": "Habana del Este",
+    "ubicacion": {
+        "lat": 23.1539537,
+        "long": -82.3335421
+    },
+    "horario": "",
+    "productos": [
+        {
+            "nombre": "ESPAGUETIS",
+            "presentacion": "g",
+            "precio": 440.55
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "kg",
+            "precio": 885.55
+        },
+        {
+            "nombre": "PASTA DE TOMATE",
+            "presentacion": "g",
+            "precio": 667.5
+        },
+        {
+            "nombre": "PASTA DE TOMATE DOBLE CONCENTRADO CONDIMENTADO",
+            "presentacion": "g",
+            "precio": 1330.55
+        },
+        {
+            "nombre": "Verduras mixtas (estilo Macedonia)",
+            "presentacion": "g",
+            "precio": 885.55
+        },
+        {
+            "nombre": "PECHUGA DE POLLO",
+            "presentacion": "kg",
+            "precio": 6697.25
+        },
+        {
+            "nombre": "PICADILLO DE POLLO",
+            "presentacion": "g",
+            "precio": 845.5
+        },
+        {
+            "nombre": "PAQUETE DE POLLO",
+            "presentacion": "lb",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "SALCHICHAS DE POLLO",
+            "presentacion": "Unidades",
+            "precio": 836.6
+        },
+        {
+            "nombre": "LOMO DE CERDO SIN PIEL Y SIN HUESO",
+            "presentacion": "lb",
+            "precio": 22250.0
+        },
+        {
+            "nombre": "PALETA DE CERDO DESHUESADA DE IMPORTACIÓN",
+            "presentacion": "kg",
+            "precio": 19130.55
+        },
+        {
+            "nombre": "HÍGADO DE POLLO",
+            "presentacion": "Kg",
+            "precio": 1330.55
+        },
+        {
+            "nombre": "Aceite",
+            "presentacion": "ml",
+            "precio": 1112.5
+        },
+        {
+            "nombre": "CAFÉ ESPRESSO PREMIUM",
+            "presentacion": "g",
+            "precio": 2665.55
+        },
+        {
+            "nombre": "Café Paraná",
+            "presentacion": "g",
+            "precio": 2220.55
+        },
+        {
+            "nombre": "LATA DE LECHE CONDENSADA COCIDA (Fanguito)",
+            "presentacion": "...",
+            "precio": 1023.5
+        },
+        {
+            "nombre": "YOGURT PROBIOTICO DE FRESA",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIOTICO NATURAL",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIÓTICO DE MANZANA",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIÓTICO DE VAINILLA",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIÓTICO DE GUANABANA",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIOTICO DE PLATANO",
+            "presentacion": "lt",
+            "precio": 5335.55
+        },
+        {
+            "nombre": "YOGURT PROBIOTICO DE COCO",
+            "presentacion": "lt",
+            "precio": 1446.25
+        },
+        {
+            "nombre": "Jabón de tocador miel y leche",
+            "presentacion": "g",
+            "precio": 244.75
+        },
+        {
+            "nombre": "Jabón de tocador rosas",
+            "presentacion": "g",
+            "precio": 244.75
+        },
+        {
+            "nombre": "JABÓN DE TOCADOR LECHE Y MIEL",
+            "presentacion": "g",
+            "precio": 289.25
+        },
+        {
+            "nombre": "JABÓN DE TOCADOR DE ROSAS",
+            "presentacion": "g",
+            "precio": 289.25
+        },
+        {
+            "nombre": "Detergente en Polvo Foam Plus",
+            "presentacion": "kg",
+            "precio": 2803.5
+        },
+        {
+            "nombre": "Detergente en Polvo Foam Plus",
+            "presentacion": "kg",
+            "precio": 1223.75
+        },
+        {
+            "nombre": "DETERGENTE LÍQUIDO 4 en 1",
+            "presentacion": "ml",
+            "precio": 1891.25
+        },
+        {
+            "nombre": "DETERGENTE LÍQUIDO 4 en 1",
+            "presentacion": "ml",
+            "precio": 3337.5
+        },
+        {
+            "nombre": "Limpiador para cocina desengrasante",
+            "presentacion": "ml",
+            "precio": 1134.75
+        },
+        {
+            "nombre": "LIMPIADOR PARA COCINA DESENGRASANTE",
+            "presentacion": "ml",
+            "precio": 3555.55
+        },
+        {
+            "nombre": "Lavavajillas líquido limón",
+            "presentacion": "ml",
+            "precio": 2447.5
+        },
+        {
+            "nombre": "LAVAVAJILLAS LÍQUIDO",
+            "presentacion": "ml",
+            "precio": 1446.25
+        },
+        {
+            "nombre": "LAVAVAJILLAS LÍQUIDO",
+            "presentacion": "ml",
+            "precio": 756.5
+        },
+        {
+            "nombre": "Pasta para lavavajillas",
+            "presentacion": "g",
+            "precio": 823.25
+        },
+        {
+            "nombre": "PASTA PARA LAVAVAJILLAS",
+            "presentacion": "g",
+            "precio": 600.75
+        },
+        {
+            "nombre": "Limpiasuelos",
+            "presentacion": "ml",
+            "precio": 1824.5
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "MALTA BUCANERO",
+        "presentacion": "330ML",
+        "precio": 0.99,
+        "nacional": true
+    },
+    {
+        "nombre": "CERVEZA Sahara Gold",
+        "presentacion": "500ml",
+        "precio": 1.55,
+        "nacional": false
+    },
+    {
+        "nombre": "VINO MOSCATEL",
+        "presentacion": "750ML",
+        "precio": 1.99,
+        "nacional": false
+    },
+    {
+        "nombre": "VINO TINTO",
+        "presentacion": "700ML",
+        "precio": 1.99,
+        "nacional": false
+    },
+    {
+        "nombre": "VINO ROSADO DE CEREZAS",
+        "presentacion": "750 ML",
+        "precio": 1.99,
+        "nacional": false
+    },
+    {
+        "nombre": "CERVEZA CRISTAL",
+        "presentacion": "330ML",
+        "precio": 0.9,
+        "nacional": true
+    },
+    {
+        "nombre": "RON HAVANA CLUB AÑEJO ESPECIAL",
+        "presentacion": "1L",
+        "precio": 12.9,
+        "nacional": true
+    },
+    {
+        "nombre": "REFRESCO SANTA DE LATA",
+        "presentacion": "330ML",
+        "precio": 0.8,
+        "nacional": true
+    },
+    {
+        "nombre": "CERVEZA PARRANDA",
+        "presentacion": "1.5lt",
+        "precio": 1.95,
+        "nacional": true
+    },
+    {
+        "nombre": "VINO DULCE DE PASAS",
+        "presentacion": "750 ml",
+        "precio": 1.99,
+        "nacional": false
+    },
+    {
+        "nombre": "RON HAVANA CLUB AÑEJO 3 AÑOS",
+        "presentacion": "700ML",
+        "precio": 8.99,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de cerveza Sahara Gold 5.2",
+        "presentacion": "",
+        "precio": 18.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Bucanero",
+        "presentacion": "",
+        "precio": 19.99,
+        "nacional": true
+    },
+    {
+        "nombre": "RON SANTIAGO DE CUBA AÑEJO TRADICIONAL",
+        "presentacion": "700ml",
+        "precio": 9.99,
+        "nacional": true
+    },
+    {
+        "nombre": "Vodka White Nights",
+        "presentacion": "1L",
+        "precio": 4.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky 1882",
+        "presentacion": "1L",
+        "precio": 4.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Lito",
+        "presentacion": "330ml",
+        "precio": 0.85,
+        "nacional": true
+    },
+    {
+        "nombre": "ENERGIZANTE CON VODKA",
+        "presentacion": "250ml",
+        "precio": 1.1,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "May may",
+    "municipio": "Plaza",
+    "ubicacion": {
+        "lat": 23.1398713,
+        "long": -82.3910901
+    },
+    "horario": "9:00 AM / 9:00 PM",
+    "productos": [
+        {
+            "nombre": "Aceite",
+            "presentacion": "l",
+            "precio": 1150.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "g",
+            "precio": 610.0
+        },
+        {
+            "nombre": "Jamón York Tradicional",
+            "presentacion": "g",
+            "precio": 1970.0
+        },
+        {
+            "nombre": "Fideos",
+            "presentacion": "g",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Espagueti",
+            "presentacion": "g",
+            "precio": 310.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "g",
+            "precio": 590.0
+        },
+        {
+            "nombre": "leche entera",
+            "presentacion": "l",
+            "precio": 1150.0
+        },
+        {
+            "nombre": "Yogurt Santa Ana",
+            "presentacion": "ml",
+            "precio": 1040.0
+        },
+        {
+            "nombre": "Yogurt Probiótico",
+            "presentacion": "l",
+            "precio": 1510.0
+        },
+        {
+            "nombre": "Jabón",
+            "presentacion": "g",
+            "precio": 170.0
+        },
+        {
+            "nombre": "Jabón de manos",
+            "presentacion": "ml",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Suavizante de ropa",
+            "presentacion": "l",
+            "precio": 2690.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Cerveza Lobo",
+        "presentacion": "355ml",
+        "precio": 250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Corona",
+        "presentacion": "Botella 355ml",
+        "precio": 690.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "1L",
+        "precio": 1290.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "300ml",
+        "precio": 590.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar natural La Estancia",
+        "presentacion": "200ml",
+        "precio": 210.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Néctar Zuko",
+        "presentacion": "200ml",
+        "precio": 200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Del Prado",
+        "presentacion": "Cajita 200ml",
+        "precio": 250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "7Up",
+        "presentacion": "",
+        "precio": 300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Sprite",
+        "presentacion": "330ml",
+        "precio": 410.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantaneo Trix",
+        "presentacion": "10g",
+        "precio": 45.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ref. Pepsi Lata",
+        "presentacion": "355ml",
+        "precio": 300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Grey Goose",
+        "presentacion": "700ml",
+        "precio": 14670.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Ciroc",
+        "presentacion": "700ml",
+        "precio": 11500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Ragnarok",
+        "presentacion": "1L",
+        "precio": 1930.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Igor",
+        "presentacion": "700ml",
+        "precio": 2210.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Scottsman",
+        "presentacion": "1L",
+        "precio": 1930.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky William Lawson's",
+        "presentacion": "700ml",
+        "precio": 3640.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Dewar's White Label",
+        "presentacion": "700ml",
+        "precio": 5560.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "Mercadito ENEA",
+    "municipio": "Arroyo Naranjo",
+    "ubicacion": {
+        "lat": 23.0664711,
+        "long": -82.3782511
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Picadillo de pollo (americano)",
+            "presentacion": "lb",
+            "precio": 320.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "kg",
+            "precio": 4800.0
+        },
+        {
+            "nombre": "Salchichas de pollo",
+            "presentacion": "g",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Arroz san diego",
+            "presentacion": "kg",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Arroz brasileño",
+            "presentacion": "kg",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Coditos",
+            "presentacion": "g",
+            "precio": 300.0
+        },
+        {
+            "nombre": "Espaguetis",
+            "presentacion": "g",
+            "precio": 320.0
+        },
+        {
+            "nombre": "Frijol negro",
+            "presentacion": "kg",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Pasta de tomate Zer",
+            "presentacion": "g",
+            "precio": 530.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 530.0
+        },
+        {
+            "nombre": "Leche entera a granel",
+            "presentacion": "kg",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Aceite de girasol",
+            "presentacion": "lt",
+            "precio": 990.0
+        },
+        {
+            "nombre": "Jabón de baño violeta",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de baño rosas",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de leche y miel",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Jabón de limón",
+            "presentacion": "g",
+            "precio": 150.0
+        },
+        {
+            "nombre": "Detergente de fregar",
+            "presentacion": "lt",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente de lavar",
+            "presentacion": "lt",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente blanqueador de ropa",
+            "presentacion": "lt",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Friegasuelo",
+            "presentacion": "lt",
+            "precio": 450.0
+        }
+    ]
+},
+    {
+    "nombre": "Hakuna Matata",
+    "municipio": "Habana del Este",
+    "ubicacion": {
+        "lat": 23.143663,
+        "long": -82.311539
+    },
+    "horario": "10am / 7pm",
+    "productos": [
+        {
+            "nombre": "Picadillo de Pollo",
+            "presentacion": "kg",
+            "precio": 750.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "kg",
+            "precio": 4400.0
+        },
+        {
+            "nombre": "Paquete de Pollo Muslo",
+            "presentacion": "lb",
+            "precio": 3900.0
+        },
+        {
+            "nombre": "Paquetes de Pollo de Muslos",
+            "presentacion": "kg",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Salchichas de Pollo",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "kg",
+            "precio": 620.0
+        },
+        {
+            "nombre": "Codito",
+            "presentacion": "g",
+            "precio": 300.0
+        },
+        {
+            "nombre": "Espaguetis",
+            "presentacion": "g",
+            "precio": 290.0
+        },
+        {
+            "nombre": "Macarron con Queso",
+            "presentacion": "g",
+            "precio": 390.0
+        },
+        {
+            "nombre": "Pasta Penne Galo Azul",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Pasta lasaña Galo",
+            "presentacion": "g",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Frijol Colorado",
+            "presentacion": "g",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Chicharo",
+            "presentacion": "libra",
+            "precio": 650.0
+        },
+        {
+            "nombre": "Pasta de tomate Burhan",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Pasta Ada de Tomate",
+            "presentacion": "g",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Leche Condensada",
+            "presentacion": "g",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Leche Importada Mu",
+            "presentacion": "kg",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Leche Importada Dobon",
+            "presentacion": "kg",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Yogurt Probiótico Natural Azucarado",
+            "presentacion": "lt",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Yogurt Probiótico de Fresa",
+            "presentacion": "lt",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Yogurt Probiótico de Guanábana",
+            "presentacion": "lt",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Yogurt Probiótico de Piña Colada",
+            "presentacion": "lt",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Yogurt Probiótico de Plátano Fresa",
+            "presentacion": "lt",
+            "precio": 2500.0
+        },
+        {
+            "nombre": "Yogurt de Vasito Natural Azucarado",
+            "presentacion": "g",
+            "precio": 220.0
+        },
+        {
+            "nombre": "Yogurt de vasito Macedonia",
+            "presentacion": "g",
+            "precio": 220.0
+        },
+        {
+            "nombre": "Yogurt de vasito Platano Asturiana",
+            "presentacion": "g",
+            "precio": 220.0
+        },
+        {
+            "nombre": "Yogurt de fresa de vasito",
+            "presentacion": "g",
+            "precio": 220.0
+        },
+        {
+            "nombre": "Crema café con avellana (Coffee Mate)",
+            "presentacion": "g",
+            "precio": 1900.0
+        },
+        {
+            "nombre": "Crema de Café (Coffe mate)",
+            "presentacion": "g",
+            "precio": 1800.0
+        },
+        {
+            "nombre": "Aceite",
+            "presentacion": "litro",
+            "precio": 1100.0
+        },
+        {
+            "nombre": "Jabon de baño Harmony Naranja",
+            "presentacion": "g",
+            "precio": 180.0
+        },
+        {
+            "nombre": "Jabon de baño Harmony Limón",
+            "presentacion": "g",
+            "precio": 180.0
+        },
+        {
+            "nombre": "Jabon de baño Harmony Fresa",
+            "presentacion": "g",
+            "precio": 180.0
+        },
+        {
+            "nombre": "Jabon de baño Harmony Uva",
+            "presentacion": "g",
+            "precio": 180.0
+        },
+        {
+            "nombre": "Jabon de Baño Clásico Creamy Kare",
+            "presentacion": "g",
+            "precio": 120.0
+        },
+        {
+            "nombre": "Jabon de Baño Collogne Azul Kare",
+            "presentacion": "g",
+            "precio": 120.0
+        },
+        {
+            "nombre": "Jabon para Lavar MEA",
+            "presentacion": "g",
+            "precio": 250.0
+        },
+        {
+            "nombre": "Jabon Dovi",
+            "presentacion": "g",
+            "precio": 200.0
+        },
+        {
+            "nombre": "Jabon en Polvo",
+            "presentacion": "g",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Detergente Lavar Liquido",
+            "presentacion": "lt",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente Pinaroma",
+            "presentacion": "litro",
+            "precio": 450.0
+        },
+        {
+            "nombre": "Detergente Friegasuelos",
+            "presentacion": "Litro",
+            "precio": 400.0
+        },
+        {
+            "nombre": "Detergente Multiuso",
+            "presentacion": "litro",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente de Fregar",
+            "presentacion": "litro",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Detergente en Polvo",
+            "presentacion": "kg",
+            "precio": 600.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Cerveza Parranda",
+        "presentacion": "1500 ml",
+        "precio": 650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Parranda",
+        "presentacion": "330 ml",
+        "precio": 220.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomo Refresco Limon",
+        "presentacion": "1500 ml",
+        "precio": 650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Lual de Fresa",
+        "presentacion": "",
+        "precio": 40.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Lual de Guanabana",
+        "presentacion": "",
+        "precio": 40.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Unlaguer",
+        "presentacion": "330 ml",
+        "precio": 220.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de 24 cervezas Unlaguer",
+        "presentacion": "",
+        "precio": 4800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whiskey Ness",
+        "presentacion": "200ml",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky QBanito",
+        "presentacion": "1 litro",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Silver Lake",
+        "presentacion": "750ml",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco de Cola",
+        "presentacion": "330 ml",
+        "precio": 220.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco lata Pepsi",
+        "presentacion": "300ml",
+        "precio": 250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Cubay",
+        "presentacion": "200 ml",
+        "precio": 320.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Tinto Legitimo",
+        "presentacion": "750ml",
+        "precio": 1300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Legitimo",
+        "presentacion": "750 ml",
+        "precio": 1300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Unlaguer",
+        "presentacion": "330ml",
+        "precio": 270.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de limón",
+        "presentacion": "330ml",
+        "precio": 220.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Tinto La Baronne",
+        "presentacion": "750 ml",
+        "precio": 1300.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida energética 5 shot",
+        "presentacion": "",
+        "precio": 260.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Pomo refresco Mate",
+        "presentacion": "1.5L",
+        "precio": 650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de Pera",
+        "presentacion": "330ml",
+        "precio": 350.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua",
+        "presentacion": "1.5 litros",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky Jameson",
+        "presentacion": "700ml",
+        "precio": 7500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whiskey Chivas Regal 12 Years",
+        "presentacion": "",
+        "precio": 12500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club Ritual",
+        "presentacion": "70cl",
+        "precio": 2300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky Ballantine 10 Years",
+        "presentacion": "",
+        "precio": 12500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Anise Ricard",
+        "presentacion": "70cl",
+        "precio": 6500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Legendario Rose",
+        "presentacion": "700ml",
+        "precio": 1500.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky The Glenlivet",
+        "presentacion": "70cl",
+        "precio": 10000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco piñita lata",
+        "presentacion": "330ml",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de guayaba de lata",
+        "presentacion": "330ml",
+        "precio": 280.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de 24 refrescos de cola",
+        "presentacion": "",
+        "precio": 4800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vodka",
+        "presentacion": "300ml",
+        "precio": 625.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Fructus sabor Naranja",
+        "presentacion": "2L",
+        "precio": 40.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Fructus sabor Piña",
+        "presentacion": "2L",
+        "precio": 40.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Fructus sabor a Maracuyá",
+        "presentacion": "2L",
+        "precio": 40.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo lata melocotón",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo lata Pera",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de lata mango - piña",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Iromber",
+        "presentacion": "",
+        "precio": 270.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Kermato",
+        "presentacion": "",
+        "precio": 460.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Black Street",
+        "presentacion": "",
+        "precio": 1350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Slevik",
+        "presentacion": "",
+        "precio": 1350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Pantan",
+        "presentacion": "",
+        "precio": 1350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Old Star Gold",
+        "presentacion": "",
+        "precio": 1350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky GlenLivet rojo",
+        "presentacion": "",
+        "precio": 17000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Jameson negro",
+        "presentacion": "",
+        "precio": 11000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Red Label",
+        "presentacion": "",
+        "precio": 9000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Cristal",
+        "presentacion": "355ml",
+        "precio": 320.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de Manzana",
+        "presentacion": "946 ml",
+        "precio": 700.0,
+        "nacional": true
+    }
+    ]
+},
+    {
+    "nombre": "Mercado Al Campestre",
+    "municipio": "Haban del Este",
+    "ubicacion": {
+        "lat": 23.1552401,
+        "long": -82.2718226
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Aceite",
+            "presentacion": "lt",
+            "precio": 1441.8
+        },
+        {
+            "nombre": "Pollo",
+            "presentacion": "kg",
+            "precio": 1201.5
+        },
+        {
+            "nombre": "Media Pechuga de Pollo",
+            "presentacion": "kg",
+            "precio": 4142.95
+        },
+        {
+            "nombre": "Paquete de Media Pechuga de Pollo",
+            "presentacion": "kg",
+            "precio": 8285.9
+        },
+        {
+            "nombre": "Pasta de Tomate",
+            "presentacion": "g",
+            "precio": 867.75
+        },
+        {
+            "nombre": "Pasta de Tomate",
+            "presentacion": "kg",
+            "precio": 6359.05
+        },
+        {
+            "nombre": "Pasta de Tomate Doble Concentrado",
+            "presentacion": "g",
+            "precio": 1468.5
+        },
+        {
+            "nombre": "Pasta de Tomate Lata",
+            "presentacion": "oz",
+            "precio": 213.6
+        },
+        {
+            "nombre": "Leche en polvo entera",
+            "presentacion": "kg",
+            "precio": 3608.95
+        },
+        {
+            "nombre": "Leche Entera Líquida Vima",
+            "presentacion": "lt",
+            "precio": 1495.2
+        },
+        {
+            "nombre": "Leche Evaporada",
+            "presentacion": "g",
+            "precio": 867.75
+        },
+        {
+            "nombre": "Jabón Palmolive",
+            "presentacion": "g",
+            "precio": 801.0
+        },
+        {
+            "nombre": "Jabón de lavar",
+            "presentacion": "g",
+            "precio": 1388.4
+        },
+        {
+            "nombre": "Detergente en Polvo",
+            "presentacion": "kg",
+            "precio": 1014.6
+        },
+        {
+            "nombre": "Detergente Sólido Multiuso",
+            "presentacion": "",
+            "precio": 1388.4
+        },
+        {
+            "nombre": "Detergente Líquido 4 en 1",
+            "presentacion": "lt",
+            "precio": 1962.45
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Ron Santiago 12 años",
+        "presentacion": "700ml",
+        "precio": 8100.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Selección de Maestros Havana Club",
+        "presentacion": "700 ml",
+        "precio": 14250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Frontera",
+        "presentacion": "750ml",
+        "precio": 2000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago Añejo Tradición",
+        "presentacion": "700 ml",
+        "precio": 3050.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago Extra Seco",
+        "presentacion": "700ml",
+        "precio": 5600.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky Red Label Johnnie Walker",
+        "presentacion": "700 ml",
+        "precio": 8000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Coppa Cocktails",
+        "presentacion": "750ml",
+        "precio": 1700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago 8 Años",
+        "presentacion": "700 ml",
+        "precio": 4170.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Tequila Olmeca Reposado",
+        "presentacion": "700 ml",
+        "precio": 5400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka",
+        "presentacion": "1Litro",
+        "precio": 1800.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ginebra Beefeater",
+        "presentacion": "700 ml",
+        "precio": 3850.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Santiago 11 años",
+        "presentacion": "700ml",
+        "precio": 7240.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago Carta Blanca",
+        "presentacion": "700ml",
+        "precio": 260.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Tequila Olmeca Silver",
+        "presentacion": "700 ml",
+        "precio": 4950.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Absolut",
+        "presentacion": "700ml",
+        "precio": 5260.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo de Cajita",
+        "presentacion": "200 ml",
+        "precio": 200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Ciego Montero",
+        "presentacion": "1.5 LT",
+        "precio": 650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Ritz",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua C. Montero",
+        "presentacion": "500 ml",
+        "precio": 180.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo en Conserva Lata Sunchy",
+        "presentacion": "",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo La Estancia",
+        "presentacion": "200 ml",
+        "precio": 180.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Malta Perla Negra",
+        "presentacion": "",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Malta Sunchy",
+        "presentacion": "",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Oferta de Cajitas de Jugo",
+        "presentacion": "27 x 200 ml",
+        "precio": 3650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Red Bull",
+        "presentacion": "250 ml",
+        "precio": 1000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua Tónica Schweppes",
+        "presentacion": "330 ml",
+        "precio": 400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Beer 69",
+        "presentacion": "",
+        "precio": 230.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Malta Bucanero",
+        "presentacion": "",
+        "precio": 350.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Fresko",
+        "presentacion": "10 gr",
+        "precio": 60.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua C. Montero",
+        "presentacion": "1.5 L",
+        "precio": 275.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Licor Jaguierot",
+        "presentacion": "70 cl",
+        "precio": 3500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Néctar",
+        "presentacion": "1 Lt",
+        "precio": 720.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Campo Viejo Rioja Blanco",
+        "presentacion": "",
+        "precio": 2700.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema de Whisky Elliot Hall",
+        "presentacion": "",
+        "precio": 3250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Capitán Cortez",
+        "presentacion": "1 litro",
+        "precio": 1690.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club Especial",
+        "presentacion": "700 ml",
+        "precio": 2350.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Havana Club 7 Años",
+        "presentacion": "700 m",
+        "precio": 6380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Tequila Olmeca Altos Reposado",
+        "presentacion": "",
+        "precio": 7560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club Añejo 3 Años Edición Limitada",
+        "presentacion": "",
+        "precio": 2290.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Havana Club Cuban Smoky Rum",
+        "presentacion": "",
+        "precio": 6650.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pacto Navio Botella",
+        "presentacion": "",
+        "precio": 16000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Barceló Blanco",
+        "presentacion": "750 mL",
+        "precio": 3000.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Havana Club Ritual",
+        "presentacion": "700 ml",
+        "precio": 2770.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Havana Club 7 Años Dorada (Edición Limitada)",
+        "presentacion": "",
+        "precio": 6380.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vino Blanco Miguel Torres",
+        "presentacion": "",
+        "precio": 5290.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Ron Black Tears Roble Superior",
+        "presentacion": "",
+        "precio": 2100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Entre Ríos",
+        "presentacion": "",
+        "precio": 1600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Gato Negro",
+        "presentacion": "",
+        "precio": 2100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Blanco Sangre de Toro",
+        "presentacion": "750 ml",
+        "precio": 4250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Botella de Vino Rosé Jean Leon",
+        "presentacion": "",
+        "precio": 5850.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Campo Viejo Reserva",
+        "presentacion": "",
+        "precio": 3790.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Gato Negro",
+        "presentacion": "",
+        "precio": 2100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Jameson",
+        "presentacion": "",
+        "precio": 5200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Chivas Regal 18 Años",
+        "presentacion": "",
+        "precio": 20100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Campo Viejo Tempranillo",
+        "presentacion": "",
+        "precio": 2680.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Tinto Entre Ríos",
+        "presentacion": "",
+        "precio": 1560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Ballantine's Finest",
+        "presentacion": "700 ml",
+        "precio": 5100.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Chivas Regal 12 Años",
+        "presentacion": "",
+        "precio": 10160.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Tequila Altos Plata",
+        "presentacion": "",
+        "precio": 6920.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Sabor Cola",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco sabor Limón",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de Refresco sabor Cola",
+        "presentacion": "24 unidades",
+        "precio": 6000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco sabor Naranja",
+        "presentacion": "",
+        "precio": 250.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de refresco sabor Naranja",
+        "presentacion": "24 unidades",
+        "precio": 6000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de refrescos sabor Limón",
+        "presentacion": "24 unidades",
+        "precio": 6000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Coca cola",
+        "presentacion": "237 ml",
+        "precio": 250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Pomo de Refresco sabor Cola",
+        "presentacion": "1.5 litros",
+        "precio": 580.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pack de 6 unidades de Refresco sabor Cola",
+        "presentacion": "1.5 Litros",
+        "precio": 3480.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomo de Refresco sabor Limón",
+        "presentacion": "1.5 litros",
+        "precio": 580.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pack de 6 unidades de Refresco Sabor Limón",
+        "presentacion": "1.5 Litros",
+        "precio": 3480.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomo de Refresco sabor Mate",
+        "presentacion": "1.5 litros",
+        "precio": 580.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pack de 6 unidades de Refresco Sabor Mate",
+        "presentacion": "1.5 Litros",
+        "precio": 3480.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pomito de Refresco sabor Cola",
+        "presentacion": "330 ml",
+        "precio": 175.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pack de 16 unidades Pomito de Refresco sabor Cola",
+        "presentacion": "330 ml",
+        "precio": 2800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pack de 16 unidades Pomito de Refresco sabor Naranja",
+        "presentacion": "330 ml",
+        "precio": 2800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Caja de Refresco sabor Naranja",
+        "presentacion": "24 unidades",
+        "precio": 4200.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Pepsi",
+        "presentacion": "355 ml",
+        "precio": 200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Chanceler",
+        "presentacion": "1 Litro",
+        "precio": 1760.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema Catalana",
+        "presentacion": "700 ml",
+        "precio": 3400.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Sprite",
+        "presentacion": "355ml",
+        "precio": 500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco de Naranja",
+        "presentacion": "1.5 Litros",
+        "precio": 650.0,
+        "nacional": true
+    }
+    ]
+},
+    {
+    "nombre": "Mercado Don Tito",
+    "municipio": "",
+    "ubicacion": {
+        "lat": null,
+        "long": null
+    },
+    "horario": "8:30 AM / 9:30 PM",
+    "productos": [
+        {
+            "nombre": "Salchichas",
+            "presentacion": "kg",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Cartón de huevos",
+            "presentacion": "...",
+            "precio": 3200.0
+        },
+        {
+            "nombre": "Arroz",
+            "presentacion": "kg",
+            "precio": 700.0
+        },
+        {
+            "nombre": "Espaguetis",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Pasta de tomate",
+            "presentacion": "g",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Frijoles negros",
+            "presentacion": "kg",
+            "precio": 900.0
+        },
+        {
+            "nombre": "Frijoles negros",
+            "presentacion": "g",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Frijoles colorados",
+            "presentacion": "g",
+            "precio": 800.0
+        },
+        {
+            "nombre": "Leche amarilla en polvo",
+            "presentacion": "kg",
+            "precio": 3000.0
+        },
+        {
+            "nombre": "Leche condensada",
+            "presentacion": "...",
+            "precio": 550.0
+        },
+        {
+            "nombre": "Coditos",
+            "presentacion": "g",
+            "precio": 350.0
+        },
+        {
+            "nombre": "Café Aroma",
+            "presentacion": "g",
+            "precio": 2300.0
+        },
+        {
+            "nombre": "Aceite de soja",
+            "presentacion": "lt",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Jabón de baño",
+            "presentacion": "...",
+            "precio": 160.0
+        },
+        {
+            "nombre": "Detergente en polvo",
+            "presentacion": "kg",
+            "precio": 650.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Natilla de chocolate",
+        "presentacion": "",
+        "precio": 900.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Natilla de vainilla",
+        "presentacion": "",
+        "precio": 900.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo",
+        "presentacion": "2lt",
+        "precio": 50.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo",
+        "presentacion": "2lt",
+        "precio": 50.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo",
+        "presentacion": "2lt",
+        "precio": 50.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Whisky Fire One",
+        "presentacion": "1lt",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Caneca albin",
+        "presentacion": "",
+        "precio": 600.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Crema licor",
+        "presentacion": "",
+        "precio": 2600.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Energizante",
+        "presentacion": "",
+        "precio": 230.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo de mango",
+        "presentacion": "200ml",
+        "precio": 170.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo de piña",
+        "presentacion": "200ml",
+        "precio": 170.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco cola",
+        "presentacion": "",
+        "precio": 220.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Vodka",
+        "presentacion": "1lt",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Caja de cerveza",
+        "presentacion": "",
+        "precio": 6000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Blister de refresco naranja",
+        "presentacion": "1.5lt 6unidades",
+        "precio": 4800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Blister de refresco Limón",
+        "presentacion": "1.5 litros 6unidades",
+        "precio": 4800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Crema de licor fruta de la pasión",
+        "presentacion": "",
+        "precio": 2500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema de licor yogurt",
+        "presentacion": "",
+        "precio": 2500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema licor sabor caramelo",
+        "presentacion": "",
+        "precio": 2500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Crema licor piña colada",
+        "presentacion": "",
+        "precio": 2500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vino Adega do Conde",
+        "presentacion": "",
+        "precio": 1200.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Sidra",
+        "presentacion": "",
+        "precio": 1500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Absolut vodka raspberri",
+        "presentacion": "",
+        "precio": 6500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Habana club especial",
+        "presentacion": "",
+        "precio": 3000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Havana club 3 años",
+        "presentacion": "",
+        "precio": 3000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Chivas Regal 12 años",
+        "presentacion": "",
+        "precio": 10500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Pacto Navio",
+        "presentacion": "",
+        "precio": 11500.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 8 años",
+        "presentacion": "",
+        "precio": 6000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Ron Santiago de Cuba 11 años",
+        "presentacion": "",
+        "precio": 10000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Blister refresco de mate",
+        "presentacion": "1.5lt",
+        "precio": 4800.0,
+        "nacional": true
+    }
+    ]
+},
+    {
+    "nombre": "Bodegón Oasis",
+    "municipio": "Vedado",
+    "ubicacion": {
+        "lat": 23.063644,
+        "long": -82.39336
+    },
+    "horario": "",
+    "productos": [
+        {
+            "nombre": "PECHUGA DE POLLO",
+            "presentacion": "kg",
+            "precio": 4700.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "lb",
+            "precio": 330.0
+        },
+        {
+            "nombre": "PECHUGA DE POLLO",
+            "presentacion": "kg",
+            "precio": 2980.0
+        },
+        {
+            "nombre": "SALCHICHAS",
+            "presentacion": "kg",
+            "precio": 2850.0
+        },
+        {
+            "nombre": "Salchicha",
+            "presentacion": "",
+            "precio": 370.0
+        }
+    ]
+},
+    {
+    "nombre": "Mercado Tiky Tiky",
+    "municipio": "Cerro",
+    "ubicacion": {
+        "lat": 23.100097,
+        "long": -82.38214
+    },
+    "horario": "Lunes a Viernes de 10am a 4:30pm",
+    "productos": [
+        {
+            "nombre": "Huevo",
+            "presentacion": "",
+            "precio": 3300.0
+        },
+        {
+            "nombre": "Frijol Colorado",
+            "presentacion": "kg",
+            "precio": 950.0
+        },
+        {
+            "nombre": "Paquete de Frijol Negro Importado",
+            "presentacion": "kg",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Arroz Brasileño",
+            "presentacion": "kg",
+            "precio": 600.0
+        },
+        {
+            "nombre": "Pechuga de pollo",
+            "presentacion": "kg",
+            "precio": 2050.0
+        },
+        {
+            "nombre": "Picadillo de pollo",
+            "presentacion": "g",
+            "precio": 340.0
+        },
+        {
+            "nombre": "Pechugas de Pollo en Filetes",
+            "presentacion": "kg",
+            "precio": 4240.0
+        },
+        {
+            "nombre": "Salchicha de pollo",
+            "presentacion": "g",
+            "precio": 345.0
+        },
+        {
+            "nombre": "Bolsa de Leche en Polvo",
+            "presentacion": "kg",
+            "precio": 1675.0
+        },
+        {
+            "nombre": "Lata de leche condensada BIBO",
+            "presentacion": "g",
+            "precio": 585.0
+        },
+        {
+            "nombre": "Pasta de tomate Burcu",
+            "presentacion": "g",
+            "precio": 1035.0
+        },
+        {
+            "nombre": "Pasta de Tomate",
+            "presentacion": "g",
+            "precio": 500.0
+        },
+        {
+            "nombre": "Pasta de Tomate",
+            "presentacion": "g",
+            "precio": 140.0
+        },
+        {
+            "nombre": "Espaguetti",
+            "presentacion": "g",
+            "precio": 370.0
+        },
+        {
+            "nombre": "Coditos",
+            "presentacion": "g",
+            "precio": 380.0
+        },
+        {
+            "nombre": "Aceite Saude",
+            "presentacion": "ml",
+            "precio": 850.0
+        },
+        {
+            "nombre": "Jabon Marwa Sandia",
+            "presentacion": "g",
+            "precio": 145.0
+        },
+        {
+            "nombre": "Jabón Marwa Melocoton",
+            "presentacion": "g",
+            "precio": 145.0
+        },
+        {
+            "nombre": "Jabón Marwa Limón",
+            "presentacion": "g",
+            "precio": 145.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Jugo Kid Mixto",
+        "presentacion": "175ml",
+        "precio": 165.0,
+        "nacional": true
+    },
+    {
+        "nombre": "El Loco",
+        "presentacion": "275ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Saccul",
+        "presentacion": "330ml",
+        "precio": 275.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Jugo Kid Melocoton",
+        "presentacion": "175ml",
+        "precio": 165.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Kid Piña",
+        "presentacion": "175ml",
+        "precio": 165.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Ciego Montero Mate",
+        "presentacion": "1.5lt",
+        "precio": 800.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Bebida energizante",
+        "presentacion": "250ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida energizante",
+        "presentacion": "250ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Beer 69",
+        "presentacion": "330ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo TRIX",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo Trix",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo Trix",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo Trix",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo Trix",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Instantáneo Trix",
+        "presentacion": "",
+        "precio": 50.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Bebida energizante",
+        "presentacion": "250ml",
+        "precio": 280.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Clausthaler Sin Alcohol",
+        "presentacion": "330ml",
+        "precio": 350.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Agua",
+        "presentacion": "500ml",
+        "precio": 180.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Malta Vitalis",
+        "presentacion": "330ml",
+        "precio": 230.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Sahara Gold",
+        "presentacion": "330ml",
+        "precio": 280.0,
+        "nacional": false
+    }
+    ]
+},
+    {
+    "nombre": "Perez & Quesada",
+    "municipio": "Habana del Este",
+    "ubicacion": {
+        "lat": null,
+        "long": null
+    },
+    "horario": "",
+    "productos": [
+        {
+            "nombre": "leche en Polvo La Lela",
+            "presentacion": "kg",
+            "precio": 18000.0
+        },
+        {
+            "nombre": "leche Evaporada",
+            "presentacion": "",
+            "precio": 520.0
+        },
+        {
+            "nombre": "leche condensada Nezka",
+            "presentacion": "g",
+            "precio": 420.0
+        },
+        {
+            "nombre": "Spagettis",
+            "presentacion": "g",
+            "precio": 240.0
+        },
+        {
+            "nombre": "Frijoles Negros",
+            "presentacion": "kg",
+            "precio": 730.0
+        },
+        {
+            "nombre": "Picadillo Pollo MDM",
+            "presentacion": "kg",
+            "precio": 13580.0
+        },
+        {
+            "nombre": "Aceite Hysa",
+            "presentacion": "l",
+            "precio": 1000.0
+        },
+        {
+            "nombre": "Detergente Líquido",
+            "presentacion": "l",
+            "precio": 1050.0
+        },
+        {
+            "nombre": "Detergente Polvo SEF",
+            "presentacion": "kg",
+            "precio": 4800.0
+        },
+        {
+            "nombre": "Detergente Polvo SEF",
+            "presentacion": "g",
+            "precio": 270.0
+        },
+        {
+            "nombre": "Detergente Polvo SEF",
+            "presentacion": "Kg",
+            "precio": 780.0
+        },
+        {
+            "nombre": "Detergente Polvo SEF",
+            "presentacion": "kg",
+            "precio": 2500.0
+        }
+    ],
+    "bebida": [
+        {
+        "nombre": "Whiskey Milner Black Label",
+        "presentacion": "",
+        "precio": 630.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whiskey Milner Green Label",
+        "presentacion": "",
+        "precio": 630.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Vodka Milner",
+        "presentacion": "",
+        "precio": 630.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whiskey Milner Golden Label",
+        "presentacion": "",
+        "precio": 630.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Botellas Vodka Milner",
+        "presentacion": "750mL",
+        "precio": 1550.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Blue Spirit",
+        "presentacion": "1L",
+        "precio": 1270.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky Black Spirit",
+        "presentacion": "1L",
+        "precio": 1250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Cerveza Cristal",
+        "presentacion": "",
+        "precio": 275.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Tequila Cazafiestas",
+        "presentacion": "",
+        "precio": 570.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Petacas Mixtas",
+        "presentacion": "",
+        "precio": 14000.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Chivas Regal",
+        "presentacion": "",
+        "precio": 7250.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whiskey Johnnie Walker",
+        "presentacion": "",
+        "precio": 6500.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Botella Tequililla Cazafiestas",
+        "presentacion": "",
+        "precio": 1520.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Whisky John Mail",
+        "presentacion": "",
+        "precio": 1150.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Milner Chic de Piña Colada",
+        "presentacion": "",
+        "precio": 560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Milner Chic Whisky Cola",
+        "presentacion": "",
+        "precio": 560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Milner Chic Screwdriver",
+        "presentacion": "",
+        "precio": 560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Milner Chic de Negroni",
+        "presentacion": "",
+        "precio": 560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Milner Chic Mixtas",
+        "presentacion": "",
+        "precio": 560.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Petaca Gran Caribe",
+        "presentacion": "375 ml",
+        "precio": 300.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cerveza Pilsen 5° de alcohol",
+        "presentacion": "",
+        "precio": 230.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Energizante Turbo",
+        "presentacion": "",
+        "precio": 190.0,
+        "nacional": false
+    },
+    {
+        "nombre": "Refresco Brizo de Cola",
+        "presentacion": "",
+        "precio": 215.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo luminy",
+        "presentacion": "",
+        "precio": 24.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo well de Manzana",
+        "presentacion": "",
+        "precio": 170.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo Well de Piña",
+        "presentacion": "",
+        "precio": 170.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Cajón Mixto de Refresco Luminy",
+        "presentacion": "",
+        "precio": 15552.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Jugo La Estancia de Pera",
+        "presentacion": "",
+        "precio": 155.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco Instantáneo Luminy de Uva",
+        "presentacion": "",
+        "precio": 30.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Agua",
+        "presentacion": "500ml",
+        "precio": 90.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de Lata DelSol sabor Piña",
+        "presentacion": "",
+        "precio": 203.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de Lata DelSol sabor Naranja",
+        "presentacion": "",
+        "precio": 205.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco de Lata DelSol sabor Cola",
+        "presentacion": "",
+        "precio": 195.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Malta Shekels",
+        "presentacion": "",
+        "precio": 230.0,
+        "nacional": true
+    },
+    {
+        "nombre": "Refresco instantáneo Luminy",
+        "presentacion": "",
+        "precio": 24.0,
+        "nacional": true
+    }
+    ]
+}
+]

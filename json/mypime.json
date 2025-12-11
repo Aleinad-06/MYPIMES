@@ -1,0 +1,1636 @@
+[
+  {
+    "nombre": "Bodegón de Calzada",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.137886472972525,
+      "long": -82.39905099268489
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Camil",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 680
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Mi Mercadito, Llegando",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.142513466690126,
+      "long": -82.39636878359543
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "San Diego",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 580
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "El Rey, SRL",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.143549338937667,
+      "long": -82.39613274924378
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco Top",
+        "marca": "",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 850
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco Largo",
+        "marca": "",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1320
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Canelita",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.144289242769883,
+      "long": -82.39233474133954
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco Super Extra",
+        "marca": "",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 950
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Dulce María",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.14548294568802,
+      "long": -82.38870839480781
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Long Grane White Rice",
+        "marca": "Energy",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 700
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Tic Toc",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.144960085398168,
+      "long": -82.38794664726426
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Sublime",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 650
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": null,
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1675
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 900
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "Castellum",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 550
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Pollo",
+        "marca": "Polskamp",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 600
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": null,
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 650
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "El Dorado",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1950
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "Sello Rojo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2500
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Isla Grande",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 1600
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Isla Grande",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 3000
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Colorados",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Negros",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Sarita",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 890
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Badelli",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 990
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Crystal",
+        "marca": "Energy",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "condimentos",
+        "nombre": "Sal Marina",
+        "marca": "Polasal",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 500
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Spaghetti",
+        "marca": "Donatella",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 350
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Zer",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 580
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Bodegón B12",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Qbanito",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 700
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Isla Grande",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 1500
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Ales Supermarket",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "bebida",
+        "nombre": "Café Soluble",
+        "marca": "Hiper Dino",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2350
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Tostado",
+        "marca": "Caffe Testa",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1800
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Sublime",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Largo Fino",
+        "marca": "TropiGusto",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "San Diego",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Crystal",
+        "marca": "Santaisabel",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Crystal",
+        "marca": "Energy",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Fijoles Negros",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 800
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Colorados",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 800
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Soluble",
+        "marca": "Internacional",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2100
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1300
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Covap",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1300
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "La Guajirita",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 560
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Victoria Garden",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 500
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Marwa",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 500
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Spaghetti",
+        "marca": "Ada",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 500
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Spaghetti",
+        "marca": "Doga",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 370
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": "Aurora",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2400
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Fress",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Extra",
+        "marca": "Convirán",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1600
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Integral",
+        "marca": "Convirán",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1575
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Largo",
+        "marca": "SOS",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1207
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Sebraz",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1575
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Purasangre",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1973
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Marcilla",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 4322
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Familia Peréz",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Onis",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 670
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Fijoles Negros",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 800
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Fijoles Negros",
+        "marca": "Sublime",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1000
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Espaguetti",
+        "marca": "Dolcezza",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 700
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Cartón de Huevos",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 3000
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Bodegón, Las Duras",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "carnes",
+        "nombre": "Cartón de Huevos",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 3300
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Huevos Individual",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 110
+      },
+      {
+        "tipo": "embutidos",
+        "nombre": "Perritos",
+        "marca": "Quality",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1043
+      },
+      {
+        "tipo": "embutidos",
+        "nombre": "Salchichas de Pollo",
+        "marca": "Quality",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1200
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": "Friato",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1825
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pollo Entero",
+        "marca": "Seara",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1692
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Pollo",
+        "marca": "Quality",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1200
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Pollo",
+        "marca": "Polskamp",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1300
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Pollo",
+        "marca": null,
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 889
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 990
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Guillen",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 3500
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1100
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Vima",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 600
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Picadillo de Pollo",
+        "marca": null,
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 889
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "La LLave",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 9859
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Bodegón Oasis",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.142885569598498,
+      "long": -82.38939285278322
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche en Polvo",
+        "marca": "Itambé",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2500
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Descremada",
+        "marca": "Rica",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 925
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Evaporada",
+        "marca": "Rica",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1986
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Listamilk",
+        "marca": "Rica",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1170
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Café con Leche",
+        "marca": "Puleva",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 3200
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "Zivel",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1590
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Bebidas",
+        "marca": "Buenos Días",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1450
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Guillen",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 4600
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Spaghetti",
+        "marca": "Donatella",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 820
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "KDM Gold",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 833
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Crystal",
+        "marca": "Uniao",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 730
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Kaluch Market",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.136033832104463,
+      "long": -82.40746021270753
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "carnes",
+        "nombre": "Docena de Huevos",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 150
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Huevos Individual",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 110
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": "Sadia",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 3300
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Res",
+        "marca": "Sadia",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 3500
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Vima",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1625
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Blanca",
+        "marca": "Vima",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 909
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Espaguetti",
+        "marca": "Galo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 820
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café La Llave",
+        "marca": "La LLave",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 9507
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido Mezcla",
+        "marca": "Coaliment",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 8400
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido Mezcla",
+        "marca": "Gourmet",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 8400
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Tostado",
+        "marca": "Sebraz",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 7600
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 8800
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 11200
+      },
+      {
+        "tipo": "condimentos",
+        "nombre": "Sal Marina",
+        "marca": "Convirán",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1000
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Mercado El Ten Cent",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.131283285903606,
+      "long": -82.39859303601817
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "KDM Gold",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 867
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Isla Grande",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 7200
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido",
+        "marca": "Yeya",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 8657
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido Expresso",
+        "marca": "Caribe",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 7746
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café La Llave",
+        "marca": "La LLave",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 18451
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Nescafé",
+        "marca": "Dolca",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 35000
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Bodegón D'K",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "carnes",
+        "nombre": "Cartón de Huevos",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 3300
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Huevos Individual",
+        "marca": null,
+        "presentacion": "u",
+        "nacional": false,
+        "precio_cup": 110
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": "Friato",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 2650
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pechuga de Pollo",
+        "marca": "Sadia",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 3700
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Pollo Entero",
+        "marca": "Seara",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1692
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Res",
+        "marca": "Delicias Estrella",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 3744
+      },
+      {
+        "tipo": "carnes",
+        "nombre": "Picadillo de Pollo",
+        "marca": "Gui Bon",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1225
+      },
+      {
+        "tipo": "condimentos",
+        "nombre": "Sal Fina",
+        "marca": "Polasal",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 460
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Crystal",
+        "marca": "Energy",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Azúcar Blanca",
+        "marca": "Ingenio Carmelita",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 640
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Marwa",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1425
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Vima",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1850
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate Mansana Roja",
+        "marca": "Columba",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1141
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco",
+        "marca": "Patéko",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 780
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Negros",
+        "marca": "Cister",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1700
+      },
+      {
+        "tipo": "pastas",
+        "nombre": "Spaghetti",
+        "marca": "Doga",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 660
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1200
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Cremor",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1200
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "Cremor",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1443
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "La Granjera",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1590
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "Zivel",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1590
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "Sweet Valley",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1487
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche en Polvo",
+        "marca": "Lantana",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1675
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Vima",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 990
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Laura",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 4250
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "Buenos Días",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 5800
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "Isla Grande",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 6400
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "Don Anecio",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 7400
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "Minino",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 5106
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Paraná",
+        "marca": "Paraná",
+        "presentacion": "kg",
+        "nacional": true,
+        "precio_cup": 6800
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Negro",
+        "marca": "Testa",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 7400
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Expresso",
+        "marca": "El Morro",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 9000
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café La Llave",
+        "marca": "La LLave",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 10035
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Yeya",
+        "marca": "Yeya",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 8657
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Andrea | Café & Mercado",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.127150881141585,
+      "long": -82.39991247653963
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "San Diego",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Villa Amada",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": 23.13714167830714,
+      "long": -82.3845369052301
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "granos",
+        "nombre": "Fijoles Negros",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1489
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Super Extra",
+        "marca": "San Diego",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 660
+      },
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1538
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Molido Español",
+        "marca": "Bryderk",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 7480
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Soluble",
+        "marca": "Presto",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 23600
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Saude",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1278
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "La Nenita",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Condensada",
+        "marca": "La Guajirita",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1500
+      },
+      {
+        "tipo": "procesados",
+        "nombre": "Pasta de Tomate",
+        "marca": "Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1250
+      },
+      {
+        "tipo": "embutidos",
+        "nombre": "Salchichas de Pollo/Cerdo",
+        "marca": "La Favorita",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1125
+      },
+      {
+        "tipo": "aceites",
+        "marca": "Saude",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1100
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Colorados",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1667
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Frijoles Negros",
+        "marca": "Del Campo",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 1667
+      },
+      {
+        "tipo": "granos",
+        "nombre": "Arroz Blanco Super Extra",
+        "marca": "San Diego",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 750
+      },
+      {
+        "tipo": "bebida",
+        "nombre": "Café Tostado",
+        "marca": "Caffe Testa",
+        "presentacion": "kg",
+        "nacional": false,
+        "precio_cup": 6400
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  },
+  {
+    "nombre": "Pazillo Fresh",
+    "municipio": "Plaza de la Revolución",
+    "ubicacion": {
+      "lat": null,
+      "long": null
+    },
+    "horario": "",
+    "productos": [
+      {
+        "tipo": "lacteos",
+        "nombre": "Leche Entera",
+        "marca": "Asturiana",
+        "presentacion": "lt",
+        "nacional": false,
+        "precio_cup": 1400
+      }
+    ],
+    "metodo_pago": {
+      "USD": false,
+      "CUP": true,
+      "MLC": false,
+      "Transaferencia": null
+    },
+    "tasa_cambio": {
+      "USD": null,
+      "MLC": null,
+      "EUR": null
+    },
+    "redes_sociales": false
+  }
+]

@@ -64,7 +64,7 @@ def presentacion(producto):
     
     for gramaje in producto:
         
-        if gramaje["nombre"] == "frijol negro":
+        if gramaje["nombre"] == "frijol":
             
             if gramaje.get("presentacion") == "lb":
                 prodct_lb.append(gramaje.get("precio_cup"))
@@ -83,7 +83,7 @@ def calcular_inflacion_real(productos_mypimes, productos_canasta):
     
     for mypimes in productos_mypimes:
         
-        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "frijol negro" and mypimes["presentacion"] == "kg":
+        if mypimes["tipo"] == "granos" and mypimes["nombre"] == "frijol" and mypimes["presentacion"] == "kg":
             precio_frijol_mypimes = mypimes["precio_cup"]
             
         if mypimes["tipo"] == "granos" and mypimes["nombre"] == "arroz" and mypimes["presentacion"] == "kg":
@@ -95,7 +95,7 @@ def calcular_inflacion_real(productos_mypimes, productos_canasta):
            
     for canasta in productos_canasta:
         
-        if canasta["nombre"] == "frijol negro nacional":
+        if canasta["nombre"] == "frijol nacional":
             precio_frijol_oficial = canasta["precio_cup"]
              
         if canasta["nombre"] == "arroz nacional":
@@ -108,7 +108,7 @@ def calcular_inflacion_real(productos_mypimes, productos_canasta):
     
     productos_comunes = [
         
-        ("Frijol negro", precio_frijol_oficial, precio_frijol_mypimes),
+        ("Frijolo", precio_frijol_oficial, precio_frijol_mypimes),
         ("Arroz", precio_arroz_oficial, precio_arroz_mypimes),
         ("Aceite", precio_aceite_oficial, precio_aceite_mypimes)
     ]

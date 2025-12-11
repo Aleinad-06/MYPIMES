@@ -1,5 +1,14 @@
 [
     {
+        "nombre": "Don Rilio",
+        "municipio": "Plaza",
+        "ubicacion":{
+            "lat": 23.1389366,
+            "long":-82.3850155
+        },
+        "horario": "8:30 AM / 9:30 PM",
+        "productos":[
+            {
         "nombre": "Higado de pollo",
         "presentacion": "Higado de pollo Seara 1kg",
         "precio": 850.0
@@ -74,4 +83,7 @@
         "presentacion": "...",
         "precio": 850.0
     }
+        ]
+    }    
+    
 ]
