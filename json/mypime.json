@@ -73,7 +73,7 @@
       {
         "tipo": "granos",
         "nombre": "Arroz Blanco Top",
-        "marca": "",
+        "marca": null,
         "presentacion": "kg",
         "nacional": false,
         "precio_cup": 850
@@ -81,7 +81,7 @@
       {
         "tipo": "granos",
         "nombre": "Arroz Blanco Largo",
-        "marca": "",
+        "marca": null,
         "presentacion": "kg",
         "nacional": false,
         "precio_cup": 1320
@@ -112,7 +112,7 @@
       {
         "tipo": "granos",
         "nombre": "Arroz Blanco Super Extra",
-        "marca": "",
+        "marca": null,
         "presentacion": "kg",
         "nacional": false,
         "precio_cup": 950
