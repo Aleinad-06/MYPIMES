@@ -6,7 +6,6 @@
       "lat": 23.137886472972525,
       "long": -82.39905099268489
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -37,7 +36,6 @@
       "lat": 23.142513466690126,
       "long": -82.39636878359543
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -68,7 +66,6 @@
       "lat": 23.143549338937667,
       "long": -82.39613274924378
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -107,7 +104,6 @@
       "lat": 23.144289242769883,
       "long": -82.39233474133954
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -138,11 +134,10 @@
       "lat": 23.14548294568802,
       "long": -82.38870839480781
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
-        "nombre": "Long Grane White Rice",
+        "nombre": "Arroz Blanco Largo",
         "marca": "Energy",
         "presentacion": "kg",
         "nacional": false,
@@ -169,7 +164,6 @@
       "lat": 23.144960085398168,
       "long": -82.38794664726426
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -269,6 +263,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Sarita",
         "presentacion": "lt",
         "nacional": false,
@@ -276,6 +271,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girazol",
         "marca": "Badelli",
         "presentacion": "lt",
         "nacional": false,
@@ -334,7 +330,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -373,7 +368,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "bebida",
@@ -540,7 +534,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -611,7 +604,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -674,7 +666,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "carnes",
@@ -815,7 +806,6 @@
       "lat": 23.142885569598498,
       "long": -82.38939285278322
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "lacteos",
@@ -925,7 +915,6 @@
       "lat": 23.136033832104463,
       "long": -82.40746021270753
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "carnes",
@@ -1058,7 +1047,6 @@
       "lat": 23.131283285903606,
       "long": -82.39859303601817
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -1129,7 +1117,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "carnes",
@@ -1422,7 +1409,6 @@
       "lat": 23.127150881141585,
       "long": -82.39991247653963
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -1453,7 +1439,6 @@
       "lat": 23.13714167830714,
       "long": -82.3845369052301
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "granos",
@@ -1523,7 +1508,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "lacteos",
@@ -1609,7 +1593,6 @@
       "lat": null,
       "long": null
     },
-    "horario": "",
     "productos": [
       {
         "tipo": "lacteos",

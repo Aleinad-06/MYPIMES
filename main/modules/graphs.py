@@ -37,9 +37,9 @@ def productos_yerro(yerro):
 
 #---------------------------------
 
-def union(mypime, yerro):
+def union(productos_mypimes, productos_yerro):
     
-    union_productos = mypime + yerro
+    union_productos = productos_mypimes + productos_yerro
     
     return union_productos
 
@@ -128,30 +128,7 @@ def pmm(tipos, promedios, maximos, minimos):
     ax.set_xticklabels(tipos)
     ax.legend()
     plt.show()
-    
-#---------------------------------
-    
-# def presentacion(producto):
-    
-#     prodct_lb = []
-#     prodct_kg = []
-#     prodct_g = []
-    
-#     for gramaje in producto:
-#         if gramaje is not None:
-#             if gramaje["nombre"] == "frijol":
-                
-#                 if gramaje.get("presentacion") == "lb":
-#                     prodct_lb.append(gramaje.get("precio_cup"))
-                
-#                 elif gramaje.get("presentacion") == "kg":
-#                     prodct_kg.append(gramaje.get("precio_cup"))
-                
-#                 elif gramaje.get("presentacion") == "g":
-#                     prodct_g.append(gramaje.get("precio_cup"))
-                    
-#     return prodct_lb, prodct_kg, prodct_g
-    
+       
 #---------------------------------
 
 def analizar_nacional_vs_importado(productos):
