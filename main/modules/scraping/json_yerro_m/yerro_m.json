@@ -34,7 +34,7 @@
         "precio_cup": 700.0
       },
       {
-        "nombre": "Espaguetis",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 350.0
       },
@@ -154,7 +154,7 @@
         "precio_cup": 450.0
       },
       {
-        "nombre": "Espaguetis",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 415.0
       },
@@ -2399,7 +2399,7 @@
         "precio_cup": 600.0
       },
       {
-        "nombre": "Espaguetis 500g",
+        "nombre": "sp 500g",
         "presentacion": null,
         "precio_cup": 280.0
       },
@@ -2818,7 +2818,7 @@
         "precio_cup": 415.0
       },
       {
-        "nombre": "Espagueti",
+        "nombre": "Spagheti",
         "presentacion": "g",
         "precio_cup": 400.0
       },
@@ -3138,7 +3138,7 @@
         "precio_cup": 900.0
       },
       {
-        "nombre": "Espagueti",
+        "nombre": "Spagheti",
         "presentacion": "g",
         "precio_cup": 415.0
       },
@@ -3964,12 +3964,12 @@
         "precio_cup": 750.0
       },
       {
-        "nombre": "Espaguetis Fortificados Zonia",
+        "nombre": "sp Fortificados Zonia",
         "presentacion": "g",
         "precio_cup": 350.0
       },
       {
-        "nombre": "Espaguetis Pasta Premium DOÑA NORA",
+        "nombre": "sp Pasta Premium DOÑA NORA",
         "presentacion": "",
         "precio_cup": 350.0
       },
@@ -4690,7 +4690,7 @@
     "horario": "",
     "productos": [
       {
-        "nombre": "ESPAGUETIS",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 440.55
       },
@@ -5026,7 +5026,7 @@
         "precio_cup": 200.0
       },
       {
-        "nombre": "Espagueti",
+        "nombre": "Spagheti",
         "presentacion": "g",
         "precio_cup": 310.0
       },
@@ -5217,7 +5217,7 @@
         "precio_cup": 300.0
       },
       {
-        "nombre": "Espaguetis",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 320.0
       },
@@ -5334,7 +5334,7 @@
         "precio_cup": 300.0
       },
       {
-        "nombre": "Espaguetis",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 290.0
       },
@@ -6431,7 +6431,7 @@
         "precio_cup": 700.0
       },
       {
-        "nombre": "Espaguetis",
+        "nombre": "sp",
         "presentacion": "g",
         "precio_cup": 350.0
       },

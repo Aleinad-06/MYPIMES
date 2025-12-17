@@ -195,85 +195,12 @@ def analizar_nacional_vs_importado(productos):
     return promedio_nacional, promedio_importado
 #---------------------------------
 
+def cbasica(canasta_basica):
+    cb_productos = []
+    cb_nombre_productos = []
+    for i in canasta_basica["productos"]:
+        cb_nombre_productos.append(i["nombre"])
+        cb_productos.append(i["precio_cup"])
+    return cb_nombre_productos, cb_productos
 
-# def calcular_inflacion_real(productos_mypimes, productos_canasta):
-    
-#     for mypimes in productos_mypimes:
-        
-#         if mypimes["tipo"] == "granos" and mypimes["nombre"] == "frijol" and mypimes["presentacion"] == "kg":
-#             precio_frijol_mypimes = mypimes["precio_cup"]
-            
-#         if mypimes["tipo"] == "granos" and mypimes["nombre"] == "arroz" and mypimes["presentacion"] == "kg":
-#             precio_arroz_mypimes = mypimes["precio_cup"]
-            
-#         if mypimes["tipo"] == "aceites":
-#             precio_aceite_mypimes = mypimes["precio_cup"]
-            
-           
-#     for canasta in productos_canasta:
-        
-#         if canasta["nombre"] == "frijol nacional":
-#             precio_frijol_oficial = canasta["precio_cup"]
-             
-#         if canasta["nombre"] == "arroz nacional":
-#             precio_arroz_oficial = canasta["precio_cup"]
-        
-#         if canasta["nombre"] == "aceite vegetal soya":
-#             precio_aceite_oficial = canasta["precio_cup"]
-        
-    
-    
-#     productos_comunes = [
-        
-#         ("Frijolo", precio_frijol_oficial, precio_frijol_mypimes),
-#         ("Arroz", precio_arroz_oficial, precio_arroz_mypimes),
-#         ("Aceite", precio_aceite_oficial, precio_aceite_mypimes)
-#     ]
-    
-#     fig, ax = plt.subplots(figsize=(12, 6))
-
-#     nombres = []
-#     oficial = []
-#     real = []
-
-#     for nombre, precio_oficial, precio_real in productos_comunes:
-#         nombres.append(nombre)
-#         oficial.append(precio_oficial)
-#         real.append(precio_real)
-
-#     posiciones = list(range(len(nombres)))
-#     ancho = 0.35
-#     multiplicador = 0
-
-#     precios_datos = {
-#         'Precio Oficial (CUP)': oficial,
-#         'Precio Real Mercado (CUP)': real
-#     }
-
-#     colores = ["#047204", "#570900"]
-#     indice_color = 0
-
-#     for etiqueta, valores in precios_datos.items():
-#         desplazamiento = ancho * multiplicador
-#         posiciones_barras = []
-#         for i in posiciones:
-#             posiciones_barras.append(i + desplazamiento)
-        
-#         ax.bar(posiciones_barras, valores, ancho, label=etiqueta, color=colores[indice_color])
-#         multiplicador += 1
-#         indice_color += 1
-
-#     posiciones_etiquetas = []
-#     for i in posiciones:
-#         posiciones_etiquetas.append(i + ancho / 2)
-        
-#     ax.set_ylabel('Precio (CUP)')
-#     ax.set_title('Brecha de Precios: Oficial vs Mercado Real')
-#     ax.set_xticks(posiciones_etiquetas)
-#     ax.set_xticklabels(nombres)
-#     ax.legend()
-#     ax.grid(axis='y', alpha=0.3)
-
-#     plt.tight_layout()
-#     plt.show()
-    
+#---------------------------------

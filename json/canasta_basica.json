@@ -1,28 +1,19 @@
 {
     "productos": [
-        {"nombre" :"arroz nacional", "precio_cup": 500},
-        {"nombre" :"arroz importado(15%particulas)", "precio_cup": 7.0},
-        {"nombre" :"arroz importado(4%particulas)", "precio_cup": 3.2},
-        {"nombre" :"frijol negro nacional", "precio_cup": 1.8},
-        {"nombre" :"frijol imoportado", "precio_cup": 1.4},
-        {"nombre" :"frijol colorado nacional", "precio_cup": 5.2},
-        {"nombre" :"aceite vegetal","precio_cup": 1.8},
-        {"nombre" :"aceite vegetal soya", "precio_cup": 2.3},
-        {"nombre" :"azucar refino","precio_cup": 5.8},
-        {"nombre" :"azucar crudo","precio_cup": 2.3},
-        {"nombre" :"cafe mezclado","precio_cup": 4.1},
-        {"nombre" :"sal comun","precio_cup": 1.2},
-        {"nombre" :"fideos","precio_cup": 7.8},
-        {"nombre" :"leche","precio_cup": 0.25},
-        {"nombre" :"leche polvo","precio_cup": 2.5},
-        {"nombre" :"pan","precio_cup": 1.2},
-        {"nombre" :"keroseno","precio_cup": 2.0},
-        {"nombre" :"alcohol","precio_cup":5.2}
-    ],
-    "productos_de_limpieza": [
-        {"nombre":"jabón","precio_cup": 0.5},
-        {"nombre":"jabón_de_baño","precio_cup":2.7},
-        {"nombre":"detergente","precio_cup": 1.0},
-        {"nombre":"pasta_de_dientes","precio_cup": 1.2}
+        {"nombre": "Aceite", "precio_cup": 500.0},
+        {"nombre": "Arroz", "precio_cup": 1.0},
+        {"nombre": "Azúcar Blanca", "precio_cup": 1.0},
+        {"nombre": "Café", "precio_cup": 0.25},
+        {"nombre": "Spaguettis", "precio_cup": 0.5},
+        {"nombre": "Frijoles", "precio_cup": 0.45},
+        {"nombre": "Huevos", "precio_cup": 30.0},
+        {"nombre": "Leche", "precio_cup": 1.0},
+        {"nombre": "Leche Condensada", "precio_cup": 0.39},
+        {"nombre": "Pasta de Tomate", "precio_cup": 0.4},
+        {"nombre": "Pechuga de pollo", "precio_cup": 2.0},
+        {"nombre": "Picadillo", "precio_cup": 0.5},
+        {"nombre": "Pollo", "precio_cup": 1.3},
+        {"nombre": "Sal", "precio_cup": 1.0},
+        {"nombre": "Salchichas", "precio_cup": 0.35}
     ]
 }
