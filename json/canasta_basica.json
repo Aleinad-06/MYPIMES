@@ -1,19 +1,17 @@
 {
     "productos": [
-        {"nombre": "Aceite", "precio_cup": 500.0},
-        {"nombre": "Arroz", "precio_cup": 1.0},
-        {"nombre": "Azúcar Blanca", "precio_cup": 1.0},
-        {"nombre": "Café", "precio_cup": 0.25},
-        {"nombre": "Spaguettis", "precio_cup": 0.5},
-        {"nombre": "Frijoles", "precio_cup": 0.45},
+        {"nombre": "Aceite", "precio_cup": 990},
+        {"nombre": "Arroz", "precio_cup": 155},
+        {"nombre": "Azúcar Blanca", "precio_cup": 550},
+        {"nombre": "Café", "precio_cup": 1300},
+        {"nombre": "Spaguettis", "precio_cup": 120},
+        {"nombre": "Frijoles", "precio_cup": 285},
         {"nombre": "Huevos", "precio_cup": 30.0},
-        {"nombre": "Leche", "precio_cup": 1.0},
-        {"nombre": "Leche Condensada", "precio_cup": 0.39},
-        {"nombre": "Pasta de Tomate", "precio_cup": 0.4},
-        {"nombre": "Pechuga de pollo", "precio_cup": 2.0},
-        {"nombre": "Picadillo", "precio_cup": 0.5},
-        {"nombre": "Pollo", "precio_cup": 1.3},
-        {"nombre": "Sal", "precio_cup": 1.0},
-        {"nombre": "Salchichas", "precio_cup": 0.35}
+        {"nombre": "Leche", "precio_cup": 1675},
+        {"nombre": "Pasta de Tomate", "precio_cup": 75},
+        {"nombre": "Picadillo", "precio_cup": 320},
+        {"nombre": "Pollo", "precio_cup": 680},
+        {"nombre": "Sal", "precio_cup": 28},
+        {"nombre": "Salchichas", "precio_cup": 400}
     ]
 }

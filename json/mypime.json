@@ -741,6 +741,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Vima",
         "presentacion": "lt",
         "nacional": false,
@@ -748,6 +749,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Guillen",
         "presentacion": "lt",
         "nacional": false,
@@ -865,6 +867,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite soja",
         "marca": "Guillen",
         "presentacion": "lt",
         "nacional": false,
@@ -1006,6 +1009,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Vima",
         "presentacion": "lt",
         "nacional": false,
@@ -1013,6 +1017,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Vima",
         "presentacion": "lt",
         "nacional": false,
@@ -1304,6 +1309,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite girasol",
         "marca": "Vima",
         "presentacion": "lt",
         "nacional": false,
@@ -1311,6 +1317,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite soja",
         "marca": "Laura",
         "presentacion": "lt",
         "nacional": false,
@@ -1482,6 +1489,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite soja",
         "marca": "Saude",
         "presentacion": "lt",
         "nacional": false,
@@ -1535,6 +1543,7 @@
       },
       {
         "tipo": "aceites",
+        "nombre": "aceite soja",
         "marca": "Saude",
         "presentacion": "lt",
         "nacional": false,

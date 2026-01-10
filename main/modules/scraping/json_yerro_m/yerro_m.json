@@ -259,27 +259,22 @@
         "precio_cup": 5000.0
       },
       {
-        "nombre": "Jabón de lavar Total Care",
+        "nombre": "jabon de lavar Total Care",
         "presentacion": "g",
         "precio_cup": 365.0
       },
       {
-        "nombre": "Jabón de baño Kare",
+        "nombre": "jabon de baño Kare",
         "presentacion": null,
         "precio_cup": 210.0
       },
       {
-        "nombre": "Jabón Palmolive aloe",
-        "presentacion": null,
-        "precio_cup": 700.0
-      },
-      {
-        "nombre": "Jabón de baño TC",
+        "nombre": "jabon de baño TC",
         "presentacion": "gramos",
         "precio_cup": 230.0
       },
       {
-        "nombre": "Jabón total care",
+        "nombre": "jabon total care",
         "presentacion": null,
         "precio_cup": 390.0
       },
@@ -705,12 +700,12 @@
         "precio_cup": 870.0
       },
       {
-        "nombre": "Jabón jolie",
+        "nombre": "jabon jolie",
         "presentacion": "",
         "precio_cup": 130.0
       },
       {
-        "nombre": "Jabón kite",
+        "nombre": "jabon kite",
         "presentacion": "",
         "precio_cup": 140.0
       },
@@ -1006,22 +1001,22 @@
         "precio_cup": 2550.0
       },
       {
-        "nombre": "Jabón de tocador Tropical Blossom Kare",
+        "nombre": "jabon de tocador Tropical Blossom Kare",
         "presentacion": "g",
         "precio_cup": 215.0
       },
       {
-        "nombre": "Jabón de tocador Aloe Vera Kare",
+        "nombre": "jabon de tocador Aloe Vera Kare",
         "presentacion": "g",
         "precio_cup": 215.0
       },
       {
-        "nombre": "Jabón de tocador Classic Creamy Kare",
+        "nombre": "jabon de tocador Classic Creamy Kare",
         "presentacion": "g",
         "precio_cup": 215.0
       },
       {
-        "nombre": "Jabón de tocador collogne Azul Kare",
+        "nombre": "jabon de tocador collogne Azul Kare",
         "presentacion": "g",
         "precio_cup": 215.0
       },
@@ -2352,7 +2347,7 @@
         "precio_cup": 2400.0
       },
       {
-        "nombre": "Jabón tocador",
+        "nombre": "jabon tocador",
         "presentacion": "",
         "precio_cup": 150.0
       },
@@ -2459,7 +2454,7 @@
         "precio_cup": 950.0
       },
       {
-        "nombre": "Jabón de baño 60 g limón",
+        "nombre": "jabon de baño 60 g limón",
         "presentacion": null,
         "precio_cup": 120.0
       },
@@ -2534,12 +2529,12 @@
         "precio_cup": 2800.0
       },
       {
-        "nombre": "Jabón de baño",
+        "nombre": "jabon de baño",
         "presentacion": "",
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de lavar",
+        "nombre": "jabon de lavar",
         "presentacion": "",
         "precio_cup": 260.0
       },
@@ -3188,7 +3183,7 @@
         "precio_cup": 2300.0
       },
       {
-        "nombre": "Jabón de tocador",
+        "nombre": "jabon de tocador",
         "presentacion": "unidad",
         "precio_cup": 270.0
       },
@@ -3709,34 +3704,9 @@
         "precio_cup": 25000.0
       },
       {
-        "nombre": "Jabón de baño Nova",
+        "nombre": "jabon de baño Nova",
         "presentacion": null,
         "precio_cup": 350.0
-      },
-      {
-        "nombre": "Jabón líquido infantil",
-        "presentacion": null,
-        "precio_cup": 1440.0
-      },
-      {
-        "nombre": "Jabón líquido infantil grande",
-        "presentacion": null,
-        "precio_cup": 1620.0
-      },
-      {
-        "nombre": "Pack de 3 jabones de pepino DALAN",
-        "presentacion": null,
-        "precio_cup": 1050.0
-      },
-      {
-        "nombre": "Pack de 3 jabones de avellana DALAN",
-        "presentacion": null,
-        "precio_cup": 1050.0
-      },
-      {
-        "nombre": "Pack de 3 jabones de aguacate DALAN",
-        "presentacion": null,
-        "precio_cup": 1050.0
       }
     ],
     "bebida": [
@@ -4262,12 +4232,12 @@
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de tocador Limón",
+        "nombre": "jabon de tocador Limón",
         "presentacion": "g",
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de tocador Lavanda",
+        "nombre": "jabon de tocador Lavanda",
         "presentacion": "g",
         "precio_cup": 150.0
       },
@@ -4805,22 +4775,22 @@
         "precio_cup": 1446.25
       },
       {
-        "nombre": "Jabón de tocador miel y leche",
+        "nombre": "jabon de tocador miel y leche",
         "presentacion": "g",
         "precio_cup": 244.75
       },
       {
-        "nombre": "Jabón de tocador rosas",
+        "nombre": "jabon de tocador rosas",
         "presentacion": "g",
         "precio_cup": 244.75
       },
       {
-        "nombre": "JABÓN DE TOCADOR LECHE Y MIEL",
+        "nombre": "jabon DE TOCADOR LECHE Y MIEL",
         "presentacion": "g",
         "precio_cup": 289.25
       },
       {
-        "nombre": "JABÓN DE TOCADOR DE ROSAS",
+        "nombre": "jabon DE TOCADOR DE ROSAS",
         "presentacion": "g",
         "precio_cup": 289.25
       },
@@ -5056,11 +5026,6 @@
         "precio_cup": 170.0
       },
       {
-        "nombre": "Jabón de manos",
-        "presentacion": "ml",
-        "precio_cup": 990.0
-      },
-      {
         "nombre": "Suavizante de ropa",
         "presentacion": "l",
         "precio_cup": 2690.0
@@ -5247,22 +5212,22 @@
         "precio_cup": 990.0
       },
       {
-        "nombre": "Jabón de baño violeta",
+        "nombre": "jabon de baño violeta",
         "presentacion": "g",
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de baño rosas",
+        "nombre": "jabon de baño rosas",
         "presentacion": "g",
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de leche y miel",
+        "nombre": "jabon de leche y miel",
         "presentacion": "g",
         "precio_cup": 150.0
       },
       {
-        "nombre": "Jabón de limón",
+        "nombre": "jabon de limón",
         "presentacion": "g",
         "precio_cup": 150.0
       },
@@ -5892,16 +5857,6 @@
         "precio_cup": 867.75
       },
       {
-        "nombre": "Jabón Palmolive",
-        "presentacion": "g",
-        "precio_cup": 801.0
-      },
-      {
-        "nombre": "Jabón de lavar",
-        "presentacion": "g",
-        "precio_cup": 1388.4
-      },
-      {
         "nombre": "Detergente en Polvo",
         "presentacion": "kg",
         "precio_cup": 1014.6
@@ -6481,7 +6436,7 @@
         "precio_cup": 1050.0
       },
       {
-        "nombre": "Jabón de baño",
+        "nombre": "jabon de baño",
         "presentacion": null,
         "precio_cup": 160.0
       },
@@ -6806,12 +6761,12 @@
         "precio_cup": 145.0
       },
       {
-        "nombre": "Jabón Marwa Melocoton",
+        "nombre": "jabon Marwa Melocoton",
         "presentacion": "g",
         "precio_cup": 145.0
       },
       {
-        "nombre": "Jabón Marwa Limón",
+        "nombre": "jabon Marwa Limón",
         "presentacion": "g",
         "precio_cup": 145.0
       }

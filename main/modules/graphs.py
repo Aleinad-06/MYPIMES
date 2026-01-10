@@ -6,6 +6,23 @@ def  promedio(num: list):
 
 #---------------------------------
 
+def mediana(datos):
+    if len(datos) == 0:
+        return 0
+    
+    datos_ordenados = sorted(datos)
+    n = len(datos_ordenados)
+    
+    if n % 2 == 1:
+        return datos_ordenados[n // 2]
+
+    else:
+        medio1 = datos_ordenados[n // 2 - 1]
+        medio2 = datos_ordenados[n // 2]
+        return (medio1 + medio2) / 2
+    
+#---------------------------------
+
 def porciento(parte, total):
     return parte/total
 
@@ -181,3 +198,9 @@ def cbasica(canasta_basica):
     return cb_nombre_productos, cb_productos
 
 #---------------------------------
+
+def canasta_b(canasta):
+    cb_productos = []
+    for i in canasta["productos"]:
+        cb_productos.append(i)
+    return cb_productos
